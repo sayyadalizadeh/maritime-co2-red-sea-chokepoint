@@ -1,0 +1,13 @@
+principle,row,placebo_date,n_pseudo_robust,pseudo_robust_list,mean_count,max_count,actual_robust,n_dates_count_ge_actual
+residence,date,2020-12,2,FRA LTU,,,,
+residence,date,2021-06,0,,,,,
+residence,date,2021-12,5,GRC JOR MAR MOZ SVN,,,,
+residence,date,2022-06,4,CMR GEO MLT SGP,,,,
+residence,date,2022-12,7,ARE FIN IRL QAT SEN SYC TUR,,,,
+residence,summary,all,,,3.6,7,11,0
+departure,date,2020-12,2,BGD SYC,,,,
+departure,date,2021-06,1,QAT,,,,
+departure,date,2021-12,7,BHR DEU DZA GRC ITA KAZ NLD,,,,
+departure,date,2022-06,2,IDN MLT,,,,
+departure,date,2022-12,4,CIV GHA TWN TZA,,,,
+departure,summary,all,,,3.2,7,9,0

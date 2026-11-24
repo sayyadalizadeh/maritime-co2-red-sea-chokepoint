@@ -1,0 +1,29 @@
+check,definition,expected,obtained,abs_diff,pass
+rows,Daily rows,79940,79940,0,true
+first_date,First date,2019-01-01,2019-01-01,0,true
+last_date,Last date,2026-10-25,2026-10-25,0,true
+chokepoints,Distinct portid,28,28,0,true
+days_per_chokepoint,Distinct dates per chokepoint (min-max),2855-2855,2855-2855,0,true
+duplicate_days,Rows duplicated on portid x date,0,0,0,true
+monthly_rows,Rows in the monthly table,2632,2632,0,true
+days_observed_2026_10,Days observed in 2026-10 (min-max over chokepoints),25-25,25-25,0,true
+partial_months,Months flagged as partial,2026-10,2026-10,0,true
+suez_n_total_2023,"Mean of monthly means of daily transits, Suez Canal, n_total, 2023",73.7,73.7,0.0,true
+suez_n_total_2024,"Mean of monthly means of daily transits, Suez Canal, n_total, 2024",39.6,39.6,0.0,true
+suez_n_total_2025,"Mean of monthly means of daily transits, Suez Canal, n_total, 2025",38.5,38.5,0.0,true
+suez_n_container_2023,"Mean of monthly means of daily transits, Suez Canal, n_container, 2023",19.1,19.1,0.0,true
+suez_n_container_2024,"Mean of monthly means of daily transits, Suez Canal, n_container, 2024",8.7,8.7,0.0,true
+suez_n_container_2025,"Mean of monthly means of daily transits, Suez Canal, n_container, 2025",9.2,9.2,0.0,true
+suez_change_2024_vs_2023_container,"(annual 2024 / annual 2023 - 1) x 100, Suez Canal, n_container, %",-54,-54,0,true
+suez_change_2024_vs_2023_dry_bulk,"(annual 2024 / annual 2023 - 1) x 100, Suez Canal, n_dry_bulk, %",-41,-41,0,true
+suez_change_2024_vs_2023_tanker,"(annual 2024 / annual 2023 - 1) x 100, Suez Canal, n_tanker, %",-44,-44,0,true
+suez_change_2024_vs_2023_general_cargo,"(annual 2024 / annual 2023 - 1) x 100, Suez Canal, n_general_cargo, %",-29,-29,0,true
+suez_change_2024_vs_2023_roro,"(annual 2024 / annual 2023 - 1) x 100, Suez Canal, n_roro, %",-82,-82,0,true
+suez_change_2024_vs_2023_total,"(annual 2024 / annual 2023 - 1) x 100, Suez Canal, n_total, %",-46,-46,0,true
+hormuz_n_total_2025,"Mean of monthly means, Strait of Hormuz, n_total, 2025",85.5,85.5,0.0,true
+hormuz_change_2025-10,"(monthly mean / 2025 mean - 1) x 100, Strait of Hormuz, n_total, 2025-10, %",5,5,0,true
+hormuz_change_2025-11,"(monthly mean / 2025 mean - 1) x 100, Strait of Hormuz, n_total, 2025-11, %",-21,-21,0,true
+hormuz_change_2025-12,"(monthly mean / 2025 mean - 1) x 100, Strait of Hormuz, n_total, 2025-12, %",-35,-35,0,true
+hormuz_change_2026-01,"(monthly mean / 2025 mean - 1) x 100, Strait of Hormuz, n_total, 2026-01, %",-32,-32,0,true
+hormuz_change_2026-02,"(monthly mean / 2025 mean - 1) x 100, Strait of Hormuz, n_total, 2026-02, %",-8,-8,0,true
+hormuz_change_2026-03,"(monthly mean / 2025 mean - 1) x 100, Strait of Hormuz, n_total, 2026-03, %",-96,-96,0,true

@@ -1,0 +1,5 @@
+check,definition,expected,obtained,abs_diff,pass
+W0_main_S1_equals_main,"W0 main S1 total equals rsd2_summary.csv, Mt",41.026991,41.026991,0.000000,true
+W0_main_S2_equals_main,"W0 main S2 total equals rsd2_summary.csv, Mt",29.504312,29.504312,0.000000,true
+W0_B1_S1_equals_main,"W0 B1 S1 total equals rsd2_summary.csv, Mt",39.504236,39.504236,0.000000,true
+W0_B1_S2_equals_main,"W0 B1 S2 total equals rsd2_summary.csv, Mt",55.040637,55.040637,0.000000,true

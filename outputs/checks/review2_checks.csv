@@ -1,0 +1,41 @@
+check,definition,expected,obtained,abs_diff,pass
+review2_gross_none_RES_TOTAL,"(a) RES_TOTAL S1, exclusion set none: gains, losses (% and Mt), counterfactual, placebo maxima and ranks equal rolling_placebo_gross.csv (RS-D32), max |diff| = 0",identical,"max |diff| 0; ranks 1 of 14, 1 of 14",0,true
+review2_gross_none_TER_INT,"(a) TER_INT S1, exclusion set none: gains, losses (% and Mt), counterfactual, placebo maxima and ranks equal rolling_placebo_gross.csv (RS-D32), max |diff| = 0",identical,"max |diff| 0; ranks 1 of 13, 1 of 13",0,true
+review2_sigma_z_RES_TOTAL,(c) RES_TOTAL: sigma_u and z_u recomputed from rolling_placebo_runs.csv equal rolling_placebo_units.csv (max |diff| <= 1e-12),agree,0,0,true
+review2_bh_RES_TOTAL,"(b) RES_TOTAL: Benjamini-Hochberg (q = 0.10) recomputed from p_u reproduces the RS-D31 candidate list (rolling_placebo_bh.csv), the unit flags and the adjusted p-values",AZE GIN HKG KAZ MLT MUS OMN SEN SYC,AZE GIN HKG KAZ MLT MUS OMN SEN SYC,0,true
+review2_by_two_ways_RES_TOTAL,(b) RES_TOTAL: Benjamini-Yekutieli step-up list equals the list from BY-adjusted p-values <= 0.10,identical,8 vs 8,,true
+review2_by_subset_RES_TOTAL,(b) RES_TOTAL: BY list is a subset of the BH list,subset,BY 8 of BH 9,,true
+review2_sigma_z_TER_INT,(c) TER_INT: sigma_u and z_u recomputed from rolling_placebo_runs.csv equal rolling_placebo_units.csv (max |diff| <= 1e-12),agree,0,0,true
+review2_bh_TER_INT,"(b) TER_INT: Benjamini-Hochberg (q = 0.10) recomputed from p_u reproduces the RS-D31 candidate list (rolling_placebo_bh.csv), the unit flags and the adjusted p-values",AZE EGY LBN LKA MUS,AZE EGY LBN LKA MUS,0,true
+review2_by_two_ways_TER_INT,(b) TER_INT: Benjamini-Yekutieli step-up list equals the list from BY-adjusted p-values <= 0.10,identical,0 vs 0,,true
+review2_by_subset_TER_INT,(b) TER_INT: BY list is a subset of the BH list,subset,BY 0 of BH 5,,true
+review2_sigma_z_RES_INT,(c) RES_INT: sigma_u and z_u recomputed from rolling_placebo_runs.csv equal rolling_placebo_units.csv (max |diff| <= 1e-12),agree,0,0,true
+review2_bh_RES_INT,"(b) RES_INT: Benjamini-Hochberg (q = 0.10) recomputed from p_u reproduces the RS-D31 candidate list (rolling_placebo_bh.csv), the unit flags and the adjusted p-values",AZE KAZ LKA MHL MOZ MUS PHL SYC TUR TZA,AZE KAZ LKA MHL MOZ MUS PHL SYC TUR TZA,0,true
+review2_by_two_ways_RES_INT,(b) RES_INT: Benjamini-Yekutieli step-up list equals the list from BY-adjusted p-values <= 0.10,identical,0 vs 0,,true
+review2_by_subset_RES_INT,(b) RES_INT: BY list is a subset of the BH list,subset,BY 0 of BH 10,,true
+review2_fw_in_range,"(c) family-wise p-values (S1, S2, combined; all series) lie in (0, 1]","(0, 1]",0.07143-1,,true
+review2_r17_residence_pool,(d) residence: R17 pool equals the R0 pool minus the removed members (none),29,29,,true
+review2_r17_residence_equals_R0,"(d) residence: no hub economy is a pool member, so R17 equals R0; the unit table equals rsd4 units (max |diff| / max(1, |value|) over numeric columns <= 1e-9)",agree,1.23e-10,1.23e-10,true
+review2_r17_residence_placebo_runs,"(d) residence: placebo runs (5 dates x S1, S2)",10,10,,true
+review2_r17_departure_pool,(d) departure: R17 pool equals the R0 pool minus the removed members (GIB PAN BHS MHL),30,30,,true
+review2_r17_departure_R0_reproduced,"(d) departure: the R17 routine with the R0 pool reproduces rsd4 units (max |diff| / max(1, |value|) over numeric columns <= 1e-9)",agree,4.86e-11,4.86e-11,true
+review2_r17_departure_placebo_runs,"(d) departure: placebo runs (5 dates x S1, S2)",10,10,,true
+review2_rq3_added_not_controls,(e) HKG and JPN are non-control residence economies (both enter the regression),none in pool,none in pool,,true
+review2_rq3_table4_S1,"(e) residence S1: main-HQ rows reproduce Table 4 (tab_rq3.csv cells: coefficient (SE), n, R2) and rq3_coefficients.csv (max |diff| <= 1e-9)",identical,cells differing: none; max |diff| 0,0,true
+review2_rq3_table4_S2,"(e) residence S2: main-HQ rows reproduce Table 4 (tab_rq3.csv cells: coefficient (SE), n, R2) and rq3_coefficients.csv (max |diff| <= 1e-9)",identical,cells differing: none; max |diff| 7.11e-15,7.11e-15,true
+review2_w6_design_S1,(f) generalised design with first_b = 2020-01 equals design.fe_design on the RS-D2 main sample (S1),identical,identical,,true
+review2_w6_design_S2,(f) generalised design with first_b = 2020-01 equals design.fe_design on the RS-D2 main sample (S2),identical,identical,,true
+review2_w6_estimator_S1,"(f) generalised estimator on the RS-D2 main sample reproduces rsd2 container and total excess (S1, Mt, |diff| <= 1e-6)",agree,7.11e-15,7.11e-15,true
+review2_w6_estimator_S2,"(f) generalised estimator on the RS-D2 main sample reproduces rsd2 container and total excess (S2, Mt, |diff| <= 1e-6)",agree,7.11e-15,7.11e-15,true
+review2_w6_pretrend_reproduced,"(f) generalised pre-trend test on the main sample reproduces pretrend_aggregate.csv (container: gamma_h, se, Wald; max |diff| <= 1e-9)",agree,8.33e-17,8.33e-17,true
+review2_w6_dense_S1,(f) W6 S1: sparse fit equals a dense minimum-norm least-squares fit (max |fitted diff| <= 1e-8; dense rank 256 = parameters 256),agree,4.15e-13,4.15e-13,true
+review2_w6_dense_S2,(f) W6 S2: sparse fit equals a dense minimum-norm least-squares fit (max |fitted diff| <= 1e-8; dense rank 273 = parameters 273),agree,5.33e-13,5.33e-13,true
+review2_w6_rows,"(f) W6 rows: 4 estimates (container, total x S1, S2), 4 placebo rows, 12 pre-trend terms, 1 joint test (+1 reference row)",4; 4; 12; 2,4; 4; 12; 2,,true
+review2_stab_gross_exclusions,stab_rev2_gross_exclusions.csv: same cells as outputs/tables/review2_gross_exclusions.csv,identical,36 rows,,true
+review2_stab_multiple_testing,stab_rev2_multiple_testing.csv: same cells as outputs/tables/review2_multiple_testing.csv,identical,272 rows,,true
+review2_stab_multiple_testing_summary,stab_rev2_multiple_testing_summary.csv: same cells as outputs/tables/review2_multiple_testing_summary.csv,identical,3 rows,,true
+review2_stab_familywise_dates,stab_rev2_familywise_dates.csv: same cells as outputs/tables/review2_familywise_dates.csv,identical,74 rows,,true
+review2_stab_r17_economies,stab_rev2_r17_economies.csv: same cells as outputs/tables/review2_r17_economies.csv,identical,247 rows,,true
+review2_stab_r17_summary,stab_rev2_r17_summary.csv: same cells as outputs/tables/review2_r17_summary.csv,identical,4 rows,,true
+review2_stab_rq3_hq,stab_rev2_rq3_hq.csv: same cells as outputs/tables/review2_rq3_hq.csv,identical,30 rows,,true
+review2_stab_w6,stab_rev2_w6.csv: same cells as outputs/tables/review2_w6.csv,identical,22 rows,,true

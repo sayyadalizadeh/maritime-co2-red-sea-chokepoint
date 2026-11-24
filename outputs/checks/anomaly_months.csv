@@ -1,0 +1,251 @@
+principle,window,period,n_flagged_larger_half,n_flagged_all,system_wide
+residence,main,2019-01,0,0,False
+residence,main,2019-02,0,2,False
+residence,main,2019-03,0,1,False
+residence,main,2019-04,0,2,False
+residence,main,2019-05,0,1,False
+residence,main,2019-06,0,0,False
+residence,main,2019-07,0,2,False
+residence,main,2019-08,0,1,False
+residence,main,2019-09,0,1,False
+residence,main,2019-10,0,1,False
+residence,main,2019-11,0,2,False
+residence,main,2019-12,0,1,False
+residence,main,2020-01,0,1,False
+residence,main,2020-02,0,1,False
+residence,main,2020-03,0,1,False
+residence,main,2020-04,1,2,False
+residence,main,2020-05,0,1,False
+residence,main,2020-06,0,1,False
+residence,main,2020-07,0,1,False
+residence,main,2020-08,0,1,False
+residence,main,2020-09,0,0,False
+residence,main,2020-10,0,1,False
+residence,main,2020-11,0,1,False
+residence,main,2020-12,0,1,False
+residence,main,2021-01,0,1,False
+residence,main,2021-02,0,2,False
+residence,main,2021-03,0,1,False
+residence,main,2021-04,0,0,False
+residence,main,2021-05,0,2,False
+residence,main,2021-06,0,1,False
+residence,main,2021-07,0,1,False
+residence,main,2021-08,0,1,False
+residence,main,2021-09,0,0,False
+residence,main,2021-10,0,1,False
+residence,main,2021-11,0,2,False
+residence,main,2021-12,0,3,False
+residence,main,2022-01,0,2,False
+residence,main,2022-02,0,2,False
+residence,main,2022-03,0,1,False
+residence,main,2022-04,0,3,False
+residence,main,2022-05,0,2,False
+residence,main,2022-06,0,1,False
+residence,main,2022-07,0,2,False
+residence,main,2022-08,0,0,False
+residence,main,2022-09,0,0,False
+residence,main,2022-10,0,2,False
+residence,main,2022-11,0,2,False
+residence,main,2022-12,0,1,False
+residence,main,2023-01,0,1,False
+residence,main,2023-02,0,0,False
+residence,main,2023-03,0,1,False
+residence,main,2023-04,0,0,False
+residence,main,2023-05,0,1,False
+residence,main,2023-06,0,1,False
+residence,main,2023-07,0,1,False
+residence,main,2023-08,0,3,False
+residence,main,2023-09,0,1,False
+residence,main,2023-10,0,2,False
+residence,main,2023-11,0,2,False
+residence,main,2023-12,0,2,False
+residence,main,2024-01,0,1,False
+residence,main,2024-02,0,1,False
+residence,main,2024-03,0,0,False
+residence,main,2024-04,0,1,False
+residence,main,2024-05,0,2,False
+residence,main,2024-06,0,1,False
+residence,main,2024-07,0,2,False
+residence,main,2024-08,0,1,False
+residence,main,2024-09,0,1,False
+residence,main,2024-10,0,0,False
+residence,main,2024-11,0,1,False
+residence,main,2024-12,0,2,False
+residence,main,2025-01,0,1,False
+residence,main,2025-02,0,0,False
+residence,main,2025-03,0,0,False
+residence,main,2025-04,0,1,False
+residence,main,2025-05,0,1,False
+residence,main,2025-06,0,0,False
+residence,main,2025-07,0,0,False
+residence,main,2025-08,0,1,False
+residence,main,2025-09,0,0,False
+residence,main,2025-10,0,0,False
+departure,main,2019-01,1,6,False
+departure,main,2019-02,0,2,False
+departure,main,2019-03,0,5,False
+departure,main,2019-04,0,3,False
+departure,main,2019-05,0,2,False
+departure,main,2019-06,0,3,False
+departure,main,2019-07,0,5,False
+departure,main,2019-08,0,5,False
+departure,main,2019-09,1,5,False
+departure,main,2019-10,0,1,False
+departure,main,2019-11,0,3,False
+departure,main,2019-12,0,5,False
+departure,main,2020-01,0,10,False
+departure,main,2020-02,0,4,False
+departure,main,2020-03,0,4,False
+departure,main,2020-04,0,7,False
+departure,main,2020-05,0,3,False
+departure,main,2020-06,0,6,False
+departure,main,2020-07,0,4,False
+departure,main,2020-08,0,5,False
+departure,main,2020-09,0,6,False
+departure,main,2020-10,0,2,False
+departure,main,2020-11,0,3,False
+departure,main,2020-12,0,5,False
+departure,main,2021-01,0,9,False
+departure,main,2021-02,0,7,False
+departure,main,2021-03,0,7,False
+departure,main,2021-04,0,5,False
+departure,main,2021-05,0,4,False
+departure,main,2021-06,0,5,False
+departure,main,2021-07,0,4,False
+departure,main,2021-08,0,5,False
+departure,main,2021-09,0,5,False
+departure,main,2021-10,0,5,False
+departure,main,2021-11,0,4,False
+departure,main,2021-12,0,9,False
+departure,main,2022-01,0,6,False
+departure,main,2022-02,0,9,False
+departure,main,2022-03,0,4,False
+departure,main,2022-04,0,7,False
+departure,main,2022-05,0,9,False
+departure,main,2022-06,0,7,False
+departure,main,2022-07,0,6,False
+departure,main,2022-08,0,5,False
+departure,main,2022-09,0,9,False
+departure,main,2022-10,0,3,False
+departure,main,2022-11,0,3,False
+departure,main,2022-12,0,4,False
+departure,main,2023-01,0,5,False
+departure,main,2023-02,0,3,False
+departure,main,2023-03,0,5,False
+departure,main,2023-04,0,3,False
+departure,main,2023-05,0,3,False
+departure,main,2023-06,0,4,False
+departure,main,2023-07,0,4,False
+departure,main,2023-08,0,4,False
+departure,main,2023-09,0,12,False
+departure,main,2023-10,0,6,False
+departure,main,2023-11,10,26,True
+departure,main,2023-12,0,14,False
+departure,main,2024-01,2,13,False
+departure,main,2024-02,1,9,False
+departure,main,2024-03,0,7,False
+departure,main,2024-04,0,6,False
+departure,main,2024-05,0,5,False
+departure,main,2024-06,0,2,False
+departure,main,2024-07,0,2,False
+departure,main,2024-08,1,7,False
+departure,main,2024-09,0,17,False
+departure,main,2024-10,0,9,False
+departure,main,2024-11,0,7,False
+departure,main,2024-12,0,6,False
+departure,main,2025-01,0,10,False
+departure,main,2025-02,0,4,False
+departure,main,2025-03,0,2,False
+departure,main,2025-04,0,3,False
+departure,main,2025-05,0,4,False
+departure,main,2025-06,0,4,False
+departure,main,2025-07,0,4,False
+departure,main,2025-08,0,2,False
+departure,main,2025-09,0,8,False
+departure,main,2025-10,0,7,False
+residence,residence sensitivity,2019-01,0,0,False
+residence,residence sensitivity,2019-02,0,2,False
+residence,residence sensitivity,2019-03,0,1,False
+residence,residence sensitivity,2019-04,0,2,False
+residence,residence sensitivity,2019-05,0,1,False
+residence,residence sensitivity,2019-06,0,0,False
+residence,residence sensitivity,2019-07,0,2,False
+residence,residence sensitivity,2019-08,0,1,False
+residence,residence sensitivity,2019-09,0,1,False
+residence,residence sensitivity,2019-10,0,1,False
+residence,residence sensitivity,2019-11,0,2,False
+residence,residence sensitivity,2019-12,0,1,False
+residence,residence sensitivity,2020-01,0,1,False
+residence,residence sensitivity,2020-02,0,1,False
+residence,residence sensitivity,2020-03,0,1,False
+residence,residence sensitivity,2020-04,1,2,False
+residence,residence sensitivity,2020-05,0,1,False
+residence,residence sensitivity,2020-06,0,1,False
+residence,residence sensitivity,2020-07,0,1,False
+residence,residence sensitivity,2020-08,0,1,False
+residence,residence sensitivity,2020-09,0,0,False
+residence,residence sensitivity,2020-10,0,1,False
+residence,residence sensitivity,2020-11,0,1,False
+residence,residence sensitivity,2020-12,0,1,False
+residence,residence sensitivity,2021-01,0,1,False
+residence,residence sensitivity,2021-02,0,2,False
+residence,residence sensitivity,2021-03,0,1,False
+residence,residence sensitivity,2021-04,0,0,False
+residence,residence sensitivity,2021-05,0,2,False
+residence,residence sensitivity,2021-06,0,1,False
+residence,residence sensitivity,2021-07,0,1,False
+residence,residence sensitivity,2021-08,0,1,False
+residence,residence sensitivity,2021-09,0,0,False
+residence,residence sensitivity,2021-10,0,1,False
+residence,residence sensitivity,2021-11,0,2,False
+residence,residence sensitivity,2021-12,0,3,False
+residence,residence sensitivity,2022-01,0,2,False
+residence,residence sensitivity,2022-02,0,2,False
+residence,residence sensitivity,2022-03,0,1,False
+residence,residence sensitivity,2022-04,0,3,False
+residence,residence sensitivity,2022-05,0,2,False
+residence,residence sensitivity,2022-06,0,1,False
+residence,residence sensitivity,2022-07,0,2,False
+residence,residence sensitivity,2022-08,0,0,False
+residence,residence sensitivity,2022-09,0,0,False
+residence,residence sensitivity,2022-10,0,2,False
+residence,residence sensitivity,2022-11,0,2,False
+residence,residence sensitivity,2022-12,0,1,False
+residence,residence sensitivity,2023-01,0,1,False
+residence,residence sensitivity,2023-02,0,0,False
+residence,residence sensitivity,2023-03,0,1,False
+residence,residence sensitivity,2023-04,0,0,False
+residence,residence sensitivity,2023-05,0,1,False
+residence,residence sensitivity,2023-06,0,1,False
+residence,residence sensitivity,2023-07,0,1,False
+residence,residence sensitivity,2023-08,0,3,False
+residence,residence sensitivity,2023-09,0,1,False
+residence,residence sensitivity,2023-10,0,2,False
+residence,residence sensitivity,2023-11,0,2,False
+residence,residence sensitivity,2023-12,0,2,False
+residence,residence sensitivity,2024-01,0,1,False
+residence,residence sensitivity,2024-02,0,1,False
+residence,residence sensitivity,2024-03,0,0,False
+residence,residence sensitivity,2024-04,0,1,False
+residence,residence sensitivity,2024-05,0,2,False
+residence,residence sensitivity,2024-06,0,1,False
+residence,residence sensitivity,2024-07,0,2,False
+residence,residence sensitivity,2024-08,0,1,False
+residence,residence sensitivity,2024-09,0,1,False
+residence,residence sensitivity,2024-10,0,0,False
+residence,residence sensitivity,2024-11,0,1,False
+residence,residence sensitivity,2024-12,0,2,False
+residence,residence sensitivity,2025-01,0,1,False
+residence,residence sensitivity,2025-02,0,0,False
+residence,residence sensitivity,2025-03,0,0,False
+residence,residence sensitivity,2025-04,0,1,False
+residence,residence sensitivity,2025-05,0,1,False
+residence,residence sensitivity,2025-06,0,0,False
+residence,residence sensitivity,2025-07,0,0,False
+residence,residence sensitivity,2025-08,0,1,False
+residence,residence sensitivity,2025-09,0,2,False
+residence,residence sensitivity,2025-10,0,1,False
+residence,residence sensitivity,2025-11,0,2,False
+residence,residence sensitivity,2025-12,0,2,False
+residence,residence sensitivity,2026-01,0,2,False
+residence,residence sensitivity,2026-02,0,2,False

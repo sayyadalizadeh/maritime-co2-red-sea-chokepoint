@@ -1,0 +1,72 @@
+check,definition,expected,obtained,abs_diff,pass
+rows_all,All data rows in the file,427861,427861,0,true
+areas,Distinct REF_AREA codes,219,219,0,true
+rows_freq_M,Rows with FREQ == M,301378,301378,0,true
+rows_freq_Q,Rows with FREQ == Q,102346,102346,0,true
+rows_freq_A,Rows with FREQ == A,24137,24137,0,true
+units,Distinct UNIT_MEASURE/UNIT_MULT pairs,T/0,T/0,0,true
+W_RES_TOTAL_first,"First month, W RES_TOTAL ALL_VESSELS",2019-01,2019-01,0,true
+W_RES_TOTAL_last,"Last month, W RES_TOTAL ALL_VESSELS",2026-09,2026-09,0,true
+W_RES_TOTAL_n,"Number of months, W RES_TOTAL ALL_VESSELS",93,93,0,true
+last_month_RES_DOM_IN,"Latest month of RES_DOM_IN in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_RES_DOM_OUT,"Latest month of RES_DOM_OUT in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_NRES_DOM_IN,"Latest month of NRES_DOM_IN in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_RES_INT_FROM,"Latest month of RES_INT_FROM in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_RES_INT_TO,"Latest month of RES_INT_TO in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_RES_INT_OUT,"Latest month of RES_INT_OUT in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_NRES_INT_FROM,"Latest month of NRES_INT_FROM in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_TER_DOM,"Latest month of TER_DOM in any area, ALL_VESSELS",2026-06,2026-06,0,true
+last_month_TER_INT,"Latest month of TER_INT in any area, ALL_VESSELS",2026-06,2026-06,0,true
+W_RES_TOTAL_2019,"Sum of monthly W RES_TOTAL ALL_VESSELS in 2019, Mt",889.391,889.391,0.000,true
+W_RES_TOTAL_2020,"Sum of monthly W RES_TOTAL ALL_VESSELS in 2020, Mt",854.614,854.614,0.000,true
+W_RES_TOTAL_2021,"Sum of monthly W RES_TOTAL ALL_VESSELS in 2021, Mt",893.612,893.612,0.000,true
+W_RES_TOTAL_2022,"Sum of monthly W RES_TOTAL ALL_VESSELS in 2022, Mt",911.824,911.824,0.000,true
+W_RES_TOTAL_2023,"Sum of monthly W RES_TOTAL ALL_VESSELS in 2023, Mt",920.036,920.036,0.000,true
+W_RES_TOTAL_2024,"Sum of monthly W RES_TOTAL ALL_VESSELS in 2024, Mt",972.682,972.682,0.000,true
+W_RES_TOTAL_2025,"Sum of monthly W RES_TOTAL ALL_VESSELS in 2025, Mt",985.924,985.924,0.000,true
+W_RES_TOTAL_2023-11,"W RES_TOTAL ALL_VESSELS in 2023-11, Mt",75.792,75.792,0.000,true
+W_RES_TOTAL_2023-12,"W RES_TOTAL ALL_VESSELS in 2023-12, Mt",78.055,78.055,0.000,true
+W_RES_TOTAL_2024-01,"W RES_TOTAL ALL_VESSELS in 2024-01, Mt",79.142,79.142,0.000,true
+W_RES_TOTAL_2025-09,"W RES_TOTAL ALL_VESSELS in 2025-09, Mt",86.811,86.811,0.000,true
+W_RES_TOTAL_2025-10,"W RES_TOTAL ALL_VESSELS in 2025-10, Mt",84.096,84.096,0.000,true
+W_RES_TOTAL_2026-02,"W RES_TOTAL ALL_VESSELS in 2026-02, Mt",75.716,75.716,0.000,true
+W_RES_TOTAL_CONTAINER_2023,"Sum of monthly W RES_TOTAL CONTAINER in 2023, Mt",210.985,210.985,0.000,true
+W_RES_TOTAL_CONTAINER_2024,"Sum of monthly W RES_TOTAL CONTAINER in 2024, Mt",245.204,245.204,0.000,true
+W_RES_TOTAL_CONTAINER_2025,"Sum of monthly W RES_TOTAL CONTAINER in 2025, Mt",254.296,254.296,0.000,true
+CHE_RES_TOTAL_2023,"Sum of monthly CHE RES_TOTAL ALL_VESSELS in 2023, Mt",39.53,39.534,0.004,true
+CHE_RES_TOTAL_2024,"Sum of monthly CHE RES_TOTAL ALL_VESSELS in 2024, Mt",47.71,47.710,0.000,true
+CHE_RES_TOTAL_2025,"Sum of monthly CHE RES_TOTAL ALL_VESSELS in 2025, Mt",52.88,52.878,0.002,true
+DNK_RES_TOTAL_2023,"Sum of monthly DNK RES_TOTAL ALL_VESSELS in 2023, Mt",45.49,45.485,0.005,true
+DNK_RES_TOTAL_2024,"Sum of monthly DNK RES_TOTAL ALL_VESSELS in 2024, Mt",47.96,47.960,0.000,true
+DNK_RES_TOTAL_2025,"Sum of monthly DNK RES_TOTAL ALL_VESSELS in 2025, Mt",46.95,46.950,0.000,true
+EGY_TER_INT_2023,"Sum of monthly EGY TER_INT ALL_VESSELS in 2023, Mt",25.97,25.969,0.001,true
+EGY_TER_INT_2024,"Sum of monthly EGY TER_INT ALL_VESSELS in 2024, Mt",13.46,13.458,0.002,true
+EGY_TER_INT_2025,"Sum of monthly EGY TER_INT ALL_VESSELS in 2025, Mt",13.22,13.224,0.004,true
+MYS_TER_INT_2023,"Sum of monthly MYS TER_INT ALL_VESSELS in 2023, Mt",47.29,47.289,0.001,true
+MYS_TER_INT_2024,"Sum of monthly MYS TER_INT ALL_VESSELS in 2024, Mt",61.65,61.653,0.003,true
+MYS_TER_INT_2025,"Sum of monthly MYS TER_INT ALL_VESSELS in 2025, Mt",72.28,72.277,0.003,true
+panel_RES_TOTAL_any,Economies with any RES_TOTAL value in 2019-01..2025-10,159,159,0,true
+panel_RES_TOTAL_complete,Economies with all 82 months of RES_TOTAL in the window,140,140,0,true
+panel_TER_INT_any,Economies with any TER_INT value in 2019-01..2025-10,178,178,0,true
+panel_TER_INT_complete,Economies with all 82 months of TER_INT in the window,137,137,0,true
+panel_both_complete,Economies complete in both RES_TOTAL and TER_INT,133,133,0,true
+CHE_RES_TOTAL_complete,CHE RES_TOTAL complete in the window,True,True,0,true
+CHE_TER_INT_months,Months with a CHE TER_INT value in the window,4,4,0,true
+sep_anomaly_residence_2025,"Median across economies of per-day Sep / mean(per-day Aug, per-day Oct) (Aug 31, Sep 30, Oct 31 days); ALL_VESSELS; economies complete in 2019-01..2025-10 (residence: RES_TOTAL; territory: TER_DOM and TER_INT); territory = TER_DOM + TER_INT; 140 economies",1.0415,1.0415,0.0000,true
+sep_anomaly_residence_2019_2024,"Median across economies of per-day Sep / mean(per-day Aug, per-day Oct) (Aug 31, Sep 30, Oct 31 days); ALL_VESSELS; economies complete in 2019-01..2025-10 (residence: RES_TOTAL; territory: TER_DOM and TER_INT); territory = TER_DOM + TER_INT; range over 2019-2024",1.0000-1.0060,1.0000-1.0060,0.0000,true
+sep_anomaly_territory_2025,"Median across economies of per-day Sep / mean(per-day Aug, per-day Oct) (Aug 31, Sep 30, Oct 31 days); ALL_VESSELS; economies complete in 2019-01..2025-10 (residence: RES_TOTAL; territory: TER_DOM and TER_INT); territory = TER_DOM + TER_INT; 136 economies",1.0519,1.0519,0.0000,true
+sep_anomaly_territory_2019_2024,"Median across economies of per-day Sep / mean(per-day Aug, per-day Oct) (Aug 31, Sep 30, Oct 31 days); ALL_VESSELS; economies complete in 2019-01..2025-10 (residence: RES_TOTAL; territory: TER_DOM and TER_INT); territory = TER_DOM + TER_INT; range over 2019-2024",0.9762-1.0071,0.9762-1.0071,0.0000,true
+world_dom_share_2025-12,"TER_DOM / (TER_DOM + TER_INT) x 100, W, ALL_VESSELS, 2025-12",26.5,26.5,0.0,true
+world_dom_share_2026-06,"TER_DOM / (TER_DOM + TER_INT) x 100, W, ALL_VESSELS, 2026-06",37.1,37.1,0.0,true
+world_int_share_2019_02_2021_10_excl_jan,"100 - domestic share, W, ALL_VESSELS; range 2019-02..2021-10, January months excluded",73.1-75.1,73.1-75.1,0.0,true
+world_int_share_2019-01,"100 - domestic share, W, ALL_VESSELS, 2019-01",69.3,69.3,0.0,true
+world_int_share_2020-01,"100 - domestic share, W, ALL_VESSELS, 2020-01",69.8,69.8,0.0,true
+world_int_share_2021-01,"100 - domestic share, W, ALL_VESSELS, 2021-01",70.1,70.1,0.0,true
+world_int_share_2021_11,"100 - domestic share, W, ALL_VESSELS, 2021-11",72.1,72.1,0.0,true
+world_int_share_2021_12_2022_10,"100 - domestic share, W, ALL_VESSELS; range 2021-12..2022-10",64.4-67.6,64.4-67.6,0.0,true
+world_int_share_2023_11,"100 - domestic share, W, ALL_VESSELS, 2023-11",62.9,62.9,0.0,true
+res_vs_components_positive_from,"(RES_TOTAL / (A+B+D+E+F) - 1) x 100, W, ALL_VESSELS; first month from which the gap stays > 0",2025-02,2025-02,0,true
+res_vs_components_max,"(RES_TOTAL / (A+B+D+E+F) - 1) x 100, W, ALL_VESSELS; maximum (in 2025-09)",0.72,0.72,0.00,true
+res_vs_components_max_month,"(RES_TOTAL / (A+B+D+E+F) - 1) x 100, W, ALL_VESSELS; month of the maximum",2025-09,2025-09,0,true
+world_balance_B_eq_C,"max |B - C| over months <= 0.001 t, W",True,True,0,true
+world_balance_EF_over_G,"((E + F) / G - 1) x 100 by month, W; range",0.06-0.17,0.06-0.17,0.00,true

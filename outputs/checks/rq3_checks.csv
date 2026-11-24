@@ -1,0 +1,33 @@
+check,definition,expected,obtained,abs_diff,pass
+departure_n,departure: non-control economies,88,88,0,true
+departure_S1_r2,RQ3 departure S1 weighted: R2,0.370,0.370,0.000,true
+departure_S1_const_coef,RQ3 departure S1 weighted: const coefficient,3.490,3.490,0.000,true
+departure_S1_const_se,RQ3 departure S1 weighted: const HC3 SE,6.832,6.832,0.000,true
+departure_S1_x_v_coef,RQ3 departure S1 weighted: x_v coefficient,24.954,24.954,0.000,true
+departure_S1_x_v_se,RQ3 departure S1 weighted: x_v HC3 SE,28.320,28.320,0.000,true
+departure_S1_rsl_coef,RQ3 departure S1 weighted: rsl coefficient,-54.876,-54.876,0.000,true
+departure_S1_rsl_se,RQ3 departure S1 weighted: rsl HC3 SE,25.074,25.074,0.000,true
+departure_S1_cpa_coef,RQ3 departure S1 weighted: cpa coefficient,-4.031,-4.031,0.000,true
+departure_S1_cpa_se,RQ3 departure S1 weighted: cpa HC3 SE,10.231,10.231,0.000,true
+departure_S2_r2,RQ3 departure S2 weighted: R2,0.375,0.375,0.000,true
+departure_S2_x_v_coef,RQ3 departure S2 weighted: x_v coefficient,38.472,38.472,0.000,true
+departure_S2_x_v_se,RQ3 departure S2 weighted: x_v HC3 SE,39.907,39.907,0.000,true
+departure_S2_rsl_coef,RQ3 departure S2 weighted: rsl coefficient,-56.923,-56.923,0.000,true
+departure_S2_rsl_se,RQ3 departure S2 weighted: rsl HC3 SE,29.508,29.508,0.000,true
+departure_S2_cpa_coef,RQ3 departure S2 weighted: cpa coefficient,11.685,11.685,0.000,true
+departure_S2_cpa_se,RQ3 departure S2 weighted: cpa HC3 SE,7.928,7.928,0.000,true
+residence_n,residence: non-control economies,96,96,0,true
+residence_S1_r2,RQ3 residence S1 weighted: R2,0.090,0.090,0.000,true
+residence_S1_e_res_coef,RQ3 residence S1 weighted: e_res coefficient,-46.626,-46.626,0.000,true
+residence_S1_e_res_se,RQ3 residence S1 weighted: e_res HC3 SE,83.762,83.762,0.000,true
+residence_S1_hq_coef,RQ3 residence S1 weighted: hq coefficient,1.131,1.131,0.000,true
+residence_S1_hq_se,RQ3 residence S1 weighted: hq HC3 SE,4.503,4.503,0.000,true
+residence_S1_rsl_coef,RQ3 residence S1 weighted: rsl coefficient,-2.582,-2.582,0.000,true
+residence_S1_rsl_se,RQ3 residence S1 weighted: rsl HC3 SE,5.593,5.593,0.000,true
+residence_S1_cpa_coef,RQ3 residence S1 weighted: cpa coefficient,49.735,49.735,0.000,true
+residence_S1_cpa_se,RQ3 residence S1 weighted: cpa HC3 SE,44.853,44.853,0.000,true
+residence_S2_r2,RQ3 residence S2 weighted: R2,0.210,0.210,0.000,true
+residence_S2_e_res_coef,RQ3 residence S2 weighted: e_res coefficient,114.685,114.685,0.000,true
+residence_S2_e_res_se,RQ3 residence S2 weighted: e_res HC3 SE,60.317,60.317,0.000,true
+residence_S2_hq_coef,RQ3 residence S2 weighted: hq coefficient,3.251,3.251,0.000,true
+residence_S2_hq_se,RQ3 residence S2 weighted: hq HC3 SE,3.743,3.743,0.000,true

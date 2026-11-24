@@ -1,0 +1,147 @@
+check,definition,expected,obtained,abs_diff,pass
+lfl_identity_res_int_le_res_total,"economy-months (all economies, all months with RES_TOTAL; 13827) with RES_INT = D+E+F > RES_TOTAL x (1 + 1e-9); largest relative excess of RES_INT over RES_TOTAL in any economy-month: 1.8e-10 (floating-point rounding)",0,0,0,true
+lfl_res_int_base_panel,RES_INT: economies with RES_TOTAL complete over 2019-01..2025-10,140,140,0,true
+lfl_res_int_dropped_rule_positive_year,RES_INT: economies dropped for no positive month in some pre-crisis year (none),(report),0,,true
+lfl_res_int_dropped_zero_month,"RES_INT: economies dropped for a zero month in the window, i.e. none of D, E, F published (CHE GLP GNQ MDG MRT NCL SYR)",(report),7,,true
+lfl_ter_tot_panel,TER_TOT: economies complete in both TER_DOM and TER_INT (TER_INT only: MAF),(report),136,,true
+lfl_identity_ter_tot,"max |TER_TOT - (TER_DOM + TER_INT)| over the TER_TOT panel, tonnes",0,0,0,true
+lfl_RES_INT_scan_flags,RES_INT: flagged economy-months (RS-D14 scan),(report),616,,true
+lfl_RES_INT_scan_system_wide,RES_INT: system-wide anomalous months (excluded from estimation),(report),2023-11,,true
+lfl_TER_TOT_scan_flags,TER_TOT: flagged economy-months (RS-D14 scan),(report),243,,true
+lfl_TER_TOT_scan_system_wide,TER_TOT: system-wide anomalous months (excluded from estimation),(report),2023-11,,true
+lfl_ter_tot_ratio_months,TER_TOT: pre-crisis months used for mean(TER_INT) / mean(TER_TOT) (system-wide anomalous months excluded),(report),2019-01..2023-10 (58 months),,true
+lfl_RES_INT_n_with_exposure,RES_INT: panel economies with exposure data (missing: BMU COK FLK FRO GGY GRL IMN LUX MCO NAM PRI PYF VIR),(report),120,,true
+lfl_RES_INT_pool_size,"RES_INT: control pool, cut-off 0.152526",(report),32,,true
+lfl_RES_INT_exposure_range,"RES_INT: exposure range over the panel with exposure data (must lie in [0, 1])",0-1,0.068748-0.404424,,true
+lfl_RES_INT_panama_range,"RES_INT: Panama share range (in [0, 1])",0-1,0.012588-0.316847,,true
+lfl_TER_TOT_n_with_exposure,TER_TOT: panel economies with exposure data (missing: BMU COK ESH FLK FRO GLP GRL MCO NAM PRI PYF REU SYR VIR),(report),122,,true
+lfl_TER_TOT_pool_size,"TER_TOT: control pool, cut-off 0.044153",(report),35,,true
+lfl_TER_TOT_exposure_range,"TER_TOT: exposure range over the panel with exposure data (must lie in [0, 1])",0-1,0.000357-0.619258,,true
+lfl_TER_TOT_panama_range,"TER_TOT: Panama share range (in [0, 1])",0-1,0.000000-0.544829,,true
+lfl_RES_INT_placebo_runs,"RES_INT: placebo runs (5 dates x S1, S2)",10,10,0,true
+lfl_RES_INT_finite,RES_INT: non-finite unit % among non-control economies,0,0,0,true
+lfl_TER_TOT_placebo_runs,"TER_TOT: placebo runs (5 dates x S1, S2)",10,10,0,true
+lfl_TER_TOT_finite,TER_TOT: non-finite unit % among non-control economies,0,0,0,true
+lfl_reference_RES_TOTAL_S1,RES_TOTAL S1: sum of unit excess (units file) equals rsd4_summary.csv excess_Mt,agree,-28.762721 vs -28.762721,,true
+lfl_reference_RES_TOTAL_S2,RES_TOTAL S2: sum of unit excess (units file) equals rsd4_summary.csv excess_Mt,agree,17.801798 vs 17.801798,,true
+lfl_reference_TER_INT_S1,TER_INT S1: sum of unit excess (units file) equals rsd4_summary.csv excess_Mt,agree,37.637081 vs 37.637081,,true
+lfl_reference_TER_INT_S2,TER_INT S2: sum of unit excess (units file) equals rsd4_summary.csv excess_Mt,agree,0.649935 vs 0.649935,,true
+lfl_pipeline_reproduces_RES_TOTAL,"generic pipeline on the main RES_TOTAL table: max relative difference of unit %, excess and max |placebo %| against rsd4_residence_units.csv (<= 1e-9), robust flags identical",agree,3.37e-11; robust identical True,3.37e-11,true
+lfl_pipeline_reproduces_TER_INT,"generic pipeline on the main TER_INT table: max relative difference of unit %, excess and max |placebo %| against rsd4_departure_units.csv (<= 1e-9), robust flags identical",agree,2.51e-16; robust identical True,2.51e-16,true
+pretrend_design_container,container: design.fe_design + solver reproduce 09_imputation S1 counterfactuals (max relative difference <= 1e-9),agree,0,0,true
+pretrend_design_cargo_types,cargo_types: design.fe_design + solver reproduce 09_imputation S1 counterfactuals (max relative difference <= 1e-9),agree,0,0,true
+pretrend_design_residence,residence: design.fe_design + solver reproduce 09_imputation S1 counterfactuals (max relative difference <= 1e-9),agree,0,0,true
+pretrend_design_departure,departure: design.fe_design + solver reproduce 09_imputation S1 counterfactuals (max relative difference <= 1e-9),agree,0,0,true
+pretrend_container_terms,(a) container: number of W_h terms; clusters 9; rank of V 7,12,12,,true
+pretrend_container_p_in_range,"(a) container: Wald p-values in (0, 1]","(0, 1]",1.391e-165; 2.361e-07,,true
+pretrend_cargo_types_terms,(a) cargo_types: number of W_h terms; clusters 18; rank of V 12,12,12,,true
+pretrend_cargo_types_p_in_range,"(a) cargo_types: Wald p-values in (0, 1]","(0, 1]",1.46e-27; 2.554e-06,,true
+pretrend_residence_terms,(a) residence: number of W_h terms; clusters 125; rank of V 12,12,12,,true
+pretrend_residence_p_in_range,"(a) residence: Wald p-values in (0, 1]","(0, 1]",2.869e-11; 1.322e-08,,true
+pretrend_departure_terms,(a) departure: number of W_h terms; clusters 122; rank of V 11,11,11,,true
+pretrend_departure_p_in_range,"(a) departure: Wald p-values in (0, 1]","(0, 1]",0.0001612; 0.0005768,,true
+pretrend_units_n,(b) units tested (11 residence + 9 departure robust economies + container ships),21,21,,true
+pretrend_units_window,(b) windows and months: residence:2022-12..2023-11:12 departure:2022-12..2023-10:11 system (RS-D2 main run):2022-12..2023-11:12,departure 11; others 12,departure 11; others 12,,true
+pretrend_units_p_in_range,"(b) p-values in (0, 1]","(0, 1]",6.679e-20-0.8106,,true
+revfig_sfig_like_for_like_gross_gains_Mt,sfig_like_for_like: S1 gross_gains_Mt equals like_for_like_summary.csv gross_gains_all_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_gross_losses_Mt,sfig_like_for_like: S1 gross_losses_Mt equals like_for_like_summary.csv gross_losses_all_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_robust_gains_Mt,sfig_like_for_like: S1 robust_gains_Mt equals like_for_like_summary.csv gross_gains_robust_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_robust_losses_Mt,sfig_like_for_like: S1 robust_losses_Mt equals like_for_like_summary.csv gross_losses_robust_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_net_Mt,sfig_like_for_like: S1 net_Mt equals like_for_like_summary.csv excess_Mt_S1 (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_net_S2,sfig_like_for_like: S2 net equals like_for_like_summary.csv excess_Mt_S2 (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_RES_TOTAL_S1_gross_gains_Mt,sfig_like_for_like: RES_TOTAL S1 gross_gains_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_RES_TOTAL_S1_gross_losses_Mt,sfig_like_for_like: RES_TOTAL S1 gross_losses_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_RES_TOTAL_S2_gross_gains_Mt,sfig_like_for_like: RES_TOTAL S2 gross_gains_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_RES_TOTAL_S2_gross_losses_Mt,sfig_like_for_like: RES_TOTAL S2 gross_losses_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_TER_INT_S1_gross_gains_Mt,sfig_like_for_like: TER_INT S1 gross_gains_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_TER_INT_S1_gross_losses_Mt,sfig_like_for_like: TER_INT S1 gross_losses_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_TER_INT_S2_gross_gains_Mt,sfig_like_for_like: TER_INT S2 gross_gains_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_like_for_like_TER_INT_S2_gross_losses_Mt,sfig_like_for_like: TER_INT S2 gross_losses_Mt equals rsd4_summary.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+revfig_sfig_container_event_pct,sfig_container_event: pre-crisis pct equals pretrend_aggregate.csv (container) (max |diff| <= 1e-09),agree,max |diff| = 0,0,true
+revfig_sfig_container_event_ci95_lo_pct,sfig_container_event: pre-crisis ci95_lo_pct equals pretrend_aggregate.csv (container) (max |diff| <= 1e-09),agree,max |diff| = 0,0,true
+revfig_sfig_container_event_ci95_hi_pct,sfig_container_event: pre-crisis ci95_hi_pct equals pretrend_aggregate.csv (container) (max |diff| <= 1e-09),agree,max |diff| = 0,0,true
+revfig_sfig_container_event_excess,sfig_container_event: monthly S1 % equals container_monthly.csv (max |diff| <= 1e-09),agree,max |diff| = 0,0,true
+revfig_sfig_container_event_excess_source,sfig_container_event: monthly S1 % equals (observed / S1 - 1) x 100 from fig_world_container_data.csv (max |diff| <= 1e-09),agree,max |diff| = 1.24e-14,1.24e-14,true
+revfig_sfig_container_event_n,"sfig_container_event: points (12 pre-crisis months, 23 crisis months)",12; 23,12; 23,,true
+revfig_sfig_like_for_like_min_font,"sfig_like_for_like: smallest rendered font size of any text, pt",>= 8.0,8.0,,true
+revfig_sfig_like_for_like_text_inside,sfig_like_for_like: texts drawn wholly inside the figure (of 25 texts),0,0,,true
+revfig_sfig_like_for_like_text_overlap,sfig_like_for_like: pairs of overlapping text boxes,0,0,,true
+revfig_sfig_like_for_like_plain_text,"sfig_like_for_like: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+revfig_sfig_container_event_min_font,"sfig_container_event: smallest rendered font size of any text, pt",>= 8.0,8.0,,true
+revfig_sfig_container_event_text_inside,sfig_container_event: texts drawn wholly inside the figure (of 15 texts),0,0,,true
+revfig_sfig_container_event_text_overlap,sfig_container_event: pairs of overlapping text boxes,0,0,,true
+revfig_sfig_container_event_plain_text,"sfig_container_event: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+revtab_like_for_like_summary,stab_rev_like_for_like_summary.csv: same cells as outputs/tables/like_for_like_summary.csv,identical,4 rows,,true
+revtab_like_for_like_units,stab_rev_like_for_like_units.csv: same cells as outputs/tables/like_for_like_units.csv,identical,242 rows,,true
+revtab_like_for_like_pairs,stab_rev_like_for_like_pairs.csv: same cells as outputs/tables/like_for_like_pairs.csv,identical,239 rows,,true
+revtab_like_for_like_pairs_summary,stab_rev_like_for_like_pairs_summary.csv: same cells as outputs/tables/like_for_like_pairs_summary.csv,identical,2 rows,,true
+revtab_like_for_like_exposure,stab_rev_like_for_like_exposure.csv: same cells as outputs/checks/like_for_like_exposure.csv,identical,269 rows,,true
+revtab_pretrend_aggregate,stab_rev_pretrend_aggregate.csv: same cells as outputs/tables/pretrend_aggregate.csv,identical,51 rows,,true
+revtab_pretrend_units,stab_rev_pretrend_units.csv: same cells as outputs/tables/pretrend_units.csv,identical,21 rows,,true
+revtab_rolling_placebo_units,stab_rev_rolling_placebo_units.csv: same cells as outputs/tables/rolling_placebo_units.csv,identical,272 rows,,true
+revtab_rolling_placebo_system,stab_rev_rolling_placebo_system.csv: same cells as outputs/tables/rolling_placebo_system.csv,identical,16 rows,,true
+revtab_rolling_placebo_bh,stab_rev_rolling_placebo_bh.csv: same cells as outputs/tables/rolling_placebo_bh.csv,identical,3 rows,,true
+revtab_rolling_placebo_gross,stab_rev_rolling_placebo_gross.csv: same cells as outputs/tables/rolling_placebo_gross.csv,identical,40 rows,,true
+revtab_revision_variants_economies,stab_rev_revision_variants_economies.csv: same cells as outputs/tables/revision_variants_economies.csv,identical,8 rows,,true
+revtab_revision_variants_units,stab_rev_revision_variants_units.csv: same cells as outputs/tables/revision_variants_units.csv,identical,387 rows,,true
+revtab_revision_variants_world,stab_rev_revision_variants_world.csv: same cells as outputs/tables/revision_variants_world.csv,identical,26 rows,,true
+revtab_rq3_leave_one_out,stab_rev_rq3_leave_one_out.csv: same cells as outputs/tables/rq3_leave_one_out.csv,identical,20 rows,,true
+revtab_ppml_world,stab_rev_ppml_world.csv: same cells as outputs/tables/ppml_world.csv,identical,4 rows,,true
+revtab_ppml_world_types,stab_rev_ppml_world_types.csv: same cells as outputs/tables/ppml_world_types.csv,identical,11 rows,,true
+revtab_ppml_simulation,stab_rev_ppml_simulation.csv: same cells as outputs/tables/ppml_simulation.csv,identical,102 rows,,true
+revtab_container_monthly,stab_rev_container_monthly.csv: same cells as outputs/tables/container_monthly.csv,identical,26 rows,,true
+rolling_RES_TOTAL_runs,"RES_TOTAL: rolling runs = dates x S1, S2 (2021-01..2022-01)",26,26,,true
+rolling_RES_TOTAL_window_length,RES_TOTAL: treated months in every rolling run,23,23,,true
+rolling_RES_TOTAL_complete,RES_TOTAL: missing unit placebo % (non-control units x runs),0,0,,true
+rolling_RES_TOTAL_bh_reproduced,RES_TOTAL: BH step-up list equals the list from BH-adjusted p-values (second computation),identical,9 vs 9,,true
+rolling_RES_TOTAL_p_in_range,"RES_TOTAL: unit p-values in (0, 1]","(0, 1]",0.0008006-0.9992,,true
+rolling_RES_TOTAL_null_size,RES_TOTAL: null draws per specification = non-control units x dates,1248,1248; 1248,,true
+rolling_TER_INT_runs,"TER_INT: rolling runs = dates x S1, S2 (2021-01..2021-12)",24,24,,true
+rolling_TER_INT_window_length,TER_INT: treated months in every rolling run,23,23,,true
+rolling_TER_INT_complete,TER_INT: missing unit placebo % (non-control units x runs),0,0,,true
+rolling_TER_INT_bh_reproduced,TER_INT: BH step-up list equals the list from BH-adjusted p-values (second computation),identical,5 vs 5,,true
+rolling_TER_INT_p_in_range,"TER_INT: unit p-values in (0, 1]","(0, 1]",0.0009461-0.9953,,true
+rolling_TER_INT_null_size,TER_INT: null draws per specification = non-control units x dates,1056,1056; 1056,,true
+rolling_RES_INT_runs,"RES_INT: rolling runs = dates x S1, S2 (2021-01..2021-12)",24,24,,true
+rolling_RES_INT_window_length,RES_INT: treated months in every rolling run,23,23,,true
+rolling_RES_INT_complete,RES_INT: missing unit placebo % (non-control units x runs),0,0,,true
+rolling_RES_INT_bh_reproduced,RES_INT: BH step-up list equals the list from BH-adjusted p-values (second computation),identical,10 vs 10,,true
+rolling_RES_INT_p_in_range,"RES_INT: unit p-values in (0, 1]","(0, 1]",0.0009461-0.9991,,true
+rolling_RES_INT_null_size,RES_INT: null draws per specification = non-control units x dates,1056,1056; 1056,,true
+rolling_world_main_runs,"world main: rolling runs = dates x S1, S2 (2021-01..2022-01)",26,26,,true
+rolling_world_main_window_length,world main: treated months in every rolling run,23,23,,true
+rolling_world_B1_runs,"world B1: rolling runs = dates x S1, S2 (2021-01..2022-01)",26,26,,true
+rolling_world_B1_window_length,world B1: treated months in every rolling run,23,23,,true
+rolling_pvalues_reproduced,TER_INT S1 unit p-values recomputed with an explicit loop (max |difference|),0,0,0,true
+section8_tab_system_main_S2_years,"tab_system.csv main S2 CONTAINER: yearly sums (2023, 2024, 2025; rounded to 3 decimals) add up to the window total within rounding (0.002 Mt)",49.049,49.049,,true
+section8_tab_system_B1_S2_years,"tab_system.csv B1 S2 CONTAINER: yearly sums (2023, 2024, 2025; rounded to 3 decimals) add up to the window total within rounding (0.002 Mt)",55.041,55.041,,true
+section8_W1_container_placebo,stab_robustness_world.csv W1 main: container max |placebo %| rounded to one decimal equals the 10.1% quoted in the manuscript,10.1,10.1,,true
+section8_W0_container_placebo,stab_robustness_world.csv W0 main: container max |placebo %| equals rsd2_types.csv CONTAINER max_abs_placebo,8.448955,8.448955,,true
+variants_R15_residence_S1_R0,"R15 residence S1: recomputed R0 total equals rsd4_summary.csv (Mt, |diff| <= 1e-6)",-28.762721,-28.762721,,true
+variants_R15_residence_S2_R0,"R15 residence S2: recomputed R0 total equals rsd4_summary.csv (Mt, |diff| <= 1e-6)",17.801798,17.801798,,true
+variants_R15_departure_S1_R0,"R15 departure S1: recomputed R0 total equals rsd4_summary.csv (Mt, |diff| <= 1e-6)",37.637081,37.637081,,true
+variants_R15_departure_S2_R0,"R15 departure S2: recomputed R0 total equals rsd4_summary.csv (Mt, |diff| <= 1e-6)",0.649935,0.649935,,true
+variants_W5_main_S1_W0,"W5 main S1: recomputed W0 total equals rsd2_summary.csv (Mt, |diff| <= 1e-6)",41.026991,41.026991,,true
+variants_W5_main_S2_W0,"W5 main S2: recomputed W0 total equals rsd2_summary.csv (Mt, |diff| <= 1e-6)",29.504312,29.504312,,true
+variants_W5_B1_S1_W0,"W5 B1 S1: recomputed W0 total equals rsd2_summary.csv (Mt, |diff| <= 1e-6)",39.504236,39.504236,,true
+variants_W5_B1_S2_W0,"W5 B1 S2: recomputed W0 total equals rsd2_summary.csv (Mt, |diff| <= 1e-6)",55.040637,55.040637,,true
+variants_R16_residence_pool,R16 residence: stricter pool is a subset of the RS-D4 pool (x_v cut-off 0.072627; m_v cut-off 0.070034),subset,17 of 29,,true
+variants_R16_residence_placebo_runs,R16 residence: placebo runs,10,10,,true
+variants_R16_departure_pool,R16 departure: stricter pool is a subset of the RS-D4 pool (m_v cut-off 0.073420),subset,27 of 34,,true
+variants_R16_departure_placebo_runs,R16 departure: placebo runs,10,10,,true
+variants_rq3_departure_S1_full,RQ3 leave-one-out departure S1: full-sample RSL coefficient equals rq3_coefficients.csv (|diff| <= 1e-9),-54.876267,-54.876267,,true
+variants_rq3_departure_S2_full,RQ3 leave-one-out departure S2: full-sample RSL coefficient equals rq3_coefficients.csv (|diff| <= 1e-9),-56.923079,-56.923079,,true
+variants_rq3_residence_S1_full,RQ3 leave-one-out residence S1: full-sample RSL coefficient equals rq3_coefficients.csv (|diff| <= 1e-9),-2.581930,-2.581930,,true
+variants_rq3_residence_S2_full,RQ3 leave-one-out residence S2: full-sample RSL coefficient equals rq3_coefficients.csv (|diff| <= 1e-9),1.427492,1.427492,,true
+variants_ppml_main_S1_converged,PPML main S1: IRLS converged (max |score| / sum(y) <= 1e-8),<= 1e-8,1.26e-16 after 4 iterations,,true
+variants_ppml_main_S2_converged,PPML main S2: IRLS converged (max |score| / sum(y) <= 1e-8),<= 1e-8,1.07e-15 after 4 iterations,,true
+variants_ppml_main_placebo_runs,"PPML main: placebo runs (5 dates x S1, S2)",10,10,,true
+variants_ppml_B1_S1_converged,PPML B1 S1: IRLS converged (max |score| / sum(y) <= 1e-8),<= 1e-8,9.46e-17 after 4 iterations,,true
+variants_ppml_B1_S2_converged,PPML B1 S2: IRLS converged (max |score| / sum(y) <= 1e-8),<= 1e-8,2.11e-15 after 4 iterations,,true
+variants_ppml_B1_placebo_runs,"PPML B1: placebo runs (5 dates x S1, S2)",10,10,,true
+variants_ppml_simulation_noise_free,"PPML on a noise-free simulated panel with no effect (seed 20261123): total excess of treated units, % (S1; S2), |pct| <= 1e-6",0,1.48e-13; -2.29e-12,,true
+variants_ppml_simulation_mean_S1,"PPML S1, 50 noisy simulated panels with no effect (noise sd 0.05): mean total excess % within +-1 (single panels: 12 of 50 outside +-1%, max |pct| 2.187, sd 0.808)",|mean| <= 1,-0.2529,,true
+variants_ppml_simulation_mean_S2,"PPML S2, 50 noisy simulated panels with no effect (noise sd 0.05): mean total excess % within +-1 (single panels: 25 of 50 outside +-1%, max |pct| 3.630, sd 1.594)",|mean| <= 1,-0.3897,,true
+variants_container_monthly_S1,"container monthly path S1: sum over 2023-12..2025-10 equals rsd2_types.csv CONTAINER excess (Mt, |diff| <= 1e-6)",39.954093,39.954093,,true
+variants_container_monthly_S2,"container monthly path S2: sum over 2023-12..2025-10 equals rsd2_types.csv CONTAINER excess (Mt, |diff| <= 1e-6)",49.048766,49.048766,,true
+variants_container_monthly_n,container monthly path: months 2023-12..2025-10,23,23,,true

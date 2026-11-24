@@ -1,0 +1,12 @@
+check,definition,expected,obtained,abs_diff,pass
+R_months,R = 1 (RS-D15 episode),2023-11;2023-12;2024-01;2024-02;2024-03;2024-04;2024-05;2024-06;2024-07,2023-11;2023-12;2024-01;2024-02;2024-03;2024-04;2024-05;2024-06;2024-07,0,true
+R1_months,"R1: R = 1 under the ratio rule, months up to 2025-10",(report),2020-05;2020-06;2020-07;2021-09;2023-11;2023-12;2024-01;2024-02;2024-03;2024-04;2024-05;2024-06;2024-07,,true
+R11_months,"R11: R = 1 under the RS-D15 rule, months 2023-01..2026-02",2023-11;2023-12;2024-01;2024-02;2024-03;2024-04;2024-05;2024-06;2024-07,2023-11;2023-12;2024-01;2024-02;2024-03;2024-04;2024-05;2024-06;2024-07,0,true
+w_q,"Sum q_canal / sum q_sea_predict, Suez Canal rows, v3 export file",0.1287,0.1287,0.0000,true
+hq_variants_in_pool,"JPN, SGP or HKG in a control pool (value or quantity)",(report),none,,true
+R0_residence_S1_equals_main,"R0 residence S1 total equals rsd4_summary.csv, Mt",-28.762721,-28.762721,0.000000,true
+R0_residence_S2_equals_main,"R0 residence S2 total equals rsd4_summary.csv, Mt",17.801798,17.801798,0.000000,true
+R0_residence_robust_equals_main,R0 residence robust list equals rsd4 units,AZE BEL CHL GIN HKG JOR KAZ MAR MUS OMN SYC,AZE BEL CHL GIN HKG JOR KAZ MAR MUS OMN SYC,0,true
+R0_departure_S1_equals_main,"R0 departure S1 total equals rsd4_summary.csv, Mt",37.637081,37.637081,0.000000,true
+R0_departure_S2_equals_main,"R0 departure S2 total equals rsd4_summary.csv, Mt",0.649935,0.649935,0.000000,true
+R0_departure_robust_equals_main,R0 departure robust list equals rsd4 units,AZE EGY ESP IND LBN LKA MUS MYS SAU,AZE EGY ESP IND LBN LKA MUS MYS SAU,0,true

@@ -1,0 +1,10 @@
+check,definition,expected,obtained,abs_diff,pass
+residence_main_n_flags,"residence, main window 2019-01..2025-10, 140 economies; flagged economy-months",(report),91,,true
+residence_main_n_isolated,"residence, main window 2019-01..2025-10, 140 economies; isolated flags (not in a system-wide month)",(report),91,,true
+residence_main_system_wide_months,"residence, main window 2019-01..2025-10, 140 economies; system-wide months",none,none,0,true
+departure_main_n_flags,"departure, main window 2019-01..2025-10, 137 economies; flagged economy-months",(report),472,,true
+departure_main_n_isolated,"departure, main window 2019-01..2025-10, 137 economies; isolated flags (not in a system-wide month)",(report),446,,true
+departure_main_system_wide_months,"departure, main window 2019-01..2025-10, 137 economies; system-wide months",2023-11,2023-11,0,true
+departure_main_2023_11_larger_half,"departure, main window 2019-01..2025-10, 137 economies; larger-half flagged economies in 2023-11",AGO BGD DNK EGY GIN MLT MUS MYS QAT SGP,AGO BGD DNK EGY GIN MLT MUS MYS QAT SGP,0,true
+residence_residence_sensitivity_n_flags,"residence, residence sensitivity window 2019-01..2026-02, 140 economies; flagged economy-months",(report),102,,true
+residence_residence_sensitivity_n_isolated,"residence, residence sensitivity window 2019-01..2026-02, 140 economies; isolated flags (not in a system-wide month)",(report),102,,true

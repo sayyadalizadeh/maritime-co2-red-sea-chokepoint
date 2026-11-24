@@ -1,0 +1,71 @@
+check,definition,expected,obtained,abs_diff,pass
+rsd2_main_S1_Mt,"RS-D2 main: total excess S1, Mt",41.03,41.03,0.00,true
+rsd2_main_S1_pct,"RS-D2 main: total excess S1, %",2.62,2.62,0.00,true
+rsd2_main_placebo_2020-12_S1,"RS-D2 main: aggregate placebo %, 2020-12, S1",3.61,3.61,0.00,true
+rsd2_main_placebo_2021-06_S1,"RS-D2 main: aggregate placebo %, 2021-06, S1",0.17,0.17,0.00,true
+rsd2_main_placebo_2021-12_S1,"RS-D2 main: aggregate placebo %, 2021-12, S1",-0.93,-0.93,0.00,true
+rsd2_main_placebo_2022-06_S1,"RS-D2 main: aggregate placebo %, 2022-06, S1",-0.74,-0.74,0.00,true
+rsd2_main_placebo_2022-12_S1,"RS-D2 main: aggregate placebo %, 2022-12, S1",-0.77,-0.77,0.00,true
+rsd2_main_S2_Mt,"RS-D2 main: total excess S2, Mt",29.50,29.50,0.00,true
+rsd2_main_S2_pct,"RS-D2 main: total excess S2, %",1.87,1.87,0.00,true
+rsd2_main_placebo_2020-12_S2,"RS-D2 main: aggregate placebo %, 2020-12, S2",-0.66,-0.66,0.00,true
+rsd2_main_placebo_2021-06_S2,"RS-D2 main: aggregate placebo %, 2021-06, S2",-5.82,-5.82,0.00,true
+rsd2_main_placebo_2021-12_S2,"RS-D2 main: aggregate placebo %, 2021-12, S2",-5.81,-5.81,0.00,true
+rsd2_main_placebo_2022-06_S2,"RS-D2 main: aggregate placebo %, 2022-06, S2",-3.50,-3.50,0.00,true
+rsd2_main_placebo_2022-12_S2,"RS-D2 main: aggregate placebo %, 2022-12, S2",-2.59,-2.59,0.00,true
+rsd2_main_S1_2023_Mt,"RS-D2 main: excess S1 in 2023, Mt",0.40,0.40,0.00,true
+rsd2_main_S1_2024_Mt,"RS-D2 main: excess S1 in 2024, Mt",21.08,21.08,0.00,true
+rsd2_main_S1_2025_Mt,"RS-D2 main: excess S1 in 2025, Mt",19.55,19.55,0.00,true
+rsd2_main_S1_CONTAINER_Mt,"RS-D2 main: CONTAINER excess S1, Mt",39.95,39.95,0.00,true
+rsd2_B1_S1_Mt,"RS-D2 B1: total excess S1, Mt",39.50,39.50,0.00,true
+rsd2_B1_S1_pct,"RS-D2 B1: total excess S1, %",9.06,9.06,0.00,true
+rsd2_B1_placebo_2020-12_S1,"RS-D2 B1: aggregate placebo %, 2020-12, S1",5.05,5.05,0.00,true
+rsd2_B1_placebo_2021-06_S1,"RS-D2 B1: aggregate placebo %, 2021-06, S1",1.74,1.74,0.00,true
+rsd2_B1_placebo_2021-12_S1,"RS-D2 B1: aggregate placebo %, 2021-12, S1",-0.61,-0.61,0.00,true
+rsd2_B1_placebo_2022-06_S1,"RS-D2 B1: aggregate placebo %, 2022-06, S1",-5.05,-5.05,0.00,true
+rsd2_B1_placebo_2022-12_S1,"RS-D2 B1: aggregate placebo %, 2022-12, S1",-6.13,-6.13,0.00,true
+rsd2_B1_S2_Mt,"RS-D2 B1: total excess S2, Mt",55.04,55.04,0.00,true
+rsd2_B1_S2_pct,"RS-D2 B1: total excess S2, %",13.09,13.09,0.00,true
+rsd2_B1_placebo_2020-12_S2,"RS-D2 B1: aggregate placebo %, 2020-12, S2",10.23,10.23,0.00,true
+rsd2_B1_placebo_2021-06_S2,"RS-D2 B1: aggregate placebo %, 2021-06, S2",-0.75,-0.75,0.00,true
+rsd2_B1_placebo_2021-12_S2,"RS-D2 B1: aggregate placebo %, 2021-12, S2",-3.82,-3.82,0.00,true
+rsd2_B1_placebo_2022-06_S2,"RS-D2 B1: aggregate placebo %, 2022-06, S2",-7.36,-7.36,0.00,true
+rsd2_B1_placebo_2022-12_S2,"RS-D2 B1: aggregate placebo %, 2022-12, S2",-7.27,-7.27,0.00,true
+rsd4_w_P,"Sum v_canal / sum v_sea_predict, Panama Canal rows, v3 export file",0.0675,0.0675,0.0000,true
+rsd4_panama_months,Months 2023-01..2025-10 with Panama Canal mean daily n_total < 0.90 x its 2019-01..2023-11 mean (RS-D15),2023-11;2023-12;2024-01;2024-02;2024-03;2024-04;2024-05;2024-06;2024-07,2023-11;2023-12;2024-01;2024-02;2024-03;2024-04;2024-05;2024-06;2024-07,0,true
+rsd4_residence_n_economies,RS-D4 residence: economies with exposure data,125,125,0,true
+rsd4_residence_n_control,RS-D4 residence: control economies,29,29,0,true
+rsd4_residence_S1_Mt,"RS-D4 residence: total excess S1, Mt",-28.76,-28.76,0.00,true
+rsd4_residence_S1_pct,"RS-D4 residence: total excess S1, %",-1.63,-1.63,0.00,true
+rsd4_residence_placebo_2020-12_S1,"RS-D4 residence: aggregate placebo %, 2020-12, S1",1.24,1.24,0.00,true
+rsd4_residence_placebo_2021-06_S1,"RS-D4 residence: aggregate placebo %, 2021-06, S1",-0.50,-0.50,0.00,true
+rsd4_residence_placebo_2021-12_S1,"RS-D4 residence: aggregate placebo %, 2021-12, S1",-2.06,-2.06,0.00,true
+rsd4_residence_placebo_2022-06_S1,"RS-D4 residence: aggregate placebo %, 2022-06, S1",-2.14,-2.14,0.00,true
+rsd4_residence_placebo_2022-12_S1,"RS-D4 residence: aggregate placebo %, 2022-12, S1",-2.36,-2.36,0.00,true
+rsd4_residence_S2_Mt,"RS-D4 residence: total excess S2, Mt",17.80,17.80,0.00,true
+rsd4_residence_S2_pct,"RS-D4 residence: total excess S2, %",1.04,1.04,0.00,true
+rsd4_residence_placebo_2020-12_S2,"RS-D4 residence: aggregate placebo %, 2020-12, S2",1.43,1.43,0.00,true
+rsd4_residence_placebo_2021-06_S2,"RS-D4 residence: aggregate placebo %, 2021-06, S2",-2.13,-2.13,0.00,true
+rsd4_residence_placebo_2021-12_S2,"RS-D4 residence: aggregate placebo %, 2021-12, S2",-3.35,-3.35,0.00,true
+rsd4_residence_placebo_2022-06_S2,"RS-D4 residence: aggregate placebo %, 2022-06, S2",-2.45,-2.45,0.00,true
+rsd4_residence_placebo_2022-12_S2,"RS-D4 residence: aggregate placebo %, 2022-12, S2",-1.28,-1.28,0.00,true
+rsd4_residence_robust,RS-D4 residence: robust economies (RS-D16),AZE BEL CHL GIN HKG JOR KAZ MAR MUS OMN SYC,AZE BEL CHL GIN HKG JOR KAZ MAR MUS OMN SYC,0,true
+rsd4_departure_n_economies,RS-D4 departure: economies with exposure data,122,122,0,true
+rsd4_departure_n_control,RS-D4 departure: control economies,34,34,0,true
+rsd4_departure_S1_Mt,"RS-D4 departure: total excess S1, Mt",37.64,37.64,0.00,true
+rsd4_departure_S1_pct,"RS-D4 departure: total excess S1, %",3.75,3.75,0.00,true
+rsd4_departure_placebo_2020-12_S1,"RS-D4 departure: aggregate placebo %, 2020-12, S1",-0.69,-0.69,0.00,true
+rsd4_departure_placebo_2021-06_S1,"RS-D4 departure: aggregate placebo %, 2021-06, S1",-0.35,-0.35,0.00,true
+rsd4_departure_placebo_2021-12_S1,"RS-D4 departure: aggregate placebo %, 2021-12, S1",2.39,2.39,0.00,true
+rsd4_departure_placebo_2022-06_S1,"RS-D4 departure: aggregate placebo %, 2022-06, S1",1.45,1.45,0.00,true
+rsd4_departure_placebo_2022-12_S1,"RS-D4 departure: aggregate placebo %, 2022-12, S1",2.12,2.12,0.00,true
+rsd4_departure_S2_Mt,"RS-D4 departure: total excess S2, Mt",0.65,0.65,0.00,true
+rsd4_departure_S2_pct,"RS-D4 departure: total excess S2, %",0.06,0.06,0.00,true
+rsd4_departure_placebo_2020-12_S2,"RS-D4 departure: aggregate placebo %, 2020-12, S2",-0.38,-0.38,0.00,true
+rsd4_departure_placebo_2021-06_S2,"RS-D4 departure: aggregate placebo %, 2021-06, S2",-1.24,-1.24,0.00,true
+rsd4_departure_placebo_2021-12_S2,"RS-D4 departure: aggregate placebo %, 2021-12, S2",2.74,2.74,0.00,true
+rsd4_departure_placebo_2022-06_S2,"RS-D4 departure: aggregate placebo %, 2022-06, S2",0.87,0.87,0.00,true
+rsd4_departure_placebo_2022-12_S2,"RS-D4 departure: aggregate placebo %, 2022-12, S2",0.51,0.51,0.00,true
+rsd4_departure_robust,RS-D4 departure: robust economies (RS-D16),AZE EGY ESP IND LBN LKA MUS MYS SAU,AZE EGY ESP IND LBN LKA MUS MYS SAU,0,true
+rsd4_departure_EGY_S1_Mt,"RS-D4 departure: EGY total excess S1, Mt",-27.91,-27.91,0.00,true
+rsd4_departure_MYS_S1_Mt,"RS-D4 departure: MYS total excess S1, Mt",32.14,32.14,0.00,true

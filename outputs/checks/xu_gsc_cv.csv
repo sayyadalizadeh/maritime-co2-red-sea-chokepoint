@@ -1,0 +1,25 @@
+principle,r,mspe,chosen
+simulation a_no_effect,0,0.020309642744761613,False
+simulation a_no_effect,1,0.007676826986048149,False
+simulation a_no_effect,2,0.0004292340234542122,True
+simulation a_no_effect,3,0.00043626370290708545,False
+simulation a_no_effect,4,0.00044692196432599706,False
+simulation a_no_effect,5,0.00045993646355887616,False
+simulation b_plus_10pct,0,0.020309642744761613,False
+simulation b_plus_10pct,1,0.007676826986048149,False
+simulation b_plus_10pct,2,0.0004292340234542122,True
+simulation b_plus_10pct,3,0.00043626370290708545,False
+simulation b_plus_10pct,4,0.00044692196432599706,False
+simulation b_plus_10pct,5,0.00045993646355887616,False
+residence,0,0.018377933778388273,False
+residence,1,0.010729499993853827,False
+residence,2,0.007537892036058844,False
+residence,3,0.006993046301881362,False
+residence,4,0.007075305568987712,False
+residence,5,0.006790552213375397,True
+departure,0,0.014992685866716657,False
+departure,1,0.014357946734780781,False
+departure,2,0.012320490318905395,False
+departure,3,0.010385875237988049,False
+departure,4,0.009476592526042773,False
+departure,5,0.009374332856581045,True

@@ -1,0 +1,22 @@
+check,definition,expected,obtained,abs_diff,pass
+w,"Sum v_canal / sum v_sea_predict, Suez Canal rows, v3 export file",0.1643,0.1643,0.0000,true
+identity_gaps_all,Pre-crisis economy-months (any economy with RES_TOTAL) with |RES_TOTAL/(A+B+D+E+F) - 1| > 1%,(report),182,,true
+identity_gaps_res_panel,"As above, economies of the residence panel",(report),182,,true
+residence_n_with_exposure,"residence panel, exposure e_res: economies with exposure data (missing: BMU COK FLK FRO GGY GLP GRL IMN LUX MCO NAM PRI PYF SYR VIR)",125,125,0,true
+residence_cutoff,"residence panel, exposure e_res: quantile(1/3), linear interpolation",0.0619,0.0619,0.0000,true
+residence_pool_size,"residence panel, exposure e_res: at or below the cut-off, excluding RSL, CPA, HQ, RUS",29,29,0,true
+departure_n_with_exposure,"departure panel, exposure x_v: economies with exposure data (missing: BMU COK ESH FLK FRO GLP GRL MAF MCO NAM PRI PYF REU SYR VIR)",122,122,0,true
+departure_cutoff,"departure panel, exposure x_v: quantile(1/3), linear interpolation",0.0692,0.0692,0.0000,true
+departure_pool_size,"departure panel, exposure x_v: at or below the cut-off, excluding RSL, CPA, HQ, RUS",34,34,0,true
+e_res_CHE,"e_res, CHE",0.1363,0.1363,0.0000,true
+e_res_DNK,"e_res, DNK",0.1383,0.1383,0.0000,true
+e_res_FRA,"e_res, FRA",0.1327,0.1327,0.0000,true
+e_res_DEU,"e_res, DEU",0.1393,0.1393,0.0000,true
+e_res_CHN,"e_res, CHN",0.0932,0.0932,0.0000,true
+e_res_SGP,"e_res, SGP",0.1403,0.1403,0.0000,true
+e_res_MYS,"e_res, MYS",0.0807,0.0807,0.0000,true
+e_res_EGY,"e_res, EGY",0.1212,0.1212,0.0000,true
+e_res_GRC,"e_res, GRC",0.1387,0.1387,0.0000,true
+e_res_USA,"e_res, USA",0.0842,0.0842,0.0000,true
+e_res_JPN,"e_res, JPN",0.0914,0.0914,0.0000,true
+e_res_NOR,"e_res, NOR",0.1169,0.1169,0.0000,true

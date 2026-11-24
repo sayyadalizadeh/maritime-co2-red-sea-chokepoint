@@ -1,0 +1,29 @@
+check,definition,expected,obtained,abs_diff,pass
+economies_export,Distinct iso3 in the v3 export file,198,198,0,true
+duplicates_export,"Rows duplicated on iso3 x chokepoint, export file",0,0,0,true
+suez_rows_export,"Economies with a Suez Canal row, export file (without one: PYF SXM)",198,196,2,false
+economies_import,Distinct iso3 in the v3 import file,198,198,0,true
+duplicates_import,"Rows duplicated on iso3 x chokepoint, import file",0,0,0,true
+suez_rows_import,"Economies with a Suez Canal row, import file (without one: none)",198,198,0,true
+v3_not_in_portwatch,v3 chokepoint names (after renaming) absent from PortWatch,,Taiwan East,n/a,false
+portwatch_not_in_v3,PortWatch chokepoint names absent from v3,,Bering Strait;Kerch Strait,n/a,false
+suez_export_share_EGY,"share_canal_v_mar, Suez Canal, export file, EGY",0.422,0.422,0.000,true
+suez_export_share_MYS,"share_canal_v_mar, Suez Canal, export file, MYS",0.179,0.179,0.000,true
+suez_export_share_SGP,"share_canal_v_mar, Suez Canal, export file, SGP",0.235,0.235,0.000,true
+suez_export_share_CHN,"share_canal_v_mar, Suez Canal, export file, CHN",0.133,0.133,0.000,true
+suez_export_share_IND,"share_canal_v_mar, Suez Canal, export file, IND",0.374,0.374,0.000,true
+suez_export_share_DEU,"share_canal_v_mar, Suez Canal, export file, DEU",0.241,0.241,0.000,true
+suez_export_share_NLD,"share_canal_v_mar, Suez Canal, export file, NLD",0.226,0.226,0.000,true
+suez_export_share_ITA,"share_canal_v_mar, Suez Canal, export file, ITA",0.198,0.198,0.000,true
+suez_export_share_GRC,"share_canal_v_mar, Suez Canal, export file, GRC",0.163,0.163,0.000,true
+suez_export_share_SAU,"share_canal_v_mar, Suez Canal, export file, SAU",0.191,0.191,0.000,true
+suez_export_share_ZAF,"share_canal_v_mar, Suez Canal, export file, ZAF",0.030,0.030,0.000,true
+suez_export_share_USA,"share_canal_v_mar, Suez Canal, export file, USA",0.106,0.106,0.000,true
+suez_export_share_BRA,"share_canal_v_mar, Suez Canal, export file, BRA",0.068,0.068,0.000,true
+suez_export_share_JPN,"share_canal_v_mar, Suez Canal, export file, JPN",0.129,0.129,0.000,true
+world_suez_export_share_value,Sum v_canal / sum v_sea_predict over Suez Canal rows of the export file,0.1643,0.1643,0.0000,true
+world_suez_export_share_quantity,Sum q_canal / sum q_sea_predict over Suez Canal rows of the export file,0.1287,0.1287,0.0000,true
+world_suez_export_share_value_alldenom,"As above, denominator summed over all economies in the export file",0.1643,0.1643,0.0000,true
+world_suez_export_share_quantity_alldenom,"As above, denominator summed over all economies in the export file",0.1287,0.1287,0.0000,true
+oecd_without_v3_count,"OECD areas (excl. W, OECD, W_O) with any RES_TOTAL or TER_INT value, ALL_VESSELS, 2019-01..2025-10, absent from both v3 files; count",31,31,0,true
+oecd_without_v3_list,"OECD areas (excl. W, OECD, W_O) with any RES_TOTAL or TER_INT value, ALL_VESSELS, 2019-01..2025-10, absent from both v3 files; codes",ALA ASM ATA ATG BMU CCK COK CXR ESH FLK FRO GGY GLP GRL IMN JEY KIR LUX MAF MCO NAM NIU PCN PRI REU SGS SHN SJM SYR VIR WLF,ALA ASM ATA ATG BMU CCK COK CXR ESH FLK FRO GGY GLP GRL IMN JEY KIR LUX MAF MCO NAM NIU PCN PRI REU SGS SHN SJM SYR VIR WLF,0,true

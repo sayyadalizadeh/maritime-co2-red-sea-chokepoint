@@ -1,0 +1,2633 @@
+chokepoint,period,vessel_type,n_rel,capacity_rel,partial_month
+Suez Canal,2019-01,cargo,0.807415,0.800657,False
+Suez Canal,2019-02,cargo,0.845117,0.860472,False
+Suez Canal,2019-03,cargo,0.786533,0.811644,False
+Suez Canal,2019-04,cargo,0.875086,0.881461,False
+Suez Canal,2019-05,cargo,0.857685,0.871433,False
+Suez Canal,2019-06,cargo,0.822341,0.853934,False
+Suez Canal,2019-07,cargo,0.88166,0.901316,False
+Suez Canal,2019-08,cargo,0.938117,0.925151,False
+Suez Canal,2019-09,cargo,0.882279,0.903122,False
+Suez Canal,2019-10,cargo,0.939664,0.941727,False
+Suez Canal,2019-11,cargo,0.874287,0.863856,False
+Suez Canal,2019-12,cargo,0.880886,0.861588,False
+Suez Canal,2020-01,cargo,0.945078,0.922397,False
+Suez Canal,2020-02,cargo,0.906915,0.900538,False
+Suez Canal,2020-03,cargo,0.912595,0.916936,False
+Suez Canal,2020-04,cargo,0.899061,0.908764,False
+Suez Canal,2020-05,cargo,0.787307,0.838645,False
+Suez Canal,2020-06,cargo,0.74722,0.787056,False
+Suez Canal,2020-07,cargo,0.818242,0.879355,False
+Suez Canal,2020-08,cargo,0.902541,0.933097,False
+Suez Canal,2020-09,cargo,0.935823,0.979451,False
+Suez Canal,2020-10,cargo,0.969826,0.969933,False
+Suez Canal,2020-11,cargo,0.959798,0.991323,False
+Suez Canal,2020-12,cargo,0.876246,0.961314,False
+Suez Canal,2021-01,cargo,0.867739,0.889971,False
+Suez Canal,2021-02,cargo,0.953005,0.984252,False
+Suez Canal,2021-03,cargo,0.817469,0.830386,False
+Suez Canal,2021-04,cargo,1.052501,1.169955,False
+Suez Canal,2021-05,cargo,0.972919,1.043759,False
+Suez Canal,2021-06,cargo,0.94781,1.013783,False
+Suez Canal,2021-07,cargo,0.97756,1.014895,False
+Suez Canal,2021-08,cargo,1.091247,1.077276,False
+Suez Canal,2021-09,cargo,1.094857,1.114628,False
+Suez Canal,2021-10,cargo,1.061085,1.059526,False
+Suez Canal,2021-11,cargo,1.078074,1.111169,False
+Suez Canal,2021-12,cargo,1.001535,1.07705,False
+Suez Canal,2022-01,cargo,1.046391,1.00969,False
+Suez Canal,2022-02,cargo,1.131104,1.111263,False
+Suez Canal,2022-03,cargo,1.031697,0.942344,False
+Suez Canal,2022-04,cargo,1.058095,1.019613,False
+Suez Canal,2022-05,cargo,1.048711,1.006136,False
+Suez Canal,2022-06,cargo,1.074078,1.019417,False
+Suez Canal,2022-07,cargo,1.153118,1.100284,False
+Suez Canal,2022-08,cargo,1.173226,1.124768,False
+Suez Canal,2022-09,cargo,1.098053,1.021384,False
+Suez Canal,2022-10,cargo,1.17168,1.096669,False
+Suez Canal,2022-11,cargo,1.144405,1.058029,False
+Suez Canal,2022-12,cargo,1.150798,1.096264,False
+Suez Canal,2023-01,cargo,1.119089,1.042225,False
+Suez Canal,2023-02,cargo,1.062605,1.01426,False
+Suez Canal,2023-03,cargo,1.106715,1.098425,False
+Suez Canal,2023-04,cargo,1.195551,1.178878,False
+Suez Canal,2023-05,cargo,1.214216,1.206461,False
+Suez Canal,2023-06,cargo,1.169179,1.153047,False
+Suez Canal,2023-07,cargo,1.08506,1.074695,False
+Suez Canal,2023-08,cargo,1.153118,1.138835,False
+Suez Canal,2023-09,cargo,1.176371,1.189698,False
+Suez Canal,2023-10,cargo,1.22891,1.201657,False
+Suez Canal,2023-11,cargo,1.240305,1.24414,False
+Suez Canal,2023-12,cargo,1.121409,1.03467,False
+Suez Canal,2024-01,cargo,0.771839,0.584046,False
+Suez Canal,2024-02,cargo,0.695274,0.47163,False
+Suez Canal,2024-03,cargo,0.607108,0.407951,False
+Suez Canal,2024-04,cargo,0.635336,0.390778,False
+Suez Canal,2024-05,cargo,0.613295,0.374165,False
+Suez Canal,2024-06,cargo,0.579395,0.35773,False
+Suez Canal,2024-07,cargo,0.581586,0.340169,False
+Suez Canal,2024-08,cargo,0.607881,0.370074,False
+Suez Canal,2024-09,cargo,0.534642,0.33417,False
+Suez Canal,2024-10,cargo,0.559158,0.336628,False
+Suez Canal,2024-11,cargo,0.544232,0.323441,False
+Suez Canal,2024-12,cargo,0.540597,0.342261,False
+Suez Canal,2025-01,cargo,0.577719,0.361471,False
+Suez Canal,2025-02,cargo,0.525737,0.361383,False
+Suez Canal,2025-03,cargo,0.542917,0.368691,False
+Suez Canal,2025-04,cargo,0.543432,0.348128,False
+Suez Canal,2025-05,cargo,0.54137,0.35161,False
+Suez Canal,2025-06,cargo,0.530646,0.316114,False
+Suez Canal,2025-07,cargo,0.542143,0.352709,False
+Suez Canal,2025-08,cargo,0.570759,0.381503,False
+Suez Canal,2025-09,cargo,0.625746,0.410198,False
+Suez Canal,2025-10,cargo,0.623349,0.409204,False
+Suez Canal,2025-11,cargo,0.667303,0.440019,False
+Suez Canal,2025-12,cargo,0.590093,0.429693,False
+Suez Canal,2026-01,cargo,0.58932,0.363441,False
+Suez Canal,2026-02,cargo,0.573687,0.368364,False
+Suez Canal,2026-03,cargo,0.578493,0.397607,False
+Suez Canal,2026-04,cargo,0.583391,0.410489,False
+Suez Canal,2026-05,cargo,0.552198,0.429027,False
+Suez Canal,2026-06,cargo,0.596177,0.474396,False
+Suez Canal,2026-07,cargo,0.627216,0.456171,False
+Suez Canal,2026-08,cargo,0.592414,0.408047,False
+Suez Canal,2026-09,cargo,0.595378,0.471123,False
+Suez Canal,2026-10,cargo,0.636775,0.558614,True
+Suez Canal,2019-01,container,0.928412,0.948071,False
+Suez Canal,2019-02,container,1.003604,1.044638,False
+Suez Canal,2019-03,container,0.910136,0.965385,False
+Suez Canal,2019-04,container,0.978244,1.028693,False
+Suez Canal,2019-05,container,1.021619,1.066256,False
+Suez Canal,2019-06,container,0.972579,1.038176,False
+Suez Canal,2019-07,container,1.012481,1.035177,False
+Suez Canal,2019-08,container,1.025274,1.024866,False
+Suez Canal,2019-09,container,0.972579,0.982022,False
+Suez Canal,2019-10,container,0.968619,1.023996,False
+Suez Canal,2019-11,container,0.927255,0.96003,False
+Suez Canal,2019-12,container,0.926585,0.900219,False
+Suez Canal,2020-01,container,0.985067,0.993499,False
+Suez Canal,2020-02,container,0.945554,0.990573,False
+Suez Canal,2020-03,container,0.846171,0.884381,False
+Suez Canal,2020-04,container,0.800725,0.863741,False
+Suez Canal,2020-05,container,0.769412,0.819135,False
+Suez Canal,2020-06,container,0.759178,0.843228,False
+Suez Canal,2020-07,container,0.849826,0.965636,False
+Suez Canal,2020-08,container,0.919274,0.989815,False
+Suez Canal,2020-09,container,0.938586,1.005139,False
+Suez Canal,2020-10,container,0.966791,1.046516,False
+Suez Canal,2020-11,container,0.955582,1.047741,False
+Suez Canal,2020-12,container,0.904654,1.02236,False
+Suez Canal,2021-01,container,0.921102,0.97312,False
+Suez Canal,2021-02,container,0.942902,1.019405,False
+Suez Canal,2021-03,container,0.849826,0.906198,False
+Suez Canal,2021-04,container,1.012237,1.1459,False
+Suez Canal,2021-05,container,0.966791,1.054366,False
+Suez Canal,2021-06,container,0.934809,0.99777,False
+Suez Canal,2021-07,container,0.970447,1.050505,False
+Suez Canal,2021-08,container,0.972274,0.988538,False
+Suez Canal,2021-09,container,1.029234,1.019549,False
+Suez Canal,2021-10,container,0.99786,0.979187,False
+Suez Canal,2021-11,container,1.042453,1.083887,False
+Suez Canal,2021-12,container,0.975929,1.010486,False
+Suez Canal,2022-01,container,0.999688,0.990129,False
+Suez Canal,2022-02,container,1.046095,1.021179,False
+Suez Canal,2022-03,container,1.014309,0.988623,False
+Suez Canal,2022-04,container,1.082112,1.062043,False
+Suez Canal,2022-05,container,1.076446,0.999533,False
+Suez Canal,2022-06,container,1.065115,0.960408,False
+Suez Canal,2022-07,container,1.142239,1.033445,False
+Suez Canal,2022-08,container,1.176963,1.057512,False
+Suez Canal,2022-09,container,1.091554,0.938495,False
+Suez Canal,2022-10,container,1.114826,0.954806,False
+Suez Canal,2022-11,container,1.067004,0.949476,False
+Suez Canal,2022-12,container,1.045377,0.903706,False
+Suez Canal,2023-01,container,0.966791,0.857916,False
+Suez Canal,2023-02,container,0.991464,0.923628,False
+Suez Canal,2023-03,container,1.001515,0.955646,False
+Suez Canal,2023-04,container,1.123659,1.06948,False
+Suez Canal,2023-05,container,1.165998,1.065242,False
+Suez Canal,2023-06,container,1.125547,1.048242,False
+Suez Canal,2023-07,container,1.180619,1.092175,False
+Suez Canal,2023-08,container,1.184274,1.095753,False
+Suez Canal,2023-09,container,1.17276,1.118297,False
+Suez Canal,2023-10,container,1.158688,1.117075,False
+Suez Canal,2023-11,container,1.102885,1.07899,False
+Suez Canal,2023-12,container,0.818757,0.743284,False
+Suez Canal,2024-01,container,0.520861,0.313706,False
+Suez Canal,2024-02,container,0.498174,0.218873,False
+Suez Canal,2024-03,container,0.469689,0.19498,False
+Suez Canal,2024-04,container,0.494788,0.176036,False
+Suez Canal,2024-05,container,0.49162,0.178791,False
+Suez Canal,2024-06,container,0.492899,0.167496,False
+Suez Canal,2024-07,container,0.504413,0.188816,False
+Suez Canal,2024-08,container,0.49893,0.1718,False
+Suez Canal,2024-09,container,0.449464,0.167786,False
+Suez Canal,2024-10,container,0.509896,0.186835,False
+Suez Canal,2024-11,container,0.508007,0.178034,False
+Suez Canal,2024-12,container,0.500758,0.182248,False
+Suez Canal,2025-01,container,0.520861,0.194511,False
+Suez Canal,2025-02,container,0.532153,0.203724,False
+Suez Canal,2025-03,container,0.49162,0.188226,False
+Suez Canal,2025-04,container,0.511784,0.177234,False
+Suez Canal,2025-05,container,0.526344,0.190145,False
+Suez Canal,2025-06,container,0.521227,0.19254,False
+Suez Canal,2025-07,container,0.480654,0.176951,False
+Suez Canal,2025-08,container,0.511723,0.184265,False
+Suez Canal,2025-09,container,0.540112,0.200911,False
+Suez Canal,2025-10,container,0.568378,0.196001,False
+Suez Canal,2025-11,container,0.538223,0.183272,False
+Suez Canal,2025-12,container,0.500758,0.212758,False
+Suez Canal,2026-01,container,0.511723,0.199004,False
+Suez Canal,2026-02,container,0.493708,0.217077,False
+Suez Canal,2026-03,container,0.509896,0.198735,False
+Suez Canal,2026-04,container,0.464572,0.195169,False
+Suez Canal,2026-05,container,0.453241,0.229332,False
+Suez Canal,2026-06,container,0.475903,0.244437,False
+Suez Canal,2026-07,container,0.519034,0.28225,False
+Suez Canal,2026-08,container,0.528171,0.314439,False
+Suez Canal,2026-09,container,0.609986,0.440551,False
+Suez Canal,2026-10,container,0.772775,0.676718,True
+Suez Canal,2019-01,dry_bulk,0.640448,0.61057,False
+Suez Canal,2019-02,dry_bulk,0.652068,0.630486,False
+Suez Canal,2019-03,dry_bulk,0.615736,0.613616,False
+Suez Canal,2019-04,dry_bulk,0.68946,0.69714,False
+Suez Canal,2019-05,dry_bulk,0.642507,0.629117,False
+Suez Canal,2019-06,dry_bulk,0.580934,0.622184,False
+Suez Canal,2019-07,dry_bulk,0.726939,0.7285,False
+Suez Canal,2019-08,dry_bulk,0.819609,0.799029,False
+Suez Canal,2019-09,dry_bulk,0.855441,0.81178,False
+Suez Canal,2019-10,dry_bulk,0.920515,0.842475,False
+Suez Canal,2019-11,dry_bulk,0.770322,0.742197,False
+Suez Canal,2019-12,dry_bulk,0.811371,0.814861,False
+Suez Canal,2020-01,dry_bulk,0.891685,0.83528,False
+Suez Canal,2020-02,dry_bulk,0.917959,0.792613,False
+Suez Canal,2020-03,dry_bulk,0.969939,0.958307,False
+Suez Canal,2020-04,dry_bulk,0.966095,0.966841,False
+Suez Canal,2020-05,dry_bulk,0.772244,0.861831,False
+Suez Canal,2020-06,dry_bulk,0.66818,0.714665,False
+Suez Canal,2020-07,dry_bulk,0.726939,0.771365,False
+Suez Canal,2020-08,dry_bulk,0.910219,0.866845,False
+Suez Canal,2020-09,dry_bulk,0.99163,0.961142,False
+Suez Canal,2020-10,dry_bulk,0.998769,0.881246,False
+Suez Canal,2020-11,dry_bulk,0.944815,0.921855,False
+Suez Canal,2020-12,dry_bulk,0.864914,0.892192,False
+Suez Canal,2021-01,dry_bulk,0.811371,0.790316,False
+Suez Canal,2021-02,dry_bulk,0.950743,0.934485,False
+Suez Canal,2021-03,dry_bulk,0.722821,0.733025,False
+Suez Canal,2021-04,dry_bulk,1.029934,1.196444,False
+Suez Canal,2021-05,dry_bulk,0.914337,1.03157,False
+Suez Canal,2021-06,dry_bulk,0.910768,1.028449,False
+Suez Canal,2021-07,dry_bulk,0.967879,0.969274,False
+Suez Canal,2021-08,dry_bulk,1.235591,1.191204,False
+Suez Canal,2021-09,dry_bulk,1.246986,1.238402,False
+Suez Canal,2021-10,dry_bulk,1.169693,1.156397,False
+Suez Canal,2021-11,dry_bulk,1.142716,1.148298,False
+Suez Canal,2021-12,dry_bulk,1.081142,1.162394,False
+Suez Canal,2022-01,dry_bulk,1.035837,1.024026,False
+Suez Canal,2022-02,dry_bulk,1.238018,1.224656,False
+Suez Canal,2022-03,dry_bulk,1.007007,0.873369,False
+Suez Canal,2022-04,dry_bulk,0.993758,0.964182,False
+Suez Canal,2022-05,dry_bulk,1.013184,1.006941,False
+Suez Canal,2022-06,dry_bulk,1.085261,1.090285,False
+Suez Canal,2022-07,dry_bulk,1.155277,1.182721,False
+Suez Canal,2022-08,dry_bulk,1.231472,1.210762,False
+Suez Canal,2022-09,dry_bulk,1.151227,1.120514,False
+Suez Canal,2022-10,dry_bulk,1.243828,1.271154,False
+Suez Canal,2022-11,dry_bulk,1.249114,1.188271,False
+Suez Canal,2022-12,dry_bulk,1.266481,1.330151,False
+Suez Canal,2023-01,dry_bulk,1.235591,1.26532,False
+Suez Canal,2023-02,dry_bulk,1.160499,1.127083,False
+Suez Canal,2023-03,dry_bulk,1.210879,1.279437,False
+Suez Canal,2023-04,dry_bulk,1.295929,1.316252,False
+Suez Canal,2023-05,dry_bulk,1.326201,1.3867,False
+Suez Canal,2023-06,dry_bulk,1.287417,1.286536,False
+Suez Canal,2023-07,dry_bulk,1.013184,1.055295,False
+Suez Canal,2023-08,dry_bulk,1.163515,1.195924,False
+Suez Canal,2023-09,dry_bulk,1.246986,1.286525,False
+Suez Canal,2023-10,dry_bulk,1.377684,1.311977,False
+Suez Canal,2023-11,dry_bulk,1.478934,1.455525,False
+Suez Canal,2023-12,dry_bulk,1.47859,1.393655,False
+Suez Canal,2024-01,dry_bulk,1.095557,0.92004,False
+Suez Canal,2024-02,dry_bulk,0.933368,0.783367,False
+Suez Canal,2024-03,dry_bulk,0.78666,0.664298,False
+Suez Canal,2024-04,dry_bulk,0.823521,0.652312,False
+Suez Canal,2024-05,dry_bulk,0.75577,0.609564,False
+Suez Canal,2024-06,dry_bulk,0.680948,0.587228,False
+Suez Canal,2024-07,dry_bulk,0.677516,0.521227,False
+Suez Canal,2024-08,dry_bulk,0.75577,0.608447,False
+Suez Canal,2024-09,dry_bulk,0.644772,0.534,False
+Suez Canal,2024-10,dry_bulk,0.636329,0.515163,False
+Suez Canal,2024-11,dry_bulk,0.583062,0.496168,False
+Suez Canal,2024-12,dry_bulk,0.597202,0.533477,False
+Suez Canal,2025-01,dry_bulk,0.621914,0.557384,False
+Suez Canal,2025-02,dry_bulk,0.531231,0.546517,False
+Suez Canal,2025-03,dry_bulk,0.588965,0.581486,False
+Suez Canal,2025-04,dry_bulk,0.566038,0.550154,False
+Suez Canal,2025-05,dry_bulk,0.57455,0.53674,False
+Suez Canal,2025-06,dry_bulk,0.523479,0.456788,False
+Suez Canal,2025-07,dry_bulk,0.570431,0.561614,False
+Suez Canal,2025-08,dry_bulk,0.638389,0.617065,False
+Suez Canal,2025-09,dry_bulk,0.729891,0.659722,False
+Suez Canal,2025-10,dry_bulk,0.700168,0.664754,False
+Suez Canal,2025-11,dry_bulk,0.787346,0.742724,False
+Suez Canal,2025-12,dry_bulk,0.702227,0.69424,False
+Suez Canal,2026-01,dry_bulk,0.621914,0.552149,False
+Suez Canal,2026-02,dry_bulk,0.642949,0.546467,False
+Suez Canal,2026-03,dry_bulk,0.636329,0.633781,False
+Suez Canal,2026-04,dry_bulk,0.687332,0.660095,False
+Suez Canal,2026-05,dry_bulk,0.687812,0.671422,False
+Suez Canal,2026-06,dry_bulk,0.770322,0.754369,False
+Suez Canal,2026-07,dry_bulk,0.770185,0.664187,False
+Suez Canal,2026-08,dry_bulk,0.640448,0.506773,False
+Suez Canal,2026-09,dry_bulk,0.595829,0.500315,False
+Suez Canal,2026-10,dry_bulk,0.531139,0.408921,True
+Suez Canal,2019-01,general_cargo,0.843563,0.963419,False
+Suez Canal,2019-02,general_cargo,0.814851,0.825105,False
+Suez Canal,2019-03,general_cargo,0.803932,0.923328,False
+Suez Canal,2019-04,general_cargo,0.947734,0.795363,False
+Suez Canal,2019-05,general_cargo,0.900178,0.810897,False
+Suez Canal,2019-06,general_cargo,0.953585,0.936278,False
+Suez Canal,2019-07,general_cargo,0.888855,1.028767,False
+Suez Canal,2019-08,general_cargo,0.939808,0.998983,False
+Suez Canal,2019-09,general_cargo,0.713726,0.691685,False
+Suez Canal,2019-10,general_cargo,0.860547,0.830512,False
+Suez Canal,2019-11,general_cargo,0.965285,0.840787,False
+Suez Canal,2019-12,general_cargo,0.911501,0.859138,False
+Suez Canal,2020-01,general_cargo,0.968116,0.906503,False
+Suez Canal,2020-02,general_cargo,0.804908,0.822022,False
+Suez Canal,2020-03,general_cargo,0.990762,0.883532,False
+Suez Canal,2020-04,general_cargo,1.09399,0.957939,False
+Suez Canal,2020-05,general_cargo,1.007746,1.000057,False
+Suez Canal,2020-06,general_cargo,1.012087,0.957568,False
+Suez Canal,2020-07,general_cargo,1.053038,0.988262,False
+Suez Canal,2020-08,general_cargo,0.917162,0.879338,False
+Suez Canal,2020-09,general_cargo,0.889232,0.66578,False
+Suez Canal,2020-10,general_cargo,0.917162,0.77008,False
+Suez Canal,2020-11,general_cargo,1.029637,0.955997,False
+Suez Canal,2020-12,general_cargo,0.894516,0.822054,False
+Suez Canal,2021-01,general_cargo,0.866209,0.810016,False
+Suez Canal,2021-02,general_cargo,1.027966,1.156473,False
+Suez Canal,2021-03,general_cargo,0.917162,0.832694,False
+Suez Canal,2021-04,general_cargo,1.269496,1.315926,False
+Suez Canal,2021-05,general_cargo,1.126638,1.01506,False
+Suez Canal,2021-06,general_cargo,1.053038,1.185726,False
+Suez Canal,2021-07,general_cargo,1.030392,1.036349,False
+Suez Canal,2021-08,general_cargo,1.09833,1.050052,False
+Suez Canal,2021-09,general_cargo,0.941884,1.040179,False
+Suez Canal,2021-10,general_cargo,0.990762,1.231207,False
+Suez Canal,2021-11,general_cargo,0.988686,0.993548,False
+Suez Canal,2021-12,general_cargo,0.826578,1.020875,False
+Suez Canal,2022-01,general_cargo,1.205899,1.327393,False
+Suez Canal,2022-02,general_cargo,1.103183,1.082209,False
+Suez Canal,2022-03,general_cargo,1.092669,1.077251,False
+Suez Canal,2022-04,general_cargo,1.170042,1.08542,False
+Suez Canal,2022-05,general_cargo,1.053038,1.135123,False
+Suez Canal,2022-06,general_cargo,1.058888,1.053867,False
+Suez Canal,2022-07,general_cargo,1.188914,1.137883,False
+Suez Canal,2022-08,general_cargo,1.0587,1.100488,False
+Suez Canal,2022-09,general_cargo,0.930184,1.072871,False
+Suez Canal,2022-10,general_cargo,1.09833,1.051267,False
+Suez Canal,2022-11,general_cargo,1.11154,1.238214,False
+Suez Canal,2022-12,general_cargo,1.120976,1.190098,False
+Suez Canal,2023-01,general_cargo,1.222883,1.256123,False
+Suez Canal,2023-02,general_cargo,1.034234,1.037552,False
+Suez Canal,2023-03,general_cargo,1.092669,0.970657,False
+Suez Canal,2023-04,general_cargo,1.123241,1.118508,False
+Suez Canal,2023-05,general_cargo,1.081346,1.106341,False
+Suez Canal,2023-06,general_cargo,0.959435,1.00219,False
+Suez Canal,2023-07,general_cargo,1.030392,1.023539,False
+Suez Canal,2023-08,general_cargo,0.973777,0.978025,False
+Suez Canal,2023-09,general_cargo,0.971135,0.95768,False
+Suez Canal,2023-10,general_cargo,1.047377,1.035673,False
+Suez Canal,2023-11,general_cargo,1.012087,1.160134,False
+Suez Canal,2023-12,general_cargo,1.132299,1.348551,False
+Suez Canal,2024-01,general_cargo,0.849224,0.818142,False
+Suez Canal,2024-02,general_cargo,0.84122,0.762313,False
+Suez Canal,2024-03,general_cargo,0.741656,0.855423,False
+Suez Canal,2024-04,general_cargo,0.748827,0.733541,False
+Suez Canal,2024-05,general_cargo,0.798271,0.775109,False
+Suez Canal,2024-06,general_cargo,0.766378,0.747121,False
+Suez Canal,2024-07,general_cargo,0.75864,0.730296,False
+Suez Canal,2024-08,general_cargo,0.741656,0.806364,False
+Suez Canal,2024-09,general_cargo,0.655224,0.717514,False
+Suez Canal,2024-10,general_cargo,0.696364,0.751083,False
+Suez Canal,2024-11,general_cargo,0.684475,0.727122,False
+Suez Canal,2024-12,general_cargo,0.696364,0.746646,False
+Suez Canal,2025-01,general_cargo,0.809594,0.897868,False
+Suez Canal,2025-02,general_cargo,0.676953,0.872099,False
+Suez Canal,2025-03,general_cargo,0.690702,0.897763,False
+Suez Canal,2025-04,general_cargo,0.713726,0.822509,False
+Suez Canal,2025-05,general_cargo,0.634087,0.98965,False
+Suez Canal,2025-06,general_cargo,0.719576,0.817928,False
+Suez Canal,2025-07,general_cargo,0.803932,0.792649,False
+Suez Canal,2025-08,general_cargo,0.668056,0.820928,False
+Suez Canal,2025-09,general_cargo,0.707876,0.900615,False
+Suez Canal,2025-10,general_cargo,0.752979,0.831094,False
+Suez Canal,2025-11,general_cargo,0.889232,1.151719,False
+Suez Canal,2025-12,general_cargo,0.713348,0.780238,False
+Suez Canal,2026-01,general_cargo,0.87187,0.991912,False
+Suez Canal,2026-02,general_cargo,0.777242,0.795051,False
+Suez Canal,2026-03,general_cargo,0.75864,0.86337,False
+Suez Canal,2026-04,general_cargo,0.719576,1.056342,False
+Suez Canal,2026-05,general_cargo,0.532181,0.764456,False
+Suez Canal,2026-06,general_cargo,0.53822,0.792583,False
+Suez Canal,2026-07,general_cargo,0.662395,0.835804,False
+Suez Canal,2026-08,general_cargo,0.713348,1.042592,False
+Suez Canal,2026-09,general_cargo,0.585021,0.821787,False
+Suez Canal,2026-10,general_cargo,0.582681,0.711166,True
+Suez Canal,2019-01,roro,0.908923,0.822154,False
+Suez Canal,2019-02,roro,0.993067,0.899915,False
+Suez Canal,2019-03,roro,0.932842,0.952,False
+Suez Canal,2019-04,roro,1.124593,1.078808,False
+Suez Canal,2019-05,roro,0.944802,0.896246,False
+Suez Canal,2019-06,roro,0.963937,0.74211,False
+Suez Canal,2019-07,roro,0.908923,0.982423,False
+Suez Canal,2019-08,roro,1.052438,0.847082,False
+Suez Canal,2019-09,roro,0.803281,0.856675,False
+Suez Canal,2019-10,roro,1.028519,0.929304,False
+Suez Canal,2019-11,roro,0.939221,1.006536,False
+Suez Canal,2019-12,roro,0.920883,0.749919,False
+Suez Canal,2020-01,roro,0.944802,0.822927,False
+Suez Canal,2020-02,roro,0.805412,0.737592,False
+Suez Canal,2020-03,roro,0.849126,0.949899,False
+Suez Canal,2020-04,roro,0.74149,0.67329,False
+Suez Canal,2020-05,roro,0.526219,0.556131,False
+Suez Canal,2020-06,roro,0.568476,0.542609,False
+Suez Canal,2020-07,roro,0.645814,0.626624,False
+Suez Canal,2020-08,roro,0.717571,0.715951,False
+Suez Canal,2020-09,roro,0.692057,0.709025,False
+Suez Canal,2020-10,roro,0.932842,0.914418,False
+Suez Canal,2020-11,roro,0.926863,0.989018,False
+Suez Canal,2020-12,roro,0.717571,0.758437,False
+Suez Canal,2021-01,roro,0.849126,0.755543,False
+Suez Canal,2021-02,roro,0.873899,1.000374,False
+Suez Canal,2021-03,roro,0.944802,1.000206,False
+Suez Canal,2021-04,roro,0.988654,1.094014,False
+Suez Canal,2021-05,roro,1.028519,1.031709,False
+Suez Canal,2021-06,roro,1.025728,1.003634,False
+Suez Canal,2021-07,roro,0.968721,1.039945,False
+Suez Canal,2021-08,roro,1.016559,0.937273,False
+Suez Canal,2021-09,roro,0.963937,0.946603,False
+Suez Canal,2021-10,roro,0.99264,0.930365,False
+Suez Canal,2021-11,roro,1.124593,1.168839,False
+Suez Canal,2021-12,roro,1.076357,1.062567,False
+Suez Canal,2022-01,roro,1.076357,1.006068,False
+Suez Canal,2022-02,roro,1.125476,1.134434,False
+Suez Canal,2022-03,roro,1.160073,1.422233,False
+Suez Canal,2022-04,roro,1.038086,1.033722,False
+Suez Canal,2022-05,roro,1.064397,1.243809,False
+Suez Canal,2022-06,roro,1.099877,1.155872,False
+Suez Canal,2022-07,roro,1.136154,1.102943,False
+Suez Canal,2022-08,roro,1.052438,1.052298,False
+Suez Canal,2022-09,roro,1.186384,1.235565,False
+Suez Canal,2022-10,roro,1.279668,1.424772,False
+Suez Canal,2022-11,roro,1.112235,1.049102,False
+Suez Canal,2022-12,roro,1.23183,1.395383,False
+Suez Canal,2023-01,roro,1.219871,1.098497,False
+Suez Canal,2023-02,roro,1.019549,1.006937,False
+Suez Canal,2023-03,roro,1.219871,1.230682,False
+Suez Canal,2023-04,roro,1.235817,1.288389,False
+Suez Canal,2023-05,roro,1.160073,1.190639,False
+Suez Canal,2023-06,roro,1.211101,1.337029,False
+Suez Canal,2023-07,roro,0.99264,1.014492,False
+Suez Canal,2023-08,roro,1.267709,1.282977,False
+Suez Canal,2023-09,roro,1.223459,1.191028,False
+Suez Canal,2023-10,roro,1.207911,1.266521,False
+Suez Canal,2023-11,roro,1.235817,1.106444,False
+Suez Canal,2023-12,roro,1.0046,0.729788,False
+Suez Canal,2024-01,roro,0.370745,0.222024,False
+Suez Canal,2024-02,roro,0.294039,0.140086,False
+Suez Canal,2024-03,roro,0.179393,0.115284,False
+Suez Canal,2024-04,roro,0.222447,0.126398,False
+Suez Canal,2024-05,roro,0.191352,0.111016,False
+Suez Canal,2024-06,roro,0.160656,0.082992,False
+Suez Canal,2024-07,roro,0.155474,0.046603,False
+Suez Canal,2024-08,roro,0.179393,0.072806,False
+Suez Canal,2024-09,roro,0.197731,0.059619,False
+Suez Canal,2024-10,roro,0.143514,0.028092,False
+Suez Canal,2024-11,roro,0.259522,0.062254,False
+Suez Canal,2024-12,roro,0.143514,0.064997,False
+Suez Canal,2025-01,roro,0.203312,0.066973,False
+Suez Canal,2025-02,roro,0.132409,0.063944,False
+Suez Canal,2025-03,roro,0.298988,0.092892,False
+Suez Canal,2025-04,roro,0.259522,0.111318,False
+Suez Canal,2025-05,roro,0.25115,0.102934,False
+Suez Canal,2025-06,roro,0.234805,0.167156,False
+Suez Canal,2025-07,roro,0.227231,0.138412,False
+Suez Canal,2025-08,roro,0.358786,0.18535,False
+Suez Canal,2025-09,roro,0.40782,0.177168,False
+Suez Canal,2025-10,roro,0.263109,0.253431,False
+Suez Canal,2025-11,roro,0.346029,0.144706,False
+Suez Canal,2025-12,roro,0.263109,0.128293,False
+Suez Canal,2026-01,roro,0.310947,0.147043,False
+Suez Canal,2026-02,roro,0.264818,0.196386,False
+Suez Canal,2026-03,roro,0.310947,0.243498,False
+Suez Canal,2026-04,roro,0.46961,0.354939,False
+Suez Canal,2026-05,roro,0.454462,0.203016,False
+Suez Canal,2026-06,roro,0.494327,0.310423,False
+Suez Canal,2026-07,roro,0.430543,0.279638,False
+Suez Canal,2026-08,roro,0.478381,0.271075,False
+Suez Canal,2026-09,roro,0.519043,0.314897,False
+Suez Canal,2026-10,roro,0.474554,0.338738,True
+Suez Canal,2019-01,tanker,0.853751,0.864893,False
+Suez Canal,2019-02,tanker,0.812627,0.919446,False
+Suez Canal,2019-03,tanker,0.901657,0.95107,False
+Suez Canal,2019-04,tanker,0.843314,0.990251,False
+Suez Canal,2019-05,tanker,0.850329,0.924875,False
+Suez Canal,2019-06,tanker,0.820331,0.931415,False
+Suez Canal,2019-07,tanker,0.79729,0.852873,False
+Suez Canal,2019-08,tanker,0.857172,0.925074,False
+Suez Canal,2019-09,tanker,0.864529,0.861973,False
+Suez Canal,2019-10,tanker,0.939297,0.911564,False
+Suez Canal,2019-11,tanker,0.910496,0.93955,False
+Suez Canal,2019-12,tanker,0.941008,0.919974,False
+Suez Canal,2020-01,tanker,0.935875,0.872649,False
+Suez Canal,2020-02,tanker,0.894341,0.970695,False
+Suez Canal,2020-03,tanker,0.840063,0.865342,False
+Suez Canal,2020-04,tanker,1.073148,1.101826,False
+Suez Canal,2020-05,tanker,1.035109,1.053374,False
+Suez Canal,2020-06,tanker,0.820331,0.724289,False
+Suez Canal,2020-07,tanker,0.701478,0.598893,False
+Suez Canal,2020-08,tanker,0.703189,0.627882,False
+Suez Canal,2020-09,tanker,0.70011,0.60639,False
+Suez Canal,2020-10,tanker,0.694635,0.611509,False
+Suez Canal,2020-11,tanker,0.772596,0.706172,False
+Suez Canal,2020-12,tanker,0.831509,0.711802,False
+Suez Canal,2021-01,tanker,0.858883,0.745116,False
+Suez Canal,2021-02,tanker,0.875137,0.823731,False
+Suez Canal,2021-03,tanker,0.749384,0.707915,False
+Suez Canal,2021-04,tanker,0.873369,0.851195,False
+Suez Canal,2021-05,tanker,0.845196,0.797016,False
+Suez Canal,2021-06,tanker,0.83801,0.834026,False
+Suez Canal,2021-07,tanker,0.788736,0.752563,False
+Suez Canal,2021-08,tanker,0.879414,0.801252,False
+Suez Canal,2021-09,tanker,0.922872,0.904015,False
+Suez Canal,2021-10,tanker,0.898235,0.903148,False
+Suez Canal,2021-11,tanker,0.956463,0.813058,False
+Suez Canal,2021-12,tanker,0.899946,0.84477,False
+Suez Canal,2022-01,tanker,0.814399,0.757264,False
+Suez Canal,2022-02,tanker,0.83157,0.786377,False
+Suez Canal,2022-03,tanker,0.918766,0.888346,False
+Suez Canal,2022-04,tanker,1.094363,1.030312,False
+Suez Canal,2022-05,tanker,1.069327,1.085086,False
+Suez Canal,2022-06,tanker,1.216352,1.279643,False
+Suez Canal,2022-07,tanker,1.216466,1.142141,False
+Suez Canal,2022-08,tanker,1.192513,1.250533,False
+Suez Canal,2022-09,tanker,1.249943,1.271682,False
+Suez Canal,2022-10,tanker,1.163428,1.18539,False
+Suez Canal,2022-11,tanker,1.260551,1.30857,False
+Suez Canal,2022-12,tanker,1.295169,1.353255,False
+Suez Canal,2023-01,tanker,1.288325,1.368298,False
+Suez Canal,2023-02,tanker,1.365744,1.402124,False
+Suez Canal,2023-03,tanker,1.358473,1.515333,False
+Suez Canal,2023-04,tanker,1.455026,1.533243,False
+Suez Canal,2023-05,tanker,1.420066,1.44622,False
+Suez Canal,2023-06,tanker,1.405523,1.485056,False
+Suez Canal,2023-07,tanker,1.384137,1.34805,False
+Suez Canal,2023-08,tanker,1.243841,1.260596,False
+Suez Canal,2023-09,tanker,1.334805,1.379847,False
+Suez Canal,2023-10,tanker,1.324255,1.357658,False
+Suez Canal,2023-11,tanker,1.317126,1.343391,False
+Suez Canal,2023-12,tanker,1.307145,1.275859,False
+Suez Canal,2024-01,tanker,0.840063,0.856317,False
+Suez Canal,2024-02,tanker,0.70962,0.799872,False
+Suez Canal,2024-03,tanker,0.718588,0.669711,False
+Suez Canal,2024-04,tanker,0.761988,0.739863,False
+Suez Canal,2024-05,tanker,0.802423,0.73185,False
+Suez Canal,2024-06,tanker,0.784972,0.749886,False
+Suez Canal,2024-07,tanker,0.754517,0.652592,False
+Suez Canal,2024-08,tanker,0.793868,0.632164,False
+Suez Canal,2024-09,tanker,0.802651,0.672748,False
+Suez Canal,2024-10,tanker,0.754517,0.617096,False
+Suez Canal,2024-11,tanker,0.705414,0.593726,False
+Suez Canal,2024-12,tanker,0.699768,0.620977,False
+Suez Canal,2025-01,tanker,0.691213,0.63924,False
+Suez Canal,2025-02,tanker,0.647829,0.566321,False
+Suez Canal,2025-03,tanker,0.776759,0.790694,False
+Suez Canal,2025-04,tanker,0.761988,0.740963,False
+Suez Canal,2025-05,tanker,0.764783,0.766351,False
+Suez Canal,2025-06,tanker,0.770828,0.718459,False
+Suez Canal,2025-07,tanker,0.81611,0.817867,False
+Suez Canal,2025-08,tanker,0.787025,0.733836,False
+Suez Canal,2025-09,tanker,0.84685,0.837722,False
+Suez Canal,2025-10,tanker,0.812688,0.843492,False
+Suez Canal,2025-11,tanker,0.800883,0.852566,False
+Suez Canal,2025-12,tanker,0.819532,0.858868,False
+Suez Canal,2026-01,tanker,0.768204,0.755315,False
+Suez Canal,2026-02,tanker,0.924387,0.873928,False
+Suez Canal,2026-03,tanker,0.894813,0.776134,False
+Suez Canal,2026-04,tanker,0.944087,0.734862,False
+Suez Canal,2026-05,tanker,0.85204,0.785394,False
+Suez Canal,2026-06,tanker,0.823867,0.788209,False
+Suez Canal,2026-07,tanker,0.83322,0.840876,False
+Suez Canal,2026-08,tanker,0.864016,0.69957,False
+Suez Canal,2026-09,tanker,0.825634,0.770671,False
+Suez Canal,2026-10,tanker,0.882563,0.859207,True
+Suez Canal,2019-01,total,0.82184,0.82138,False
+Suez Canal,2019-02,total,0.835003,0.879498,False
+Suez Canal,2019-03,total,0.822372,0.856625,False
+Suez Canal,2019-04,total,0.865195,0.916559,False
+Suez Canal,2019-05,total,0.855395,0.888674,False
+Suez Canal,2019-06,total,0.821715,0.87893,False
+Suez Canal,2019-07,total,0.855395,0.885688,False
+Suez Canal,2019-08,total,0.912918,0.925126,False
+Suez Canal,2019-09,total,0.876753,0.889847,False
+Suez Canal,2019-10,total,0.93955,0.931996,False
+Suez Canal,2019-11,total,0.885559,0.888276,False
+Suez Canal,2019-12,total,0.899603,0.880425,False
+Suez Canal,2020-01,total,0.942213,0.906348,False
+Suez Canal,2020-02,total,0.903001,0.923172,False
+Suez Canal,2020-03,total,0.890015,0.900291,False
+Suez Canal,2020-04,total,0.953256,0.971049,False
+Suez Canal,2020-05,total,0.86445,0.907921,False
+Suez Canal,2020-06,total,0.76998,0.766806,False
+Suez Canal,2020-07,total,0.781893,0.788873,False
+Suez Canal,2020-08,total,0.840481,0.834629,False
+Suez Canal,2020-09,total,0.862443,0.859095,False
+Suez Canal,2020-10,total,0.884157,0.854298,False
+Suez Canal,2020-11,total,0.90152,0.899328,False
+Suez Canal,2020-12,total,0.862319,0.880817,False
+Suez Canal,2021-01,total,0.864982,0.843238,False
+Suez Canal,2021-02,total,0.928764,0.932465,False
+Suez Canal,2021-03,total,0.796274,0.790875,False
+Suez Canal,2021-04,total,0.996736,1.067117,False
+Suez Canal,2021-05,total,0.933158,0.964155,False
+Suez Canal,2021-06,total,0.913629,0.95579,False
+Suez Canal,2021-07,total,0.918777,0.930262,False
+Suez Canal,2021-08,total,1.025302,0.988225,False
+Suez Canal,2021-09,total,1.041316,1.04668,False
+Suez Canal,2021-10,total,1.010389,1.009075,False
+Suez Canal,2021-11,total,1.040216,1.014993,False
+Suez Canal,2021-12,total,0.969909,1.002113,False
+Suez Canal,2022-01,total,0.97417,0.928253,False
+Suez Canal,2022-02,total,1.037857,1.006449,False
+Suez Canal,2022-03,total,0.99654,0.924923,False
+Suez Canal,2022-04,total,1.069386,1.023065,False
+Suez Canal,2022-05,total,1.055129,1.031606,False
+Suez Canal,2022-06,total,1.118369,1.103371,False
+Suez Canal,2022-07,total,1.172839,1.113788,False
+Suez Canal,2022-08,total,1.179231,1.165342,False
+Suez Canal,2022-09,total,1.145338,1.102135,False
+Suez Canal,2022-10,total,1.169111,1.125292,False
+Suez Canal,2022-11,total,1.180562,1.138858,False
+Suez Canal,2022-12,total,1.195742,1.179174,False
+Suez Canal,2023-01,total,1.171774,1.147423,False
+Suez Canal,2023-02,total,1.156974,1.139392,False
+Suez Canal,2023-03,total,1.185089,1.232927,False
+Suez Canal,2023-04,total,1.276328,1.293203,False
+Suez Canal,2023-05,total,1.278299,1.283811,False
+Suez Canal,2023-06,total,1.242755,1.260159,False
+Suez Canal,2023-07,total,1.178165,1.162885,False
+Suez Canal,2023-08,total,1.181361,1.178117,False
+Suez Canal,2023-09,total,1.225693,1.251044,False
+Suez Canal,2023-10,total,1.258592,1.251986,False
+Suez Canal,2023-11,total,1.26422,1.27616,False
+Suez Canal,2023-12,total,1.179231,1.112482,False
+Suez Canal,2024-01,total,0.793078,0.671886,False
+Suez Canal,2024-02,total,0.69974,0.577527,False
+Suez Canal,2024-03,total,0.641812,0.4924,False
+Suez Canal,2024-04,total,0.674764,0.5034,False
+Suez Canal,2024-05,total,0.672172,0.489561,False
+Suez Canal,2024-06,total,0.643393,0.484247,False
+Suez Canal,2024-07,total,0.635421,0.440963,False
+Suez Canal,2024-08,total,0.665781,0.454629,False
+Suez Canal,2024-09,total,0.618075,0.443402,False
+Suez Canal,2024-10,total,0.619975,0.427112,False
+Suez Canal,2024-11,total,0.594409,0.41064,False
+Suez Canal,2024-12,total,0.590148,0.43218,False
+Suez Canal,2025-01,total,0.613051,0.451085,False
+Suez Canal,2025-02,total,0.563745,0.4275,False
+Suez Canal,2025-03,total,0.615714,0.504837,False
+Suez Canal,2025-04,total,0.611471,0.474864,False
+Suez Canal,2025-05,total,0.61092,0.485413,False
+Suez Canal,2025-06,total,0.605416,0.445918,False
+Suez Canal,2025-07,total,0.627432,0.502778,False
+Suez Canal,2025-08,total,0.638084,0.495172,False
+Suez Canal,2025-09,total,0.694578,0.548126,False
+Suez Canal,2025-10,total,0.682292,0.549314,False
+Suez Canal,2025-11,total,0.708888,0.573114,False
+Suez Canal,2025-12,total,0.66152,0.568153,False
+Suez Canal,2026-01,total,0.645008,0.489867,False
+Suez Canal,2026-02,total,0.682863,0.531468,False
+Suez Canal,2026-03,total,0.676966,0.519727,False
+Suez Canal,2026-04,total,0.695679,0.515138,False
+Suez Canal,2026-05,total,0.645541,0.543998,False
+Suez Canal,2026-06,total,0.667059,0.575638,False
+Suez Canal,2026-07,total,0.691347,0.580284,False
+Suez Canal,2026-08,total,0.676966,0.502098,False
+Suez Canal,2026-09,total,0.667059,0.567762,False
+Suez Canal,2026-10,total,0.713291,0.655591,True
+Bab el-Mandeb Strait,2019-01,cargo,0.835074,0.819716,False
+Bab el-Mandeb Strait,2019-02,cargo,0.874337,0.873586,False
+Bab el-Mandeb Strait,2019-03,cargo,0.819436,0.808646,False
+Bab el-Mandeb Strait,2019-04,cargo,0.907349,0.904252,False
+Bab el-Mandeb Strait,2019-05,cargo,0.836638,0.880701,False
+Bab el-Mandeb Strait,2019-06,cargo,0.832208,0.854362,False
+Bab el-Mandeb Strait,2019-07,cargo,0.899191,0.908516,False
+Bab el-Mandeb Strait,2019-08,cargo,0.920302,0.94322,False
+Bab el-Mandeb Strait,2019-09,cargo,0.887957,0.900536,False
+Bab el-Mandeb Strait,2019-10,cargo,0.87417,0.914208,False
+Bab el-Mandeb Strait,2019-11,cargo,0.85887,0.896263,False
+Bab el-Mandeb Strait,2019-12,cargo,0.854622,0.859208,False
+Bab el-Mandeb Strait,2020-01,cargo,0.946105,0.922433,False
+Bab el-Mandeb Strait,2020-02,cargo,0.894338,0.873246,False
+Bab el-Mandeb Strait,2020-03,cargo,0.87026,0.908775,False
+Bab el-Mandeb Strait,2020-04,cargo,0.88311,0.905605,False
+Bab el-Mandeb Strait,2020-05,cargo,0.807708,0.856112,False
+Bab el-Mandeb Strait,2020-06,cargo,0.765954,0.808042,False
+Bab el-Mandeb Strait,2020-07,cargo,0.860095,0.885477,False
+Bab el-Mandeb Strait,2020-08,cargo,0.90701,0.940308,False
+Bab el-Mandeb Strait,2020-09,cargo,0.93482,0.975272,False
+Bab el-Mandeb Strait,2020-10,cargo,0.941414,0.964202,False
+Bab el-Mandeb Strait,2020-11,cargo,0.947747,0.991806,False
+Bab el-Mandeb Strait,2020-12,cargo,0.922648,0.979783,False
+Bab el-Mandeb Strait,2021-01,cargo,0.918738,0.94108,False
+Bab el-Mandeb Strait,2021-02,cargo,0.953114,0.975945,False
+Bab el-Mandeb Strait,2021-03,cargo,0.878079,0.901634,False
+Bab el-Mandeb Strait,2021-04,cargo,1.000265,1.123405,False
+Bab el-Mandeb Strait,2021-05,cargo,0.942977,1.039624,False
+Bab el-Mandeb Strait,2021-06,cargo,0.996225,1.046682,False
+Bab el-Mandeb Strait,2021-07,cargo,1.011785,1.055,False
+Bab el-Mandeb Strait,2021-08,cargo,1.043843,1.021195,False
+Bab el-Mandeb Strait,2021-09,cargo,1.027736,1.077627,False
+Bab el-Mandeb Strait,2021-10,cargo,0.999275,0.999024,False
+Bab el-Mandeb Strait,2021-11,cargo,1.036624,1.041901,False
+Bab el-Mandeb Strait,2021-12,cargo,1.05479,1.109895,False
+Bab el-Mandeb Strait,2022-01,cargo,1.057136,1.018134,False
+Bab el-Mandeb Strait,2022-02,cargo,1.095952,1.10136,False
+Bab el-Mandeb Strait,2022-03,cargo,1.053226,1.008998,False
+Bab el-Mandeb Strait,2022-04,cargo,1.044703,1.005781,False
+Bab el-Mandeb Strait,2022-05,cargo,1.041497,1.021059,False
+Bab el-Mandeb Strait,2022-06,cargo,1.066518,1.033741,False
+Bab el-Mandeb Strait,2022-07,cargo,1.082156,1.059859,False
+Bab el-Mandeb Strait,2022-08,cargo,1.12047,1.097149,False
+Bab el-Mandeb Strait,2022-09,cargo,1.116612,1.03561,False
+Bab el-Mandeb Strait,2022-10,cargo,1.12047,1.04396,False
+Bab el-Mandeb Strait,2022-11,cargo,1.17317,1.107714,False
+Bab el-Mandeb Strait,2022-12,cargo,1.112651,1.063586,False
+Bab el-Mandeb Strait,2023-01,cargo,1.123597,1.053959,False
+Bab el-Mandeb Strait,2023-02,cargo,1.102011,1.027761,False
+Bab el-Mandeb Strait,2023-03,cargo,1.143145,1.113253,False
+Bab el-Mandeb Strait,2023-04,cargo,1.166706,1.141321,False
+Bab el-Mandeb Strait,2023-05,cargo,1.233064,1.230862,False
+Bab el-Mandeb Strait,2023-06,cargo,1.209529,1.179739,False
+Bab el-Mandeb Strait,2023-07,cargo,1.139236,1.070013,False
+Bab el-Mandeb Strait,2023-08,cargo,1.173639,1.137078,False
+Bab el-Mandeb Strait,2023-09,cargo,1.188522,1.141093,False
+Bab el-Mandeb Strait,2023-10,cargo,1.254176,1.195309,False
+Bab el-Mandeb Strait,2023-11,cargo,1.237,1.205373,False
+Bab el-Mandeb Strait,2023-12,cargo,0.970344,0.85281,False
+Bab el-Mandeb Strait,2024-01,cargo,0.624742,0.46067,False
+Bab el-Mandeb Strait,2024-02,cargo,0.549976,0.372407,False
+Bab el-Mandeb Strait,2024-03,cargo,0.488691,0.32204,False
+Bab el-Mandeb Strait,2024-04,cargo,0.494477,0.309157,False
+Bab el-Mandeb Strait,2024-05,cargo,0.494164,0.302578,False
+Bab el-Mandeb Strait,2024-06,cargo,0.479125,0.287585,False
+Bab el-Mandeb Strait,2024-07,cargo,0.427702,0.257052,False
+Bab el-Mandeb Strait,2024-08,cargo,0.498073,0.299363,False
+Bab el-Mandeb Strait,2024-09,cargo,0.483973,0.272348,False
+Bab el-Mandeb Strait,2024-10,cargo,0.51293,0.304025,False
+Bab el-Mandeb Strait,2024-11,cargo,0.529219,0.284877,False
+Bab el-Mandeb Strait,2024-12,cargo,0.500419,0.287539,False
+Bab el-Mandeb Strait,2025-01,cargo,0.524658,0.320049,False
+Bab el-Mandeb Strait,2025-02,cargo,0.519408,0.302326,False
+Bab el-Mandeb Strait,2025-03,cargo,0.511366,0.315126,False
+Bab el-Mandeb Strait,2025-04,cargo,0.511444,0.320025,False
+Bab el-Mandeb Strait,2025-05,cargo,0.52935,0.295172,False
+Bab el-Mandeb Strait,2025-06,cargo,0.488821,0.28477,False
+Bab el-Mandeb Strait,2025-07,cargo,0.495728,0.296534,False
+Bab el-Mandeb Strait,2025-08,cargo,0.572354,0.340872,False
+Bab el-Mandeb Strait,2025-09,cargo,0.55669,0.348825,False
+Bab el-Mandeb Strait,2025-10,cargo,0.573918,0.35764,False
+Bab el-Mandeb Strait,2025-11,cargo,0.605168,0.388218,False
+Bab el-Mandeb Strait,2025-12,cargo,0.512148,0.332687,False
+Bab el-Mandeb Strait,2026-01,cargo,0.534823,0.314321,False
+Bab el-Mandeb Strait,2026-02,cargo,0.558364,0.340544,False
+Bab el-Mandeb Strait,2026-03,cargo,0.498855,0.318033,False
+Bab el-Mandeb Strait,2026-04,cargo,0.535683,0.353338,False
+Bab el-Mandeb Strait,2026-05,cargo,0.537951,0.320529,False
+Bab el-Mandeb Strait,2026-06,cargo,0.554266,0.348687,False
+Bab el-Mandeb Strait,2026-07,cargo,0.533259,0.328399,False
+Bab el-Mandeb Strait,2026-08,cargo,0.457414,0.279952,False
+Bab el-Mandeb Strait,2026-09,cargo,0.44923,0.278211,False
+Bab el-Mandeb Strait,2026-10,cargo,0.456664,0.274361,True
+Bab el-Mandeb Strait,2019-01,container,0.988203,0.977027,False
+Bab el-Mandeb Strait,2019-02,container,1.033876,1.070102,False
+Bab el-Mandeb Strait,2019-03,container,0.967576,0.987939,False
+Bab el-Mandeb Strait,2019-04,container,1.001766,1.076446,False
+Bab el-Mandeb Strait,2019-05,container,0.978827,1.055439,False
+Bab el-Mandeb Strait,2019-06,container,0.988203,1.048954,False
+Bab el-Mandeb Strait,2019-07,container,0.995703,1.066059,False
+Bab el-Mandeb Strait,2019-08,container,1.003204,1.042489,False
+Bab el-Mandeb Strait,2019-09,container,0.978514,1.029098,False
+Bab el-Mandeb Strait,2019-10,container,0.931948,1.002654,False
+Bab el-Mandeb Strait,2019-11,container,0.947512,1.029887,False
+Bab el-Mandeb Strait,2019-12,container,0.89632,0.915344,False
+Bab el-Mandeb Strait,2020-01,container,0.980702,1.008991,False
+Bab el-Mandeb Strait,2020-02,container,0.944104,1.000752,False
+Bab el-Mandeb Strait,2020-03,container,0.851317,0.927586,False
+Bab el-Mandeb Strait,2020-04,container,0.782811,0.866036,False
+Bab el-Mandeb Strait,2020-05,container,0.783812,0.851315,False
+Bab el-Mandeb Strait,2020-06,container,0.7925,0.880324,False
+Bab el-Mandeb Strait,2020-07,container,0.845691,0.972776,False
+Bab el-Mandeb Strait,2020-08,container,0.939449,1.010664,False
+Bab el-Mandeb Strait,2020-09,container,0.951387,1.025683,False
+Bab el-Mandeb Strait,2020-10,container,0.935699,1.037914,False
+Bab el-Mandeb Strait,2020-11,container,0.959138,1.07305,False
+Bab el-Mandeb Strait,2020-12,container,0.930073,1.048291,False
+Bab el-Mandeb Strait,2021-01,container,0.952575,0.987494,False
+Bab el-Mandeb Strait,2021-02,container,0.975746,1.057512,False
+Bab el-Mandeb Strait,2021-03,container,0.88882,0.915605,False
+Bab el-Mandeb Strait,2021-04,container,1.030831,1.152704,False
+Bab el-Mandeb Strait,2021-05,container,0.948825,1.02626,False
+Bab el-Mandeb Strait,2021-06,container,0.997891,1.04184,False
+Bab el-Mandeb Strait,2021-07,container,0.990078,1.073764,False
+Bab el-Mandeb Strait,2021-08,container,1.027581,0.980232,False
+Bab el-Mandeb Strait,2021-09,container,0.978514,0.981922,False
+Bab el-Mandeb Strait,2021-10,container,0.988203,0.954742,False
+Bab el-Mandeb Strait,2021-11,container,1.021143,1.010263,False
+Bab el-Mandeb Strait,2021-12,container,1.010704,1.019758,False
+Bab el-Mandeb Strait,2022-01,container,0.988203,0.940372,False
+Bab el-Mandeb Strait,2022-02,container,1.050484,1.031083,False
+Bab el-Mandeb Strait,2022-03,container,1.014455,0.980747,False
+Bab el-Mandeb Strait,2022-04,container,1.032769,1.001439,False
+Bab el-Mandeb Strait,2022-05,container,1.025706,0.964159,False
+Bab el-Mandeb Strait,2022-06,container,1.021143,0.963443,False
+Bab el-Mandeb Strait,2022-07,container,1.065084,0.97345,False
+Bab el-Mandeb Strait,2022-08,container,1.125088,1.037237,False
+Bab el-Mandeb Strait,2022-09,container,1.038582,0.927597,False
+Bab el-Mandeb Strait,2022-10,container,1.044457,0.91078,False
+Bab el-Mandeb Strait,2022-11,container,1.090898,0.980119,False
+Bab el-Mandeb Strait,2022-12,container,0.991953,0.867761,False
+Bab el-Mandeb Strait,2023-01,container,1.003204,0.866193,False
+Bab el-Mandeb Strait,2023-02,container,1.002735,0.919117,False
+Bab el-Mandeb Strait,2023-03,container,1.053833,0.975425,False
+Bab el-Mandeb Strait,2023-04,container,1.077335,1.00958,False
+Bab el-Mandeb Strait,2023-05,container,1.175717,1.074102,False
+Bab el-Mandeb Strait,2023-06,container,1.150965,1.052928,False
+Bab el-Mandeb Strait,2023-07,container,1.198219,1.066766,False
+Bab el-Mandeb Strait,2023-08,container,1.220721,1.097005,False
+Bab el-Mandeb Strait,2023-09,container,1.183906,1.072267,False
+Bab el-Mandeb Strait,2023-10,container,1.136339,1.057231,False
+Bab el-Mandeb Strait,2023-11,container,1.088961,1.024282,False
+Bab el-Mandeb Strait,2023-12,container,0.586921,0.467101,False
+Bab el-Mandeb Strait,2024-01,container,0.232518,0.061721,False
+Bab el-Mandeb Strait,2024-02,container,0.26459,0.063242,False
+Bab el-Mandeb Strait,2024-03,container,0.260645,0.061367,False
+Bab el-Mandeb Strait,2024-04,container,0.296461,0.068544,False
+Bab el-Mandeb Strait,2024-05,container,0.273772,0.064095,False
+Bab el-Mandeb Strait,2024-06,container,0.308087,0.077475,False
+Bab el-Mandeb Strait,2024-07,container,0.303774,0.072018,False
+Bab el-Mandeb Strait,2024-08,container,0.345027,0.080278,False
+Bab el-Mandeb Strait,2024-09,container,0.319713,0.072488,False
+Bab el-Mandeb Strait,2024-10,container,0.361903,0.087185,False
+Bab el-Mandeb Strait,2024-11,container,0.420471,0.089736,False
+Bab el-Mandeb Strait,2024-12,container,0.361903,0.082011,False
+Bab el-Mandeb Strait,2025-01,container,0.431284,0.099835,False
+Bab el-Mandeb Strait,2025-02,container,0.423515,0.094544,False
+Bab el-Mandeb Strait,2025-03,container,0.420033,0.094218,False
+Bab el-Mandeb Strait,2025-04,container,0.377842,0.084018,False
+Bab el-Mandeb Strait,2025-05,container,0.388155,0.092715,False
+Bab el-Mandeb Strait,2025-06,container,0.377842,0.090237,False
+Bab el-Mandeb Strait,2025-07,container,0.390031,0.094116,False
+Bab el-Mandeb Strait,2025-08,container,0.399406,0.092596,False
+Bab el-Mandeb Strait,2025-09,container,0.360403,0.082147,False
+Bab el-Mandeb Strait,2025-10,container,0.393781,0.095578,False
+Bab el-Mandeb Strait,2025-11,container,0.364279,0.083429,False
+Bab el-Mandeb Strait,2025-12,container,0.346902,0.084003,False
+Bab el-Mandeb Strait,2026-01,container,0.354403,0.086546,False
+Bab el-Mandeb Strait,2026-02,container,0.338397,0.080096,False
+Bab el-Mandeb Strait,2026-03,container,0.303774,0.070651,False
+Bab el-Mandeb Strait,2026-04,container,0.341027,0.082053,False
+Bab el-Mandeb Strait,2026-05,container,0.345027,0.087945,False
+Bab el-Mandeb Strait,2026-06,container,0.32165,0.077483,False
+Bab el-Mandeb Strait,2026-07,container,0.309399,0.077518,False
+Bab el-Mandeb Strait,2026-08,container,0.262521,0.078679,False
+Bab el-Mandeb Strait,2026-09,container,0.296461,0.101746,False
+Bab el-Mandeb Strait,2026-10,container,0.353428,0.149364,True
+Bab el-Mandeb Strait,2019-01,dry_bulk,0.656169,0.618872,False
+Bab el-Mandeb Strait,2019-02,dry_bulk,0.674902,0.629936,False
+Bab el-Mandeb Strait,2019-03,dry_bulk,0.607564,0.580984,False
+Bab el-Mandeb Strait,2019-04,dry_bulk,0.73873,0.691333,False
+Bab el-Mandeb Strait,2019-05,dry_bulk,0.682497,0.667257,False
+Bab el-Mandeb Strait,2019-06,dry_bulk,0.652929,0.614063,False
+Bab el-Mandeb Strait,2019-07,dry_bulk,0.737178,0.708148,False
+Bab el-Mandeb Strait,2019-08,dry_bulk,0.818186,0.822301,False
+Bab el-Mandeb Strait,2019-09,dry_bulk,0.816161,0.743531,False
+Bab el-Mandeb Strait,2019-10,dry_bulk,0.836413,0.810782,False
+Bab el-Mandeb Strait,2019-11,dry_bulk,0.778492,0.7329,False
+Bab el-Mandeb Strait,2019-12,dry_bulk,0.806035,0.788669,False
+Bab el-Mandeb Strait,2020-01,dry_bulk,0.880968,0.818419,False
+Bab el-Mandeb Strait,2020-02,dry_bulk,0.863788,0.716854,False
+Bab el-Mandeb Strait,2020-03,dry_bulk,0.903245,0.891243,False
+Bab el-Mandeb Strait,2020-04,dry_bulk,0.9773,0.954456,False
+Bab el-Mandeb Strait,2020-05,dry_bulk,0.820211,0.860871,False
+Bab el-Mandeb Strait,2020-06,dry_bulk,0.698969,0.715896,False
+Bab el-Mandeb Strait,2020-07,dry_bulk,0.783757,0.773813,False
+Bab el-Mandeb Strait,2020-08,dry_bulk,0.903245,0.858047,False
+Bab el-Mandeb Strait,2020-09,dry_bulk,0.962651,0.923392,False
+Bab el-Mandeb Strait,2020-10,dry_bulk,0.970077,0.879735,False
+Bab el-Mandeb Strait,2020-11,dry_bulk,0.958466,0.893853,False
+Bab el-Mandeb Strait,2020-12,dry_bulk,0.909321,0.895255,False
+Bab el-Mandeb Strait,2021-01,dry_bulk,0.903245,0.889163,False
+Bab el-Mandeb Strait,2021-02,dry_bulk,0.899122,0.868534,False
+Bab el-Mandeb Strait,2021-03,dry_bulk,0.897169,0.886587,False
+Bab el-Mandeb Strait,2021-04,dry_bulk,0.929168,1.088272,False
+Bab el-Mandeb Strait,2021-05,dry_bulk,0.95185,1.06489,False
+Bab el-Mandeb Strait,2021-06,dry_bulk,0.94591,1.049601,False
+Bab el-Mandeb Strait,2021-07,dry_bulk,1.024758,1.036147,False
+Bab el-Mandeb Strait,2021-08,dry_bulk,1.150321,1.080195,False
+Bab el-Mandeb Strait,2021-09,dry_bulk,1.192851,1.207923,False
+Bab el-Mandeb Strait,2021-10,dry_bulk,1.073363,1.056831,False
+Bab el-Mandeb Strait,2021-11,dry_bulk,1.077751,1.078189,False
+Bab el-Mandeb Strait,2021-12,dry_bulk,1.113867,1.226535,False
+Bab el-Mandeb Strait,2022-01,dry_bulk,1.111842,1.102488,False
+Bab el-Mandeb Strait,2022-02,dry_bulk,1.163702,1.18949,False
+Bab el-Mandeb Strait,2022-03,dry_bulk,1.085514,1.033216,False
+Bab el-Mandeb Strait,2022-04,dry_bulk,1.033804,1.008461,False
+Bab el-Mandeb Strait,2022-05,dry_bulk,1.04501,1.08631,False
+Bab el-Mandeb Strait,2022-06,dry_bulk,1.104956,1.117557,False
+Bab el-Mandeb Strait,2022-07,dry_bulk,1.087539,1.165657,False
+Bab el-Mandeb Strait,2022-08,dry_bulk,1.154371,1.172165,False
+Bab el-Mandeb Strait,2022-09,dry_bulk,1.169831,1.155249,False
+Bab el-Mandeb Strait,2022-10,dry_bulk,1.209052,1.211187,False
+Bab el-Mandeb Strait,2022-11,dry_bulk,1.251447,1.257535,False
+Bab el-Mandeb Strait,2022-12,dry_bulk,1.237405,1.302664,False
+Bab el-Mandeb Strait,2023-01,dry_bulk,1.194876,1.27897,False
+Bab el-Mandeb Strait,2023-02,dry_bulk,1.18164,1.154887,False
+Bab el-Mandeb Strait,2023-03,dry_bulk,1.207027,1.283312,False
+Bab el-Mandeb Strait,2023-04,dry_bulk,1.301672,1.310583,False
+Bab el-Mandeb Strait,2023-05,dry_bulk,1.367019,1.431085,False
+Bab el-Mandeb Strait,2023-06,dry_bulk,1.236798,1.337246,False
+Bab el-Mandeb Strait,2023-07,dry_bulk,1.04096,1.068819,False
+Bab el-Mandeb Strait,2023-08,dry_bulk,1.121968,1.18919,False
+Bab el-Mandeb Strait,2023-09,dry_bulk,1.247261,1.231309,False
+Bab el-Mandeb Strait,2023-10,dry_bulk,1.399422,1.356972,False
+Bab el-Mandeb Strait,2023-11,dry_bulk,1.450255,1.432168,False
+Bab el-Mandeb Strait,2023-12,dry_bulk,1.393347,1.320661,False
+Bab el-Mandeb Strait,2024-01,dry_bulk,1.057161,0.946687,False
+Bab el-Mandeb Strait,2024-02,dry_bulk,0.855129,0.744563,False
+Bab el-Mandeb Strait,2024-03,dry_bulk,0.696673,0.6258,False
+Bab el-Mandeb Strait,2024-04,dry_bulk,0.717803,0.59818,False
+Bab el-Mandeb Strait,2024-05,dry_bulk,0.66427,0.580661,False
+Bab el-Mandeb Strait,2024-06,dry_bulk,0.619445,0.537864,False
+Bab el-Mandeb Strait,2024-07,dry_bulk,0.534656,0.470186,False
+Bab el-Mandeb Strait,2024-08,dry_bulk,0.650093,0.55312,False
+Bab el-Mandeb Strait,2024-09,dry_bulk,0.581776,0.501428,False
+Bab el-Mandeb Strait,2024-10,dry_bulk,0.648068,0.555158,False
+Bab el-Mandeb Strait,2024-11,dry_bulk,0.594333,0.507533,False
+Bab el-Mandeb Strait,2024-12,dry_bulk,0.591362,0.517263,False
+Bab el-Mandeb Strait,2025-01,dry_bulk,0.607564,0.576288,False
+Bab el-Mandeb Strait,2025-02,dry_bulk,0.556066,0.535561,False
+Bab el-Mandeb Strait,2025-03,dry_bulk,0.599463,0.577662,False
+Bab el-Mandeb Strait,2025-04,dry_bulk,0.575498,0.585782,False
+Bab el-Mandeb Strait,2025-05,dry_bulk,0.542757,0.521839,False
+Bab el-Mandeb Strait,2025-06,dry_bulk,0.558756,0.501447,False
+Bab el-Mandeb Strait,2025-07,dry_bulk,0.546808,0.530002,False
+Bab el-Mandeb Strait,2025-08,dry_bulk,0.672371,0.622499,False
+Bab el-Mandeb Strait,2025-09,dry_bulk,0.717803,0.653111,False
+Bab el-Mandeb Strait,2025-10,dry_bulk,0.704774,0.654312,False
+Bab el-Mandeb Strait,2025-11,dry_bulk,0.797326,0.740745,False
+Bab el-Mandeb Strait,2025-12,dry_bulk,0.62174,0.619825,False
+Bab el-Mandeb Strait,2026-01,dry_bulk,0.658194,0.574569,False
+Bab el-Mandeb Strait,2026-02,dry_bulk,0.708535,0.638161,False
+Bab el-Mandeb Strait,2026-03,dry_bulk,0.648068,0.5984,False
+Bab el-Mandeb Strait,2026-04,dry_bulk,0.652929,0.652441,False
+Bab el-Mandeb Strait,2026-05,dry_bulk,0.61769,0.57529,False
+Bab el-Mandeb Strait,2026-06,dry_bulk,0.680134,0.653249,False
+Bab el-Mandeb Strait,2026-07,dry_bulk,0.680472,0.615352,False
+Bab el-Mandeb Strait,2026-08,dry_bulk,0.563009,0.499211,False
+Bab el-Mandeb Strait,2026-09,dry_bulk,0.537829,0.475533,False
+Bab el-Mandeb Strait,2026-10,dry_bulk,0.469606,0.392699,True
+Bab el-Mandeb Strait,2019-01,general_cargo,0.858678,1.014108,False
+Bab el-Mandeb Strait,2019-02,general_cargo,0.906462,0.864005,False
+Bab el-Mandeb Strait,2019-03,general_cargo,0.951868,0.928635,False
+Bab el-Mandeb Strait,2019-04,general_cargo,0.997353,0.821502,False
+Bab el-Mandeb Strait,2019-05,general_cargo,0.792114,0.766483,False
+Bab el-Mandeb Strait,2019-06,general_cargo,0.777248,0.830037,False
+Bab el-Mandeb Strait,2019-07,general_cargo,1.038401,0.980957,False
+Bab el-Mandeb Strait,2019-08,general_cargo,0.918586,0.922647,False
+Bab el-Mandeb Strait,2019-09,general_cargo,0.7291,0.765911,False
+Bab el-Mandeb Strait,2019-10,general_cargo,0.792114,0.764971,False
+Bab el-Mandeb Strait,2019-11,general_cargo,0.770369,0.746421,False
+Bab el-Mandeb Strait,2019-12,general_cargo,0.818739,0.927651,False
+Bab el-Mandeb Strait,2020-01,general_cargo,0.998463,0.85348,False
+Bab el-Mandeb Strait,2020-02,general_cargo,0.853858,0.882959,False
+Bab el-Mandeb Strait,2020-03,general_cargo,0.832052,0.761009,False
+Bab el-Mandeb Strait,2020-04,general_cargo,0.942327,0.971735,False
+Bab el-Mandeb Strait,2020-05,general_cargo,0.945211,0.984781,False
+Bab el-Mandeb Strait,2020-06,general_cargo,1.038623,1.02194,False
+Bab el-Mandeb Strait,2020-07,general_cargo,1.258063,1.098074,False
+Bab el-Mandeb Strait,2020-08,general_cargo,0.898616,0.870444,False
+Bab el-Mandeb Strait,2020-09,general_cargo,0.92857,0.780012,False
+Bab el-Mandeb Strait,2020-10,general_cargo,0.818739,0.784016,False
+Bab el-Mandeb Strait,2020-11,general_cargo,0.914814,0.944896,False
+Bab el-Mandeb Strait,2020-12,general_cargo,0.911929,0.964021,False
+Bab el-Mandeb Strait,2021-01,general_cargo,0.865334,0.854908,False
+Bab el-Mandeb Strait,2021-02,general_cargo,1.083332,1.149117,False
+Bab el-Mandeb Strait,2021-03,general_cargo,0.838709,0.868371,False
+Bab el-Mandeb Strait,2021-04,general_cargo,1.128041,1.140836,False
+Bab el-Mandeb Strait,2021-05,general_cargo,0.911929,0.828135,False
+Bab el-Mandeb Strait,2021-06,general_cargo,1.141798,1.136245,False
+Bab el-Mandeb Strait,2021-07,general_cargo,1.084996,0.944626,False
+Bab el-Mandeb Strait,2021-08,general_cargo,0.792114,0.828659,False
+Bab el-Mandeb Strait,2021-09,general_cargo,0.749735,0.846029,False
+Bab el-Mandeb Strait,2021-10,general_cargo,0.89196,0.987929,False
+Bab el-Mandeb Strait,2021-11,general_cargo,0.96984,1.110858,False
+Bab el-Mandeb Strait,2021-12,general_cargo,0.978493,0.984838,False
+Bab el-Mandeb Strait,2022-01,general_cargo,1.138248,1.3827,False
+Bab el-Mandeb Strait,2022-02,general_cargo,0.987527,1.00441,False
+Bab el-Mandeb Strait,2022-03,general_cargo,1.038401,1.190741,False
+Bab el-Mandeb Strait,2022-04,general_cargo,1.073015,1.04493,False
+Bab el-Mandeb Strait,2022-05,general_cargo,1.071683,1.116487,False
+Bab el-Mandeb Strait,2022-06,general_cargo,1.196824,1.124978,False
+Bab el-Mandeb Strait,2022-07,general_cargo,1.111622,1.059346,False
+Bab el-Mandeb Strait,2022-08,general_cargo,1.005119,1.057451,False
+Bab el-Mandeb Strait,2022-09,general_cargo,1.196824,1.345006,False
+Bab el-Mandeb Strait,2022-10,general_cargo,0.958524,0.828071,False
+Bab el-Mandeb Strait,2022-11,general_cargo,1.155554,1.31661,False
+Bab el-Mandeb Strait,2022-12,general_cargo,1.045058,1.05169,False
+Bab el-Mandeb Strait,2023-01,general_cargo,1.251407,1.241106,False
+Bab el-Mandeb Strait,2023-02,general_cargo,1.201246,1.203855,False
+Bab el-Mandeb Strait,2023-03,general_cargo,1.17153,1.061173,False
+Bab el-Mandeb Strait,2023-04,general_cargo,0.96984,0.939782,False
+Bab el-Mandeb Strait,2023-05,general_cargo,1.111622,1.114046,False
+Bab el-Mandeb Strait,2023-06,general_cargo,1.348147,1.106351,False
+Bab el-Mandeb Strait,2023-07,general_cargo,1.291345,1.19246,False
+Bab el-Mandeb Strait,2023-08,general_cargo,1.191499,1.086058,False
+Bab el-Mandeb Strait,2023-09,general_cargo,1.045501,0.992133,False
+Bab el-Mandeb Strait,2023-10,general_cargo,1.24475,1.45453,False
+Bab el-Mandeb Strait,2023-11,general_cargo,1.066136,1.154843,False
+Bab el-Mandeb Strait,2023-12,general_cargo,1.05837,1.248886,False
+Bab el-Mandeb Strait,2024-01,general_cargo,0.885304,0.856781,False
+Bab el-Mandeb Strait,2024-02,general_cargo,0.846742,0.830633,False
+Bab el-Mandeb Strait,2024-03,general_cargo,0.871991,0.994868,False
+Bab el-Mandeb Strait,2024-04,general_cargo,0.715343,0.695588,False
+Bab el-Mandeb Strait,2024-05,general_cargo,0.971837,0.928633,False
+Bab el-Mandeb Strait,2024-06,general_cargo,0.880422,0.687923,False
+Bab el-Mandeb Strait,2024-07,general_cargo,0.712237,0.817391,False
+Bab el-Mandeb Strait,2024-08,general_cargo,0.818739,0.940186,False
+Bab el-Mandeb Strait,2024-09,general_cargo,0.96984,0.914873,False
+Bab el-Mandeb Strait,2024-10,general_cargo,0.885304,0.948128,False
+Bab el-Mandeb Strait,2024-11,general_cargo,0.914814,0.939849,False
+Bab el-Mandeb Strait,2024-12,general_cargo,0.978493,1.115322,False
+Bab el-Mandeb Strait,2025-01,general_cargo,0.845365,0.92565,False
+Bab el-Mandeb Strait,2025-02,general_cargo,0.965418,1.105892,False
+Bab el-Mandeb Strait,2025-03,general_cargo,0.785457,0.754034,False
+Bab el-Mandeb Strait,2025-04,general_cargo,0.949205,1.185925,False
+Bab el-Mandeb Strait,2025-05,general_cargo,1.131591,1.049879,False
+Bab el-Mandeb Strait,2025-06,general_cargo,0.866666,1.064837,False
+Bab el-Mandeb Strait,2025-07,general_cargo,0.871991,0.836619,False
+Bab el-Mandeb Strait,2025-08,general_cargo,1.07834,1.185628,False
+Bab el-Mandeb Strait,2025-09,general_cargo,0.949205,1.19022,False
+Bab el-Mandeb Strait,2025-10,general_cargo,1.011776,1.220757,False
+Bab el-Mandeb Strait,2025-11,general_cargo,1.045501,1.211416,False
+Bab el-Mandeb Strait,2025-12,general_cargo,0.931899,1.027297,False
+Bab el-Mandeb Strait,2026-01,general_cargo,0.945211,1.009633,False
+Bab el-Mandeb Strait,2026-02,general_cargo,1.017006,1.094431,False
+Bab el-Mandeb Strait,2026-03,general_cargo,0.832052,1.076207,False
+Bab el-Mandeb Strait,2026-04,general_cargo,0.962962,1.416555,False
+Bab el-Mandeb Strait,2026-05,general_cargo,1.005119,1.23741,False
+Bab el-Mandeb Strait,2026-06,general_cargo,0.990475,1.242771,False
+Bab el-Mandeb Strait,2026-07,general_cargo,0.885304,1.006627,False
+Bab el-Mandeb Strait,2026-08,general_cargo,0.845365,1.134481,False
+Bab el-Mandeb Strait,2026-09,general_cargo,0.708465,0.891939,False
+Bab el-Mandeb Strait,2026-10,general_cargo,0.800634,1.286868,True
+Bab el-Mandeb Strait,2019-01,roro,0.865884,0.751354,False
+Bab el-Mandeb Strait,2019-02,roro,0.958657,0.886067,False
+Bab el-Mandeb Strait,2019-03,roro,0.875724,0.88271,False
+Bab el-Mandeb Strait,2019-04,roro,1.098098,1.049237,False
+Bab el-Mandeb Strait,2019-05,roro,0.905242,0.921389,False
+Bab el-Mandeb Strait,2019-06,roro,0.96592,0.836211,False
+Bab el-Mandeb Strait,2019-07,roro,0.97412,1.071987,False
+Bab el-Mandeb Strait,2019-08,roro,0.983959,0.840476,False
+Bab el-Mandeb Strait,2019-09,roro,0.996423,1.04575,False
+Bab el-Mandeb Strait,2019-10,roro,0.875724,0.836334,False
+Bab el-Mandeb Strait,2019-11,roro,0.915082,1.082095,False
+Bab el-Mandeb Strait,2019-12,roro,0.924922,0.760726,False
+Bab el-Mandeb Strait,2020-01,roro,1.003638,0.855565,False
+Bab el-Mandeb Strait,2020-02,roro,0.841455,0.72995,False
+Bab el-Mandeb Strait,2020-03,roro,0.865884,0.860734,False
+Bab el-Mandeb Strait,2020-04,roro,0.864244,0.767994,False
+Bab el-Mandeb Strait,2020-05,roro,0.669092,0.637375,False
+Bab el-Mandeb Strait,2020-06,roro,0.549049,0.477716,False
+Bab el-Mandeb Strait,2020-07,roro,0.71829,0.618171,False
+Bab el-Mandeb Strait,2020-08,roro,0.767488,0.764074,False
+Bab el-Mandeb Strait,2020-09,roro,0.721898,0.710279,False
+Bab el-Mandeb Strait,2020-10,roro,1.013478,0.91233,False
+Bab el-Mandeb Strait,2020-11,roro,0.884579,0.909578,False
+Bab el-Mandeb Strait,2020-12,roro,0.96428,0.985226,False
+Bab el-Mandeb Strait,2021-01,roro,0.895403,0.759483,False
+Bab el-Mandeb Strait,2021-02,roro,0.904188,0.992968,False
+Bab el-Mandeb Strait,2021-03,roro,0.787167,0.824812,False
+Bab el-Mandeb Strait,2021-04,roro,0.996423,1.00108,False
+Bab el-Mandeb Strait,2021-05,roro,0.915082,0.945486,False
+Bab el-Mandeb Strait,2021-06,roro,1.016758,1.046792,False
+Bab el-Mandeb Strait,2021-07,roro,0.95444,1.013048,False
+Bab el-Mandeb Strait,2021-08,roro,0.983959,0.916947,False
+Bab el-Mandeb Strait,2021-09,roro,0.894747,0.836073,False
+Bab el-Mandeb Strait,2021-10,roro,0.856044,0.831139,False
+Bab el-Mandeb Strait,2021-11,roro,1.016758,1.081297,False
+Bab el-Mandeb Strait,2021-12,roro,1.111874,1.075696,False
+Bab el-Mandeb Strait,2022-01,roro,1.033157,0.987945,False
+Bab el-Mandeb Strait,2022-02,roro,1.16564,1.262908,False
+Bab el-Mandeb Strait,2022-03,roro,1.121713,1.316985,False
+Bab el-Mandeb Strait,2022-04,roro,1.118434,1.097353,False
+Bab el-Mandeb Strait,2022-05,roro,1.062676,1.159216,False
+Bab el-Mandeb Strait,2022-06,roro,0.92525,1.050646,False
+Bab el-Mandeb Strait,2022-07,roro,1.102034,1.155416,False
+Bab el-Mandeb Strait,2022-08,roro,1.102034,1.142937,False
+Bab el-Mandeb Strait,2022-09,roro,1.148936,1.284873,False
+Bab el-Mandeb Strait,2022-10,roro,1.328345,1.410466,False
+Bab el-Mandeb Strait,2022-11,roro,1.250612,1.193408,False
+Bab el-Mandeb Strait,2022-12,roro,1.239789,1.351361,False
+Bab el-Mandeb Strait,2023-01,roro,1.220109,1.153651,False
+Bab el-Mandeb Strait,2023-02,roro,1.089383,1.134704,False
+Bab el-Mandeb Strait,2023-03,roro,1.259468,1.296872,False
+Bab el-Mandeb Strait,2023-04,roro,1.270947,1.216819,False
+Bab el-Mandeb Strait,2023-05,roro,1.062676,1.114572,False
+Bab el-Mandeb Strait,2023-06,roro,1.179439,1.337589,False
+Bab el-Mandeb Strait,2023-07,roro,1.082355,1.137565,False
+Bab el-Mandeb Strait,2023-08,roro,1.151232,1.093921,False
+Bab el-Mandeb Strait,2023-09,roro,1.138769,1.16145,False
+Bab el-Mandeb Strait,2023-10,roro,1.180751,1.242524,False
+Bab el-Mandeb Strait,2023-11,roro,1.230277,1.178672,False
+Bab el-Mandeb Strait,2023-12,roro,0.797007,0.650571,False
+Bab el-Mandeb Strait,2024-01,roro,0.196792,0.141103,False
+Bab el-Mandeb Strait,2024-02,roro,0.126218,0.075386,False
+Bab el-Mandeb Strait,2024-03,roro,0.108236,0.081635,False
+Bab el-Mandeb Strait,2024-04,roro,0.122011,0.050061,False
+Bab el-Mandeb Strait,2024-05,roro,0.118075,0.046147,False
+Bab el-Mandeb Strait,2024-06,roro,0.101676,0.057002,False
+Bab el-Mandeb Strait,2024-07,roro,0.137754,0.061637,False
+Bab el-Mandeb Strait,2024-08,roro,0.088556,0.026186,False
+Bab el-Mandeb Strait,2024-09,roro,0.152514,0.050882,False
+Bab el-Mandeb Strait,2024-10,roro,0.098396,0.012311,False
+Bab el-Mandeb Strait,2024-11,roro,0.213519,0.072961,False
+Bab el-Mandeb Strait,2024-12,roro,0.078717,0.066353,False
+Bab el-Mandeb Strait,2025-01,roro,0.137754,0.055789,False
+Bab el-Mandeb Strait,2025-02,roro,0.185195,0.089227,False
+Bab el-Mandeb Strait,2025-03,roro,0.157433,0.071784,False
+Bab el-Mandeb Strait,2025-04,roro,0.254189,0.130065,False
+Bab el-Mandeb Strait,2025-05,roro,0.314867,0.192956,False
+Bab el-Mandeb Strait,2025-06,roro,0.172849,0.134508,False
+Bab el-Mandeb Strait,2025-07,roro,0.24599,0.231332,False
+Bab el-Mandeb Strait,2025-08,roro,0.24599,0.156382,False
+Bab el-Mandeb Strait,2025-09,roro,0.223687,0.183544,False
+Bab el-Mandeb Strait,2025-10,roro,0.23615,0.269176,False
+Bab el-Mandeb Strait,2025-11,roro,0.284692,0.20049,False
+Bab el-Mandeb Strait,2025-12,roro,0.226311,0.159564,False
+Bab el-Mandeb Strait,2026-01,roro,0.275509,0.203777,False
+Bab el-Mandeb Strait,2026-02,roro,0.305027,0.307279,False
+Bab el-Mandeb Strait,2026-03,roro,0.305027,0.344819,False
+Bab el-Mandeb Strait,2026-04,roro,0.355865,0.407479,False
+Bab el-Mandeb Strait,2026-05,roro,0.4723,0.467263,False
+Bab el-Mandeb Strait,2026-06,roro,0.518546,0.42104,False
+Bab el-Mandeb Strait,2026-07,roro,0.4723,0.389644,False
+Bab el-Mandeb Strait,2026-08,roro,0.393584,0.346212,False
+Bab el-Mandeb Strait,2026-09,roro,0.437206,0.308147,False
+Bab el-Mandeb Strait,2026-10,roro,0.427038,0.397896,True
+Bab el-Mandeb Strait,2019-01,tanker,0.859921,0.858556,False
+Bab el-Mandeb Strait,2019-02,tanker,0.844509,0.898157,False
+Bab el-Mandeb Strait,2019-03,tanker,0.909287,0.894746,False
+Bab el-Mandeb Strait,2019-04,tanker,0.880358,0.981663,False
+Bab el-Mandeb Strait,2019-05,tanker,0.861514,0.892301,False
+Bab el-Mandeb Strait,2019-06,tanker,0.832637,0.919322,False
+Bab el-Mandeb Strait,2019-07,tanker,0.81374,0.805562,False
+Bab el-Mandeb Strait,2019-08,tanker,0.821703,0.838322,False
+Bab el-Mandeb Strait,2019-09,tanker,0.855675,0.845365,False
+Bab el-Mandeb Strait,2019-10,tanker,0.931582,0.919486,False
+Bab el-Mandeb Strait,2019-11,tanker,0.928078,0.938581,False
+Bab el-Mandeb Strait,2019-12,tanker,0.945914,0.935365,False
+Bab el-Mandeb Strait,2020-01,tanker,0.901325,0.840593,False
+Bab el-Mandeb Strait,2020-02,tanker,0.885181,0.891937,False
+Bab el-Mandeb Strait,2020-03,tanker,0.875846,0.928781,False
+Bab el-Mandeb Strait,2020-04,tanker,1.010355,1.048218,False
+Bab el-Mandeb Strait,2020-05,tanker,1.001649,1.0467,False
+Bab el-Mandeb Strait,2020-06,tanker,0.837574,0.751756,False
+Bab el-Mandeb Strait,2020-07,tanker,0.863106,0.731495,False
+Bab el-Mandeb Strait,2020-08,tanker,0.810556,0.6811,False
+Bab el-Mandeb Strait,2020-09,tanker,0.835929,0.666156,False
+Bab el-Mandeb Strait,2020-10,tanker,0.791446,0.631156,False
+Bab el-Mandeb Strait,2020-11,tanker,0.842511,0.65123,False
+Bab el-Mandeb Strait,2020-12,tanker,0.859921,0.711654,False
+Bab el-Mandeb Strait,2021-01,tanker,0.974578,0.766652,False
+Bab el-Mandeb Strait,2021-02,tanker,0.962634,0.788645,False
+Bab el-Mandeb Strait,2021-03,tanker,0.867884,0.792244,False
+Bab el-Mandeb Strait,2021-04,tanker,0.883649,0.819912,False
+Bab el-Mandeb Strait,2021-05,tanker,0.853552,0.770278,False
+Bab el-Mandeb Strait,2021-06,tanker,0.865548,0.870933,False
+Bab el-Mandeb Strait,2021-07,tanker,0.834442,0.756928,False
+Bab el-Mandeb Strait,2021-08,tanker,0.847182,0.808503,False
+Bab el-Mandeb Strait,2021-09,tanker,0.933015,0.903806,False
+Bab el-Mandeb Strait,2021-10,tanker,0.874253,0.888921,False
+Bab el-Mandeb Strait,2021-11,tanker,0.94947,0.808223,False
+Bab el-Mandeb Strait,2021-12,tanker,0.848774,0.806062,False
+Bab el-Mandeb Strait,2022-01,tanker,0.864699,0.802275,False
+Bab el-Mandeb Strait,2022-02,tanker,0.888585,0.867907,False
+Bab el-Mandeb Strait,2022-03,tanker,0.906102,0.908888,False
+Bab el-Mandeb Strait,2022-04,tanker,1.046556,1.041102,False
+Bab el-Mandeb Strait,2022-05,tanker,1.04146,1.107863,False
+Bab el-Mandeb Strait,2022-06,tanker,1.115668,1.209389,False
+Bab el-Mandeb Strait,2022-07,tanker,1.165671,1.256649,False
+Bab el-Mandeb Strait,2022-08,tanker,1.170449,1.23604,False
+Bab el-Mandeb Strait,2022-09,tanker,1.211109,1.310645,False
+Bab el-Mandeb Strait,2022-10,tanker,1.207075,1.276542,False
+Bab el-Mandeb Strait,2022-11,tanker,1.227564,1.303822,False
+Bab el-Mandeb Strait,2022-12,tanker,1.253256,1.342499,False
+Bab el-Mandeb Strait,2023-01,tanker,1.245294,1.329955,False
+Bab el-Mandeb Strait,2023-02,tanker,1.237673,1.350844,False
+Bab el-Mandeb Strait,2023-03,tanker,1.294659,1.434243,False
+Bab el-Mandeb Strait,2023-04,tanker,1.314777,1.522675,False
+Bab el-Mandeb Strait,2023-05,tanker,1.318546,1.416255,False
+Bab el-Mandeb Strait,2023-06,tanker,1.314777,1.497235,False
+Bab el-Mandeb Strait,2023-07,tanker,1.337656,1.405448,False
+Bab el-Mandeb Strait,2023-08,tanker,1.213445,1.236533,False
+Bab el-Mandeb Strait,2023-09,tanker,1.303259,1.351833,False
+Bab el-Mandeb Strait,2023-10,tanker,1.328101,1.394862,False
+Bab el-Mandeb Strait,2023-11,tanker,1.298322,1.307188,False
+Bab el-Mandeb Strait,2023-12,tanker,1.242109,1.27155,False
+Bab el-Mandeb Strait,2024-01,tanker,0.673605,0.807046,False
+Bab el-Mandeb Strait,2024-02,tanker,0.604306,0.735631,False
+Bab el-Mandeb Strait,2024-03,tanker,0.614685,0.707001,False
+Bab el-Mandeb Strait,2024-04,tanker,0.59239,0.629831,False
+Bab el-Mandeb Strait,2024-05,tanker,0.574873,0.63783,False
+Bab el-Mandeb Strait,2024-06,tanker,0.572644,0.653207,False
+Bab el-Mandeb Strait,2024-07,tanker,0.555764,0.581598,False
+Bab el-Mandeb Strait,2024-08,tanker,0.530285,0.508274,False
+Bab el-Mandeb Strait,2024-09,tanker,0.523278,0.567754,False
+Bab el-Mandeb Strait,2024-10,tanker,0.512768,0.478521,False
+Bab el-Mandeb Strait,2024-11,tanker,0.561125,0.527022,False
+Bab el-Mandeb Strait,2024-12,tanker,0.560541,0.548031,False
+Bab el-Mandeb Strait,2025-01,tanker,0.522323,0.500995,False
+Bab el-Mandeb Strait,2025-02,tanker,0.521868,0.537267,False
+Bab el-Mandeb Strait,2025-03,tanker,0.584428,0.689698,False
+Bab el-Mandeb Strait,2025-04,tanker,0.579226,0.665618,False
+Bab el-Mandeb Strait,2025-05,tanker,0.557356,0.647831,False
+Bab el-Mandeb Strait,2025-06,tanker,0.570998,0.621951,False
+Bab el-Mandeb Strait,2025-07,tanker,0.531877,0.61105,False
+Bab el-Mandeb Strait,2025-08,tanker,0.563726,0.590585,False
+Bab el-Mandeb Strait,2025-09,tanker,0.541379,0.631241,False
+Bab el-Mandeb Strait,2025-10,tanker,0.613092,0.73729,False
+Bab el-Mandeb Strait,2025-11,tanker,0.631883,0.72637,False
+Bab el-Mandeb Strait,2025-12,tanker,0.571688,0.654946,False
+Bab el-Mandeb Strait,2026-01,tanker,0.565319,0.619232,False
+Bab el-Mandeb Strait,2026-02,tanker,0.678781,0.740751,False
+Bab el-Mandeb Strait,2026-03,tanker,0.738895,0.767563,False
+Bab el-Mandeb Strait,2026-04,tanker,0.722387,0.787077,False
+Bab el-Mandeb Strait,2026-05,tanker,0.686345,0.803274,False
+Bab el-Mandeb Strait,2026-06,tanker,0.679603,0.812305,False
+Bab el-Mandeb Strait,2026-07,tanker,0.574873,0.728209,False
+Bab el-Mandeb Strait,2026-08,tanker,0.418814,0.363874,False
+Bab el-Mandeb Strait,2026-09,tanker,0.396572,0.445255,False
+Bab el-Mandeb Strait,2026-10,tanker,0.458115,0.491822,True
+Bab el-Mandeb Strait,2019-01,total,0.843257,0.83276,False
+Bab el-Mandeb Strait,2019-02,total,0.864514,0.881838,False
+Bab el-Mandeb Strait,2019-03,total,0.849025,0.837561,False
+Bab el-Mandeb Strait,2019-04,total,0.89846,0.930249,False
+Bab el-Mandeb Strait,2019-05,total,0.84483,0.884597,False
+Bab el-Mandeb Strait,2019-06,total,0.832349,0.876178,False
+Bab el-Mandeb Strait,2019-07,total,0.871051,0.873941,False
+Bab el-Mandeb Strait,2019-08,total,0.887832,0.907992,False
+Bab el-Mandeb Strait,2019-09,total,0.877326,0.882008,False
+Bab el-Mandeb Strait,2019-10,total,0.893076,0.91598,False
+Bab el-Mandeb Strait,2019-11,total,0.881661,0.910475,False
+Bab el-Mandeb Strait,2019-12,total,0.884686,0.884784,False
+Bab el-Mandeb Strait,2020-01,total,0.931358,0.894949,False
+Bab el-Mandeb Strait,2020-02,total,0.891322,0.879523,False
+Bab el-Mandeb Strait,2020-03,total,0.8721,0.915493,False
+Bab el-Mandeb Strait,2020-04,total,0.925013,0.953499,False
+Bab el-Mandeb Strait,2020-05,total,0.871575,0.920117,False
+Bab el-Mandeb Strait,2020-06,total,0.789539,0.789139,False
+Bab el-Mandeb Strait,2020-07,total,0.861087,0.833766,False
+Bab el-Mandeb Strait,2020-08,total,0.875246,0.853258,False
+Bab el-Mandeb Strait,2020-09,total,0.902253,0.871461,False
+Bab el-Mandeb Strait,2020-10,total,0.892027,0.852355,False
+Bab el-Mandeb Strait,2020-11,total,0.913091,0.87743,False
+Bab el-Mandeb Strait,2020-12,total,0.901991,0.889737,False
+Bab el-Mandeb Strait,2021-01,total,0.937127,0.882502,False
+Bab el-Mandeb Strait,2021-02,total,0.956249,0.913044,False
+Bab el-Mandeb Strait,2021-03,total,0.874722,0.864897,False
+Bab el-Mandeb Strait,2021-04,total,0.961862,1.021483,False
+Bab el-Mandeb Strait,2021-05,total,0.913528,0.94917,False
+Bab el-Mandeb Strait,2021-06,total,0.953191,0.98766,False
+Bab el-Mandeb Strait,2021-07,total,0.953384,0.954898,False
+Bab el-Mandeb Strait,2021-08,total,0.97908,0.949766,False
+Bab el-Mandeb Strait,2021-09,total,0.996543,1.019253,False
+Bab el-Mandeb Strait,2021-10,total,0.958103,0.962048,False
+Bab el-Mandeb Strait,2021-11,total,1.007923,0.963425,False
+Bab el-Mandeb Strait,2021-12,total,0.986946,1.007859,False
+Bab el-Mandeb Strait,2022-01,total,0.993764,0.945642,False
+Bab el-Mandeb Strait,2022-02,total,1.027663,1.02296,False
+Bab el-Mandeb Strait,2022-03,total,1.004776,0.975378,False
+Bab el-Mandeb Strait,2022-04,total,1.045313,1.017643,False
+Bab el-Mandeb Strait,2022-05,total,1.041485,1.050211,False
+Bab el-Mandeb Strait,2022-06,total,1.082704,1.092729,False
+Bab el-Mandeb Strait,2022-07,total,1.109659,1.125947,False
+Bab el-Mandeb Strait,2022-08,total,1.136928,1.143793,False
+Bab el-Mandeb Strait,2022-09,total,1.147731,1.127975,False
+Bab el-Mandeb Strait,2022-10,total,1.14899,1.122068,False
+Bab el-Mandeb Strait,2022-11,total,1.191083,1.173573,False
+Bab el-Mandeb Strait,2022-12,total,1.158954,1.157253,False
+Bab el-Mandeb Strait,2023-01,total,1.163674,1.146647,False
+Bab el-Mandeb Strait,2023-02,total,1.146686,1.136262,False
+Bab el-Mandeb Strait,2023-03,total,1.193041,1.221051,False
+Bab el-Mandeb Strait,2023-04,total,1.215468,1.269391,False
+Bab el-Mandeb Strait,2023-05,total,1.261214,1.293122,False
+Bab el-Mandeb Strait,2023-06,total,1.244189,1.286363,False
+Bab el-Mandeb Strait,2023-07,total,1.204578,1.182662,False
+Bab el-Mandeb Strait,2023-08,total,1.186748,1.170478,False
+Bab el-Mandeb Strait,2023-09,total,1.226306,1.211866,False
+Bab el-Mandeb Strait,2023-10,total,1.27852,1.262325,False
+Bab el-Mandeb Strait,2023-11,total,1.257194,1.239565,False
+Bab el-Mandeb Strait,2023-12,total,1.05984,0.993436,False
+Bab el-Mandeb Strait,2024-01,total,0.640833,0.576994,False
+Bab el-Mandeb Strait,2024-02,total,0.567867,0.494389,False
+Bab el-Mandeb Strait,2024-03,total,0.530182,0.451321,False
+Bab el-Mandeb Strait,2024-04,total,0.526721,0.416849,False
+Bab el-Mandeb Strait,2024-05,total,0.520743,0.415166,False
+Bab el-Mandeb Strait,2024-06,total,0.509922,0.410372,False
+Bab el-Mandeb Strait,2024-07,total,0.469874,0.366044,False
+Bab el-Mandeb Strait,2024-08,total,0.508681,0.369522,False
+Bab el-Mandeb Strait,2024-09,total,0.496917,0.371554,False
+Bab el-Mandeb Strait,2024-10,total,0.512876,0.362626,False
+Bab el-Mandeb Strait,2024-11,total,0.539726,0.366197,False
+Bab el-Mandeb Strait,2024-12,total,0.520218,0.37502,False
+Bab el-Mandeb Strait,2025-01,total,0.523889,0.380816,False
+Bab el-Mandeb Strait,2025-02,total,0.520218,0.381227,False
+Bab el-Mandeb Strait,2025-03,total,0.535426,0.440919,False
+Bab el-Mandeb Strait,2025-04,total,0.533766,0.436086,False
+Bab el-Mandeb Strait,2025-05,total,0.538573,0.413605,False
+Bab el-Mandeb Strait,2025-06,total,0.515883,0.398006,False
+Bab el-Mandeb Strait,2025-07,total,0.507632,0.402158,False
+Bab el-Mandeb Strait,2025-08,total,0.569513,0.424734,False
+Bab el-Mandeb Strait,2025-09,total,0.551648,0.443668,False
+Bab el-Mandeb Strait,2025-10,total,0.586819,0.485138,False
+Bab el-Mandeb Strait,2025-11,total,0.613966,0.50178,False
+Bab el-Mandeb Strait,2025-12,total,0.531755,0.440911,False
+Bab el-Mandeb Strait,2026-01,total,0.544866,0.416719,False
+Bab el-Mandeb Strait,2026-02,total,0.598019,0.474946,False
+Bab el-Mandeb Strait,2026-03,total,0.577904,0.468999,False
+Bab el-Mandeb Strait,2026-04,total,0.597167,0.499001,False
+Bab el-Mandeb Strait,2026-05,total,0.586819,0.482649,False
+Bab el-Mandeb Strait,2026-06,total,0.595541,0.504384,False
+Bab el-Mandeb Strait,2026-07,total,0.546963,0.462667,False
+Bab el-Mandeb Strait,2026-08,total,0.444703,0.308136,False
+Bab el-Mandeb Strait,2026-09,total,0.431889,0.334309,False
+Bab el-Mandeb Strait,2026-10,total,0.457142,0.347391,True
+Cape of Good Hope,2019-01,cargo,0.95825,0.80071,False
+Cape of Good Hope,2019-02,cargo,1.014582,0.780059,False
+Cape of Good Hope,2019-03,cargo,0.853618,0.722362,False
+Cape of Good Hope,2019-04,cargo,0.944241,0.763606,False
+Cape of Good Hope,2019-05,cargo,0.945171,0.883887,False
+Cape of Good Hope,2019-06,cargo,1.041548,1.077341,False
+Cape of Good Hope,2019-07,cargo,1.054162,1.170271,False
+Cape of Good Hope,2019-08,cargo,1.081191,1.09083,False
+Cape of Good Hope,2019-09,cargo,1.0893,1.051762,False
+Cape of Good Hope,2019-10,cargo,1.05329,0.997486,False
+Cape of Good Hope,2019-11,cargo,0.937033,0.903691,False
+Cape of Good Hope,2019-12,cargo,0.838795,0.791708,False
+Cape of Good Hope,2020-01,cargo,1.307893,0.627001,False
+Cape of Good Hope,2020-02,cargo,1.046705,0.66106,False
+Cape of Good Hope,2020-03,cargo,0.916397,0.709893,False
+Cape of Good Hope,2020-04,cargo,1.019023,0.869795,False
+Cape of Good Hope,2020-05,cargo,1.157921,1.102399,False
+Cape of Good Hope,2020-06,cargo,1.065875,1.164385,False
+Cape of Good Hope,2020-07,cargo,1.277375,1.304134,False
+Cape of Good Hope,2020-08,cargo,1.153562,1.231414,False
+Cape of Good Hope,2020-09,cargo,1.118132,1.220286,False
+Cape of Good Hope,2020-10,cargo,1.021028,1.063387,False
+Cape of Good Hope,2020-11,cargo,0.992894,0.948456,False
+Cape of Good Hope,2020-12,cargo,0.835308,0.820883,False
+Cape of Good Hope,2021-01,cargo,0.860594,0.826553,False
+Cape of Good Hope,2021-02,cargo,0.930597,0.808365,False
+Cape of Good Hope,2021-03,cargo,0.98092,0.811619,False
+Cape of Good Hope,2021-04,cargo,1.046053,1.028222,False
+Cape of Good Hope,2021-05,cargo,0.987895,1.030695,False
+Cape of Good Hope,2021-06,cargo,1.039746,1.098356,False
+Cape of Good Hope,2021-07,cargo,1.069856,1.178803,False
+Cape of Good Hope,2021-08,cargo,0.933836,1.085492,False
+Cape of Good Hope,2021-09,cargo,1.008211,1.141576,False
+Cape of Good Hope,2021-10,cargo,0.820485,0.977808,False
+Cape of Good Hope,2021-11,cargo,0.842428,0.834885,False
+Cape of Good Hope,2021-12,cargo,0.840539,0.827993,False
+Cape of Good Hope,2022-01,cargo,0.837051,0.788076,False
+Cape of Good Hope,2022-02,cargo,0.880399,0.75044,False
+Cape of Good Hope,2022-03,cargo,0.842283,0.833227,False
+Cape of Good Hope,2022-04,cargo,0.848735,0.892552,False
+Cape of Good Hope,2022-05,cargo,0.936451,1.0328,False
+Cape of Good Hope,2022-06,cargo,1.01632,1.088517,False
+Cape of Good Hope,2022-07,cargo,1.023644,1.199111,False
+Cape of Good Hope,2022-08,cargo,1.038467,1.172067,False
+Cape of Good Hope,2022-09,cargo,1.010914,1.26305,False
+Cape of Good Hope,2022-10,cargo,0.924244,1.071261,False
+Cape of Good Hope,2022-11,cargo,0.900092,0.964966,False
+Cape of Good Hope,2022-12,cargo,0.846643,0.872986,False
+Cape of Good Hope,2023-01,cargo,0.903318,0.876899,False
+Cape of Good Hope,2023-02,cargo,0.910325,0.820433,False
+Cape of Good Hope,2023-03,cargo,0.934707,0.943783,False
+Cape of Good Hope,2023-04,cargo,0.976676,1.044295,False
+Cape of Good Hope,2023-05,cargo,1.091655,1.193816,False
+Cape of Good Hope,2023-06,cargo,1.149667,1.328643,False
+Cape of Good Hope,2023-07,cargo,1.151818,1.311023,False
+Cape of Good Hope,2023-08,cargo,1.267784,1.372563,False
+Cape of Good Hope,2023-09,cargo,1.2704,1.411734,False
+Cape of Good Hope,2023-10,cargo,1.090783,1.20986,False
+Cape of Good Hope,2023-11,cargo,1.063172,1.150727,False
+Cape of Good Hope,2023-12,cargo,1.103862,1.144295,False
+Cape of Good Hope,2024-01,cargo,1.521515,1.533527,False
+Cape of Good Hope,2024-02,cargo,1.783966,1.660631,False
+Cape of Good Hope,2024-03,cargo,1.814483,1.948275,False
+Cape of Good Hope,2024-04,cargo,1.856946,1.966366,False
+Cape of Good Hope,2024-05,cargo,1.918243,2.073738,False
+Cape of Good Hope,2024-06,cargo,1.970471,2.233017,False
+Cape of Good Hope,2024-07,cargo,1.942657,2.277622,False
+Cape of Good Hope,2024-08,cargo,2.040313,2.250391,False
+Cape of Good Hope,2024-09,cargo,1.850639,2.175544,False
+Cape of Good Hope,2024-10,cargo,1.856336,2.108052,False
+Cape of Good Hope,2024-11,cargo,1.801986,1.98708,False
+Cape of Good Hope,2024-12,cargo,1.734266,1.980315,False
+Cape of Good Hope,2025-01,cargo,1.861568,1.958599,False
+Cape of Good Hope,2025-02,cargo,1.94711,1.985534,False
+Cape of Good Hope,2025-03,cargo,1.78135,1.955179,False
+Cape of Good Hope,2025-04,cargo,1.811897,2.108929,False
+Cape of Good Hope,2025-05,cargo,1.94876,2.316411,False
+Cape of Good Hope,2025-06,cargo,2.033541,2.417098,False
+Cape of Good Hope,2025-07,cargo,2.1432,2.537321,False
+Cape of Good Hope,2025-08,cargo,2.148432,2.50139,False
+Cape of Good Hope,2025-09,cargo,2.052462,2.433568,False
+Cape of Good Hope,2025-10,cargo,2.043801,2.352682,False
+Cape of Good Hope,2025-11,cargo,1.903798,2.238336,False
+Cape of Good Hope,2025-12,cargo,1.859824,2.138871,False
+Cape of Good Hope,2026-01,cargo,1.926962,2.092954,False
+Cape of Good Hope,2026-02,cargo,1.987655,2.076337,False
+Cape of Good Hope,2026-03,cargo,1.987997,2.108667,False
+Cape of Good Hope,2026-04,cargo,1.886679,2.222217,False
+Cape of Good Hope,2026-05,cargo,2.046416,2.446042,False
+Cape of Good Hope,2026-06,cargo,1.964164,2.356342,False
+Cape of Good Hope,2026-07,cargo,2.005436,2.298051,False
+Cape of Good Hope,2026-08,cargo,1.894701,2.188184,False
+Cape of Good Hope,2026-09,cargo,1.846134,2.133115,False
+Cape of Good Hope,2026-10,cargo,1.820726,2.086105,True
+Cape of Good Hope,2019-01,container,1.110507,0.937582,False
+Cape of Good Hope,2019-02,container,1.133436,0.962889,False
+Cape of Good Hope,2019-03,container,0.896503,0.893461,False
+Cape of Good Hope,2019-04,container,0.962247,0.954673,False
+Cape of Good Hope,2019-05,container,0.994829,1.004906,False
+Cape of Good Hope,2019-06,container,0.968223,1.035652,False
+Cape of Good Hope,2019-07,container,1.046884,1.045627,False
+Cape of Good Hope,2019-08,container,1.052668,1.028679,False
+Cape of Good Hope,2019-09,container,1.06385,1.02681,False
+Cape of Good Hope,2019-10,container,1.035317,0.961159,False
+Cape of Good Hope,2019-11,container,1.004084,0.887565,False
+Cape of Good Hope,2019-12,container,0.948558,0.795564,False
+Cape of Good Hope,2020-01,container,1.7236,0.766245,False
+Cape of Good Hope,2020-02,container,1.131449,0.853349,False
+Cape of Good Hope,2020-03,container,0.786609,0.702714,False
+Cape of Good Hope,2020-04,container,0.818806,0.839882,False
+Cape of Good Hope,2020-05,container,1.000613,1.136911,False
+Cape of Good Hope,2020-06,container,0.968223,0.972583,False
+Cape of Good Hope,2020-07,container,1.07002,1.202573,False
+Cape of Good Hope,2020-08,container,1.162562,1.137266,False
+Cape of Good Hope,2020-09,container,1.057874,0.984645,False
+Cape of Good Hope,2020-10,container,1.029533,1.033488,False
+Cape of Good Hope,2020-11,container,0.9742,0.911601,False
+Cape of Good Hope,2020-12,container,0.902287,0.859704,False
+Cape of Good Hope,2021-01,container,0.8618,0.809022,False
+Cape of Good Hope,2021-02,container,0.922118,0.92085,False
+Cape of Good Hope,2021-03,container,0.948558,0.883749,False
+Cape of Good Hope,2021-04,container,1.135571,1.378795,False
+Cape of Good Hope,2021-05,container,0.908071,0.979417,False
+Cape of Good Hope,2021-06,container,1.06385,1.07497,False
+Cape of Good Hope,2021-07,container,0.867584,0.963082,False
+Cape of Good Hope,2021-08,container,0.989045,1.010091,False
+Cape of Good Hope,2021-09,container,1.004084,1.063315,False
+Cape of Good Hope,2021-10,container,0.884935,0.88733,False
+Cape of Good Hope,2021-11,container,0.932363,0.898251,False
+Cape of Good Hope,2021-12,container,0.873368,0.907936,False
+Cape of Good Hope,2022-01,container,0.879152,0.866007,False
+Cape of Good Hope,2022-02,container,0.934925,0.954998,False
+Cape of Good Hope,2022-03,container,0.8618,0.87786,False
+Cape of Good Hope,2022-04,container,0.90248,0.917095,False
+Cape of Good Hope,2022-05,container,0.919639,0.924691,False
+Cape of Good Hope,2022-06,container,0.93834,1.085354,False
+Cape of Good Hope,2022-07,container,1.006397,1.118458,False
+Cape of Good Hope,2022-08,container,1.012181,1.067756,False
+Cape of Good Hope,2022-09,container,0.980177,1.05226,False
+Cape of Good Hope,2022-10,container,0.879152,0.899376,False
+Cape of Good Hope,2022-11,container,0.914433,0.903961,False
+Cape of Good Hope,2022-12,container,0.960126,1.056971,False
+Cape of Good Hope,2023-01,container,1.029533,1.184431,False
+Cape of Good Hope,2023-02,container,1.005364,1.239491,False
+Cape of Good Hope,2023-03,container,0.93699,1.021647,False
+Cape of Good Hope,2023-04,container,1.06385,1.200901,False
+Cape of Good Hope,2023-05,container,1.029533,1.15155,False
+Cape of Good Hope,2023-06,container,1.033967,1.163779,False
+Cape of Good Hope,2023-07,container,1.116291,1.189987,False
+Cape of Good Hope,2023-08,container,1.081588,1.101759,False
+Cape of Good Hope,2023-09,container,1.153501,1.257391,False
+Cape of Good Hope,2023-10,container,1.116291,1.099337,False
+Cape of Good Hope,2023-11,container,1.01006,0.952607,False
+Cape of Good Hope,2023-12,container,1.665761,2.611366,False
+Cape of Good Hope,2024-01,container,3.048111,5.912721,False
+Cape of Good Hope,2024-02,container,3.190315,6.291679,False
+Cape of Good Hope,2024-03,container,3.273683,6.504604,False
+Cape of Good Hope,2024-04,container,3.263272,6.495741,False
+Cape of Good Hope,2024-05,container,3.447199,6.875184,False
+Cape of Good Hope,2024-06,container,3.562106,6.6875,False
+Cape of Good Hope,2024-07,container,3.562877,6.885547,False
+Cape of Good Hope,2024-08,container,3.620716,6.886465,False
+Cape of Good Hope,2024-09,container,3.448549,6.414194,False
+Cape of Good Hope,2024-10,container,3.666987,6.933634,False
+Cape of Good Hope,2024-11,container,3.430619,6.587539,False
+Cape of Good Hope,2024-12,container,3.395144,6.580842,False
+Cape of Good Hope,2025-01,container,3.568661,6.894048,False
+Cape of Good Hope,2025-02,container,3.592416,7.015997,False
+Cape of Good Hope,2025-03,container,3.452983,6.600641,False
+Cape of Good Hope,2025-04,container,3.448549,6.937997,False
+Cape of Good Hope,2025-05,container,3.568661,7.156143,False
+Cape of Good Hope,2025-06,container,3.944614,7.65501,False
+Cape of Good Hope,2025-07,container,3.73061,7.238269,False
+Cape of Good Hope,2025-08,container,3.817368,7.649549,False
+Cape of Good Hope,2025-09,container,3.77129,7.304212,False
+Cape of Good Hope,2025-10,container,3.695907,7.258985,False
+Cape of Good Hope,2025-11,container,3.436596,7.270966,False
+Cape of Good Hope,2025-12,container,3.516606,7.108405,False
+Cape of Good Hope,2026-01,container,3.661203,7.438377,False
+Cape of Good Hope,2026-02,container,3.541188,7.089425,False
+Cape of Good Hope,2026-03,container,3.614932,7.319982,False
+Cape of Good Hope,2026-04,container,3.705547,7.453644,False
+Cape of Good Hope,2026-05,container,3.724826,7.511544,False
+Cape of Good Hope,2026-06,container,3.729453,7.185931,False
+Cape of Good Hope,2026-07,container,3.638068,6.904006,False
+Cape of Good Hope,2026-08,container,3.296818,6.107927,False
+Cape of Good Hope,2026-09,container,2.81502,5.05728,False
+Cape of Good Hope,2026-10,container,2.675166,4.758513,True
+Cape of Good Hope,2019-01,dry_bulk,0.88013,0.783125,False
+Cape of Good Hope,2019-02,dry_bulk,0.931121,0.757058,False
+Cape of Good Hope,2019-03,dry_bulk,0.800745,0.700315,False
+Cape of Good Hope,2019-04,dry_bulk,0.917789,0.740229,False
+Cape of Good Hope,2019-05,dry_bulk,0.908892,0.869496,False
+Cape of Good Hope,2019-06,dry_bulk,1.048562,1.080028,False
+Cape of Good Hope,2019-07,dry_bulk,1.036597,1.179598,False
+Cape of Good Hope,2019-08,dry_bulk,1.069961,1.094691,False
+Cape of Good Hope,2019-09,dry_bulk,1.08185,1.053484,False
+Cape of Good Hope,2019-10,dry_bulk,1.063058,1.001498,False
+Cape of Good Hope,2019-11,dry_bulk,0.922545,0.905241,False
+Cape of Good Hope,2019-12,dry_bulk,0.790391,0.788218,False
+Cape of Good Hope,2020-01,dry_bulk,1.103326,0.607929,False
+Cape of Good Hope,2020-02,dry_bulk,1.00109,0.640139,False
+Cape of Good Hope,2020-03,dry_bulk,0.946858,0.710204,False
+Cape of Good Hope,2020-04,dry_bulk,1.055695,0.871139,False
+Cape of Good Hope,2020-05,dry_bulk,1.20687,1.101536,False
+Cape of Good Hope,2020-06,dry_bulk,1.105627,1.184359,False
+Cape of Good Hope,2020-07,dry_bulk,1.335726,1.314556,False
+Cape of Good Hope,2020-08,dry_bulk,1.176958,1.241861,False
+Cape of Good Hope,2020-09,dry_bulk,1.151992,1.246205,False
+Cape of Good Hope,2020-10,dry_bulk,1.027393,1.069545,False
+Cape of Good Hope,2020-11,dry_bulk,0.976043,0.950596,False
+Cape of Good Hope,2020-12,dry_bulk,0.793842,0.813008,False
+Cape of Good Hope,2021-01,dry_bulk,0.844464,0.825967,False
+Cape of Good Hope,2021-02,dry_bulk,0.952775,0.799917,False
+Cape of Good Hope,2021-03,dry_bulk,0.988276,0.803083,False
+Cape of Good Hope,2021-04,dry_bulk,1.037863,0.995946,False
+Cape of Good Hope,2021-05,dry_bulk,1.021641,1.039075,False
+Cape of Good Hope,2021-06,dry_bulk,1.041429,1.099865,False
+Cape of Good Hope,2021-07,dry_bulk,1.122884,1.19959,False
+Cape of Good Hope,2021-08,dry_bulk,0.939955,1.097353,False
+Cape of Good Hope,2021-09,dry_bulk,1.015275,1.151227,False
+Cape of Good Hope,2021-10,dry_bulk,0.814551,0.989505,False
+Cape of Good Hope,2021-11,dry_bulk,0.811982,0.826939,False
+Cape of Good Hope,2021-12,dry_bulk,0.844464,0.82107,False
+Cape of Good Hope,2022-01,dry_bulk,0.828357,0.779327,False
+Cape of Good Hope,2022-02,dry_bulk,0.878897,0.731391,False
+Cape of Good Hope,2022-03,dry_bulk,0.836411,0.83056,False
+Cape of Good Hope,2022-04,dry_bulk,0.833381,0.889445,False
+Cape of Good Hope,2022-05,dry_bulk,0.946858,1.044677,False
+Cape of Good Hope,2022-06,dry_bulk,1.042618,1.086559,False
+Cape of Good Hope,2022-07,dry_bulk,1.033146,1.208532,False
+Cape of Good Hope,2022-08,dry_bulk,1.058456,1.184776,False
+Cape of Good Hope,2022-09,dry_bulk,1.027163,1.286035,False
+Cape of Good Hope,2022-10,dry_bulk,0.942256,1.089977,False
+Cape of Good Hope,2022-11,dry_bulk,0.921356,0.971948,False
+Cape of Good Hope,2022-12,dry_bulk,0.844464,0.85978,False
+Cape of Good Hope,2023-01,dry_bulk,0.882431,0.845833,False
+Cape of Good Hope,2023-02,dry_bulk,0.901825,0.778519,False
+Cape of Good Hope,2023-03,dry_bulk,0.945708,0.937889,False
+Cape of Good Hope,2023-04,dry_bulk,0.972476,1.029581,False
+Cape of Good Hope,2023-05,dry_bulk,1.127486,1.200393,False
+Cape of Good Hope,2023-06,dry_bulk,1.197168,1.343786,False
+Cape of Good Hope,2023-07,dry_bulk,1.18156,1.327505,False
+Cape of Good Hope,2023-08,dry_bulk,1.315017,1.399725,False
+Cape of Good Hope,2023-09,dry_bulk,1.325563,1.427209,False
+Cape of Good Hope,2023-10,dry_bulk,1.102175,1.221215,False
+Cape of Good Hope,2023-11,dry_bulk,1.086605,1.171745,False
+Cape of Good Hope,2023-12,dry_bulk,0.976771,1.003433,False
+Cape of Good Hope,2024-01,dry_bulk,1.163152,1.113037,False
+Cape of Good Hope,2024-02,dry_bulk,1.459821,1.217373,False
+Cape of Good Hope,2024-03,dry_bulk,1.48414,1.51266,False
+Cape of Good Hope,2024-04,dry_bulk,1.518156,1.533437,False
+Cape of Good Hope,2024-05,dry_bulk,1.568126,1.615153,False
+Cape of Good Hope,2024-06,dry_bulk,1.616831,1.806179,False
+Cape of Good Hope,2024-07,dry_bulk,1.57733,1.837526,False
+Cape of Good Hope,2024-08,dry_bulk,1.66937,1.805917,False
+Cape of Good Hope,2024-09,dry_bulk,1.500324,1.769802,False
+Cape of Good Hope,2024-10,dry_bulk,1.405906,1.640007,False
+Cape of Good Hope,2024-11,dry_bulk,1.427804,1.54472,False
+Cape of Good Hope,2024-12,dry_bulk,1.335726,1.537305,False
+Cape of Good Hope,2025-01,dry_bulk,1.465732,1.481231,False
+Cape of Good Hope,2025-02,dry_bulk,1.583288,1.504802,False
+Cape of Good Hope,2025-03,dry_bulk,1.417411,1.512552,False
+Cape of Good Hope,2025-04,dry_bulk,1.44207,1.647845,False
+Cape of Good Hope,2025-05,dry_bulk,1.586534,1.859737,False
+Cape of Good Hope,2025-06,dry_bulk,1.635852,1.923001,False
+Cape of Good Hope,2025-07,dry_bulk,1.802828,2.093282,False
+Cape of Good Hope,2025-08,dry_bulk,1.780968,2.011345,False
+Cape of Good Hope,2025-09,dry_bulk,1.663196,1.972008,False
+Cape of Good Hope,2025-10,dry_bulk,1.683176,1.885577,False
+Cape of Good Hope,2025-11,dry_bulk,1.527667,1.749944,False
+Cape of Good Hope,2025-12,dry_bulk,1.48299,1.665516,False
+Cape of Good Hope,2026-01,dry_bulk,1.510601,1.577409,False
+Cape of Good Hope,2026-02,dry_bulk,1.643155,1.598446,False
+Cape of Good Hope,2026-03,dry_bulk,1.609544,1.609983,False
+Cape of Good Hope,2026-04,dry_bulk,1.481302,1.72375,False
+Cape of Good Hope,2026-05,dry_bulk,1.656715,1.966537,False
+Cape of Good Hope,2026-06,dry_bulk,1.564521,1.898105,False
+Cape of Good Hope,2026-07,dry_bulk,1.626802,1.856,False
+Cape of Good Hope,2026-08,dry_bulk,1.564675,1.817917,False
+Cape of Good Hope,2026-09,dry_bulk,1.56571,1.850346,False
+Cape of Good Hope,2026-10,dry_bulk,1.566424,1.823302,True
+Cape of Good Hope,2019-01,general_cargo,1.321752,1.058048,False
+Cape of Good Hope,2019-02,general_cargo,1.463368,1.114747,False
+Cape of Good Hope,2019-03,general_cargo,1.153018,1.03229,False
+Cape of Good Hope,2019-04,general_cargo,1.162392,1.10387,False
+Cape of Good Hope,2019-05,general_cargo,1.054589,1.049682,False
+Cape of Good Hope,2019-06,general_cargo,1.133332,1.16845,False
+Cape of Good Hope,2019-07,general_cargo,1.223324,1.329248,False
+Cape of Good Hope,2019-08,general_cargo,1.195201,1.242439,False
+Cape of Good Hope,2019-09,general_cargo,1.133332,1.075835,False
+Cape of Good Hope,2019-10,general_cargo,0.998345,0.974845,False
+Cape of Good Hope,2019-11,general_cargo,0.871794,0.896816,False
+Cape of Good Hope,2019-12,general_cargo,1.040528,1.017042,False
+Cape of Good Hope,2020-01,general_cargo,2.291974,1.010307,False
+Cape of Good Hope,2020-02,general_cargo,1.262598,0.835351,False
+Cape of Good Hope,2020-03,general_cargo,0.773366,0.688138,False
+Cape of Good Hope,2020-04,general_cargo,1.147862,1.025085,False
+Cape of Good Hope,2020-05,general_cargo,0.9421,0.987396,False
+Cape of Good Hope,2020-06,general_cargo,0.944443,1.155848,False
+Cape of Good Hope,2020-07,general_cargo,1.195201,1.294386,False
+Cape of Good Hope,2020-08,general_cargo,0.899916,1.128282,False
+Cape of Good Hope,2020-09,general_cargo,0.973503,1.057511,False
+Cape of Good Hope,2020-10,general_cargo,0.9421,0.824489,False
+Cape of Good Hope,2020-11,general_cargo,1.205982,1.039418,False
+Cape of Good Hope,2020-12,general_cargo,1.138957,1.067793,False
+Cape of Good Hope,2021-01,general_cargo,1.082712,0.995466,False
+Cape of Good Hope,2021-02,general_cargo,0.76282,0.64541,False
+Cape of Good Hope,2021-03,general_cargo,0.9421,0.881814,False
+Cape of Good Hope,2021-04,general_cargo,0.944443,0.891836,False
+Cape of Good Hope,2021-05,general_cargo,0.801488,0.765292,False
+Cape of Good Hope,2021-06,general_cargo,0.973503,1.12523,False
+Cape of Good Hope,2021-07,general_cargo,0.998345,1.192915,False
+Cape of Good Hope,2021-08,general_cargo,0.70306,0.710193,False
+Cape of Good Hope,2021-09,general_cargo,1.002563,1.040865,False
+Cape of Good Hope,2021-10,general_cargo,0.70306,0.772266,False
+Cape of Good Hope,2021-11,general_cargo,0.886324,0.921036,False
+Cape of Good Hope,2021-12,general_cargo,0.773366,0.786778,False
+Cape of Good Hope,2022-01,general_cargo,0.773366,0.821135,False
+Cape of Good Hope,2022-02,general_cargo,0.684981,0.682715,False
+Cape of Good Hope,2022-03,general_cargo,0.857733,0.680512,False
+Cape of Good Hope,2022-04,general_cargo,0.842734,0.97607,False
+Cape of Good Hope,2022-05,general_cargo,0.885855,0.92584,False
+Cape of Good Hope,2022-06,general_cargo,0.929914,1.278094,False
+Cape of Good Hope,2022-07,general_cargo,0.956161,1.04617,False
+Cape of Good Hope,2022-08,general_cargo,0.970222,1.024564,False
+Cape of Good Hope,2022-09,general_cargo,0.900854,1.094829,False
+Cape of Good Hope,2022-10,general_cargo,0.801488,0.899093,False
+Cape of Good Hope,2022-11,general_cargo,0.697435,0.895277,False
+Cape of Good Hope,2022-12,general_cargo,0.604631,0.561763,False
+Cape of Good Hope,2023-01,general_cargo,0.956161,0.996902,False
+Cape of Good Hope,2023-02,general_cargo,0.76282,0.900503,False
+Cape of Good Hope,2023-03,general_cargo,0.871794,0.827318,False
+Cape of Good Hope,2023-04,general_cargo,0.871794,1.001478,False
+Cape of Good Hope,2023-05,general_cargo,0.970222,1.050913,False
+Cape of Good Hope,2023-06,general_cargo,1.118802,1.466102,False
+Cape of Good Hope,2023-07,general_cargo,0.970222,1.003573,False
+Cape of Good Hope,2023-08,general_cargo,1.279569,1.297925,False
+Cape of Good Hope,2023-09,general_cargo,1.162392,1.41528,False
+Cape of Good Hope,2023-10,general_cargo,0.998345,1.217407,False
+Cape of Good Hope,2023-11,general_cargo,1.089742,1.030119,False
+Cape of Good Hope,2023-12,general_cargo,1.138957,1.072441,False
+Cape of Good Hope,2024-01,general_cargo,1.560792,1.229855,False
+Cape of Good Hope,2024-02,general_cargo,1.698495,1.236427,False
+Cape of Good Hope,2024-03,general_cargo,1.926383,1.544632,False
+Cape of Good Hope,2024-04,general_cargo,1.947007,1.434857,False
+Cape of Good Hope,2024-05,general_cargo,1.968567,1.569799,False
+Cape of Good Hope,2024-06,general_cargo,2.005126,1.867272,False
+Cape of Good Hope,2024-07,general_cargo,1.912322,1.811269,False
+Cape of Good Hope,2024-08,general_cargo,2.081057,1.833107,False
+Cape of Good Hope,2024-09,general_cargo,1.961536,1.88219,False
+Cape of Good Hope,2024-10,general_cargo,2.165424,1.988042,False
+Cape of Good Hope,2024-11,general_cargo,1.874357,1.685802,False
+Cape of Good Hope,2024-12,general_cargo,2.066995,1.7705,False
+Cape of Good Hope,2025-01,general_cargo,1.926383,1.909786,False
+Cape of Good Hope,2025-02,general_cargo,1.992672,1.584042,False
+Cape of Good Hope,2025-03,general_cargo,1.560792,1.353703,False
+Cape of Good Hope,2025-04,general_cargo,1.743588,1.638424,False
+Cape of Good Hope,2025-05,general_cargo,1.827955,1.411418,False
+Cape of Good Hope,2025-06,general_cargo,1.569229,1.448012,False
+Cape of Good Hope,2025-07,general_cargo,1.8842,1.73113,False
+Cape of Good Hope,2025-08,general_cargo,2.010751,1.838992,False
+Cape of Good Hope,2025-09,general_cargo,1.976066,1.741968,False
+Cape of Good Hope,2025-10,general_cargo,1.813894,1.729498,False
+Cape of Good Hope,2025-11,general_cargo,2.063246,2.271644,False
+Cape of Good Hope,2025-12,general_cargo,1.926383,1.612489,False
+Cape of Good Hope,2026-01,general_cargo,2.010751,1.879789,False
+Cape of Good Hope,2026-02,general_cargo,1.852562,1.50803,False
+Cape of Good Hope,2026-03,general_cargo,1.926383,1.595507,False
+Cape of Good Hope,2026-04,general_cargo,1.51111,1.562782,False
+Cape of Good Hope,2026-05,general_cargo,1.856077,1.654164,False
+Cape of Good Hope,2026-06,general_cargo,1.670938,1.596902,False
+Cape of Good Hope,2026-07,general_cargo,1.954506,2.004491,False
+Cape of Good Hope,2026-08,general_cargo,1.602976,1.378778,False
+Cape of Good Hope,2026-09,general_cargo,2.077776,1.933032,False
+Cape of Good Hope,2026-10,general_cargo,2.092306,2.182634,True
+Cape of Good Hope,2019-01,roro,1.425135,1.263633,False
+Cape of Good Hope,2019-02,roro,1.6107,1.197296,False
+Cape of Good Hope,2019-03,roro,1.365755,1.429313,False
+Cape of Good Hope,2019-04,roro,1.0738,0.906964,False
+Cape of Good Hope,2019-05,roro,1.395445,1.131155,False
+Cape of Good Hope,2019-06,roro,1.04312,1.098458,False
+Cape of Good Hope,2019-07,roro,1.187613,1.399352,False
+Cape of Good Hope,2019-08,roro,1.276684,1.079823,False
+Cape of Good Hope,2019-09,roro,1.31924,1.238905,False
+Cape of Good Hope,2019-10,roro,1.009471,0.882929,False
+Cape of Good Hope,2019-11,roro,1.10448,0.956352,False
+Cape of Good Hope,2019-12,roro,1.098542,0.768501,False
+Cape of Good Hope,2020-01,roro,2.375225,0.807182,False
+Cape of Good Hope,2020-02,roro,1.332993,0.667322,False
+Cape of Good Hope,2020-03,roro,1.098542,1.090178,False
+Cape of Good Hope,2020-04,roro,0.82836,0.507299,False
+Cape of Good Hope,2020-05,roro,1.157922,0.635826,False
+Cape of Good Hope,2020-06,roro,0.79768,0.364093,False
+Cape of Good Hope,2020-07,roro,1.009471,1.007692,False
+Cape of Good Hope,2020-08,roro,1.039161,1.253809,False
+Cape of Good Hope,2020-09,roro,0.85904,0.658273,False
+Cape of Good Hope,2020-10,roro,0.97978,1.099223,False
+Cape of Good Hope,2020-11,roro,1.0738,1.016593,False
+Cape of Good Hope,2020-12,roro,0.9204,1.201049,False
+Cape of Good Hope,2021-01,roro,0.801639,0.770876,False
+Cape of Good Hope,2021-02,roro,0.756043,0.771276,False
+Cape of Good Hope,2021-03,roro,1.039161,1.159678,False
+Cape of Good Hope,2021-04,roro,1.01244,1.321778,False
+Cape of Good Hope,2021-05,roro,0.9204,1.179639,False
+Cape of Good Hope,2021-06,roro,1.01244,1.298647,False
+Cape of Good Hope,2021-07,roro,0.890709,1.027959,False
+Cape of Good Hope,2021-08,roro,0.97978,1.444388,False
+Cape of Good Hope,2021-09,roro,0.85904,0.739049,False
+Cape of Good Hope,2021-10,roro,0.890709,0.908211,False
+Cape of Good Hope,2021-11,roro,1.0738,1.198558,False
+Cape of Good Hope,2021-12,roro,0.712568,0.730421,False
+Cape of Good Hope,2022-01,roro,0.97978,1.234656,False
+Cape of Good Hope,2022-02,roro,1.051886,0.949025,False
+Cape of Good Hope,2022-03,roro,0.861019,1.124957,False
+Cape of Good Hope,2022-04,roro,0.98176,0.657743,False
+Cape of Good Hope,2022-05,roro,0.861019,1.035496,False
+Cape of Good Hope,2022-06,roro,0.9204,0.866871,False
+Cape of Good Hope,2022-07,roro,1.009471,1.460113,False
+Cape of Good Hope,2022-08,roro,0.801639,0.825242,False
+Cape of Good Hope,2022-09,roro,0.98176,1.048877,False
+Cape of Good Hope,2022-10,roro,0.95009,1.184989,False
+Cape of Good Hope,2022-11,roro,0.70564,0.883151,False
+Cape of Good Hope,2022-12,roro,0.831329,0.820473,False
+Cape of Good Hope,2023-01,roro,0.682877,0.794906,False
+Cape of Good Hope,2023-02,roro,0.953271,1.127985,False
+Cape of Good Hope,2023-03,roro,0.771948,0.972725,False
+Cape of Good Hope,2023-04,roro,0.85904,1.198385,False
+Cape of Good Hope,2023-05,roro,0.742258,0.90826,False
+Cape of Good Hope,2023-06,roro,0.58292,0.638145,False
+Cape of Good Hope,2023-07,roro,0.95009,1.006766,False
+Cape of Good Hope,2023-08,roro,0.97978,1.310147,False
+Cape of Good Hope,2023-09,roro,0.67496,1.019576,False
+Cape of Good Hope,2023-10,roro,0.861019,0.737071,False
+Cape of Good Hope,2023-11,roro,0.67496,0.982741,False
+Cape of Good Hope,2023-12,roro,1.425135,1.701993,False
+Cape of Good Hope,2024-01,roro,2.85027,3.904104,False
+Cape of Good Hope,2024-02,roro,3.110317,4.184811,False
+Cape of Good Hope,2024-03,roro,2.612748,4.051222,False
+Cape of Good Hope,2024-04,roro,3.190719,5.013153,False
+Cape of Good Hope,2024-05,roro,2.998722,4.644416,False
+Cape of Good Hope,2024-06,roro,2.853239,4.597545,False
+Cape of Good Hope,2024-07,roro,3.117483,4.607036,False
+Cape of Good Hope,2024-08,roro,3.414386,5.128986,False
+Cape of Good Hope,2024-09,roro,2.4544,3.768119,False
+Cape of Good Hope,2024-10,roro,3.533148,5.656818,False
+Cape of Good Hope,2024-11,roro,2.945279,4.686608,False
+Cape of Good Hope,2024-12,roro,2.79089,4.323232,False
+Cape of Good Hope,2025-01,roro,3.176864,4.268659,False
+Cape of Good Hope,2025-02,roro,2.794071,3.843028,False
+Cape of Good Hope,2025-03,roro,3.058103,4.742075,False
+Cape of Good Hope,2025-04,roro,3.098679,4.333053,False
+Cape of Good Hope,2025-05,roro,3.236245,4.909145,False
+Cape of Good Hope,2025-06,roro,3.466839,5.059314,False
+Cape of Good Hope,2025-07,roro,3.325315,4.743366,False
+Cape of Good Hope,2025-08,roro,3.355006,5.290716,False
+Cape of Good Hope,2025-09,roro,3.436159,4.427268,False
+Cape of Good Hope,2025-10,roro,3.355006,4.992685,False
+Cape of Good Hope,2025-11,roro,3.405479,4.848934,False
+Cape of Good Hope,2025-12,roro,2.939341,4.122506,False
+Cape of Good Hope,2026-01,roro,3.592528,5.024322,False
+Cape of Good Hope,2026-02,roro,3.188528,4.584219,False
+Cape of Good Hope,2026-03,roro,3.533148,5.165529,False
+Cape of Good Hope,2026-04,roro,3.804319,5.225539,False
+Cape of Good Hope,2026-05,roro,3.889431,4.796481,False
+Cape of Good Hope,2026-06,roro,3.834999,5.224715,False
+Cape of Good Hope,2026-07,roro,3.503457,4.4711,False
+Cape of Good Hope,2026-08,roro,3.830051,5.109734,False
+Cape of Good Hope,2026-09,roro,3.620239,4.803608,False
+Cape of Good Hope,2026-10,roro,3.423887,4.782507,True
+Cape of Good Hope,2019-01,tanker,1.088301,1.05773,False
+Cape of Good Hope,2019-02,tanker,1.114698,1.106961,False
+Cape of Good Hope,2019-03,tanker,1.146499,1.210075,False
+Cape of Good Hope,2019-04,tanker,0.995281,1.18467,False
+Cape of Good Hope,2019-05,tanker,1.009734,1.102945,False
+Cape of Good Hope,2019-06,tanker,1.067447,1.233053,False
+Cape of Good Hope,2019-07,tanker,1.038833,1.073922,False
+Cape of Good Hope,2019-08,tanker,1.006824,1.101972,False
+Cape of Good Hope,2019-09,tanker,1.088495,1.218846,False
+Cape of Good Hope,2019-10,tanker,1.094121,1.091795,False
+Cape of Good Hope,2019-11,tanker,1.118564,1.150481,False
+Cape of Good Hope,2019-12,tanker,0.936986,1.036076,False
+Cape of Good Hope,2020-01,tanker,1.577163,0.90047,False
+Cape of Good Hope,2020-02,tanker,1.18513,1.077715,False
+Cape of Good Hope,2020-03,tanker,0.928257,1.000828,False
+Cape of Good Hope,2020-04,tanker,1.178702,1.49108,False
+Cape of Good Hope,2020-05,tanker,1.152318,1.342646,False
+Cape of Good Hope,2020-06,tanker,1.148633,1.080385,False
+Cape of Good Hope,2020-07,tanker,1.277444,1.270952,False
+Cape of Good Hope,2020-08,tanker,1.131949,1.086539,False
+Cape of Good Hope,2020-09,tanker,1.205764,1.076265,False
+Cape of Good Hope,2020-10,tanker,1.076661,1.083365,False
+Cape of Good Hope,2020-11,tanker,1.049405,0.978267,False
+Cape of Good Hope,2020-12,tanker,1.085391,1.042175,False
+Cape of Good Hope,2021-01,tanker,0.989364,1.072394,False
+Cape of Good Hope,2021-02,tanker,1.105033,1.16361,False
+Cape of Good Hope,2021-03,tanker,1.085391,1.044248,False
+Cape of Good Hope,2021-04,tanker,1.217791,1.097681,False
+Cape of Good Hope,2021-05,tanker,1.207606,1.10401,False
+Cape of Good Hope,2021-06,tanker,1.067447,1.097133,False
+Cape of Good Hope,2021-07,tanker,1.067932,1.131209,False
+Cape of Good Hope,2021-08,tanker,1.053382,1.071425,False
+Cape of Good Hope,2021-09,tanker,1.097515,0.95361,False
+Cape of Good Hope,2021-10,tanker,1.033013,1.05378,False
+Cape of Good Hope,2021-11,tanker,0.935143,0.902133,False
+Cape of Good Hope,2021-12,tanker,1.044652,0.977041,False
+Cape of Good Hope,2022-01,tanker,0.945716,0.930043,False
+Cape of Good Hope,2022-02,tanker,0.882737,0.951293,False
+Cape of Good Hope,2022-03,tanker,0.846779,0.88276,False
+Cape of Good Hope,2022-04,tanker,0.905074,0.895226,False
+Cape of Good Hope,2022-05,tanker,0.954446,0.977435,False
+Cape of Good Hope,2022-06,tanker,0.920109,0.81816,False
+Cape of Good Hope,2022-07,tanker,0.8235,0.693923,False
+Cape of Good Hope,2022-08,tanker,0.791491,0.831041,False
+Cape of Good Hope,2022-09,tanker,0.899061,0.945167,False
+Cape of Good Hope,2022-10,tanker,0.782762,0.844124,False
+Cape of Good Hope,2022-11,tanker,0.757737,0.805234,False
+Cape of Good Hope,2022-12,tanker,0.817681,0.743833,False
+Cape of Good Hope,2023-01,tanker,0.800221,0.81077,False
+Cape of Good Hope,2023-02,tanker,0.747427,0.722482,False
+Cape of Good Hope,2023-03,tanker,0.774032,0.698524,False
+Cape of Good Hope,2023-04,tanker,0.811861,0.831999,False
+Cape of Good Hope,2023-05,tanker,0.791491,0.95745,False
+Cape of Good Hope,2023-06,tanker,0.814868,0.769221,False
+Cape of Good Hope,2023-07,tanker,0.870059,0.903664,False
+Cape of Good Hope,2023-08,tanker,0.867149,0.82698,False
+Cape of Good Hope,2023-09,tanker,0.790812,0.853545,False
+Cape of Good Hope,2023-10,tanker,0.902067,0.833771,False
+Cape of Good Hope,2023-11,tanker,0.896054,0.805866,False
+Cape of Good Hope,2023-12,tanker,0.951536,0.916217,False
+Cape of Good Hope,2024-01,tanker,1.434578,1.057867,False
+Cape of Good Hope,2024-02,tanker,1.782361,1.315254,False
+Cape of Good Hope,2024-03,tanker,1.696469,1.422041,False
+Cape of Good Hope,2024-04,tanker,1.710921,1.525366,False
+Cape of Good Hope,2024-05,tanker,1.859423,1.417239,False
+Cape of Good Hope,2024-06,tanker,2.038673,1.516584,False
+Cape of Good Hope,2024-07,tanker,1.792495,1.459348,False
+Cape of Good Hope,2024-08,tanker,1.641181,1.265366,False
+Cape of Good Hope,2024-09,tanker,1.626728,1.345245,False
+Cape of Good Hope,2024-10,tanker,1.830324,1.611556,False
+Cape of Good Hope,2024-11,tanker,1.533515,1.180059,False
+Cape of Good Hope,2024-12,tanker,1.521875,1.298165,False
+Cape of Good Hope,2025-01,tanker,1.39966,1.220467,False
+Cape of Good Hope,2025-02,tanker,1.430421,1.230908,False
+Cape of Good Hope,2025-03,tanker,1.335642,1.337504,False
+Cape of Good Hope,2025-04,tanker,1.542535,1.475485,False
+Cape of Good Hope,2025-05,tanker,1.562614,1.318166,False
+Cape of Good Hope,2025-06,tanker,1.500439,1.292174,False
+Cape of Good Hope,2025-07,tanker,1.545154,1.23149,False
+Cape of Good Hope,2025-08,tanker,1.681919,1.485559,False
+Cape of Good Hope,2025-09,tanker,1.668825,1.473565,False
+Cape of Good Hope,2025-10,tanker,1.66446,1.587587,False
+Cape of Good Hope,2025-11,tanker,1.50946,1.273968,False
+Cape of Good Hope,2025-12,tanker,1.437488,1.240566,False
+Cape of Good Hope,2026-01,tanker,1.481137,1.101798,False
+Cape of Good Hope,2026-02,tanker,1.217791,1.007904,False
+Cape of Good Hope,2026-03,tanker,1.597532,1.084127,False
+Cape of Good Hope,2026-04,tanker,2.074755,1.361541,False
+Cape of Good Hope,2026-05,tanker,1.914711,1.494376,False
+Cape of Good Hope,2026-06,tanker,1.816163,1.39571,False
+Cape of Good Hope,2026-07,tanker,1.565524,1.317914,False
+Cape of Good Hope,2026-08,tanker,1.824504,1.144078,False
+Cape of Good Hope,2026-09,tanker,1.608687,1.403352,False
+Cape of Good Hope,2026-10,tanker,1.742794,1.418147,True
+Cape of Good Hope,2019-01,total,0.988234,0.875709,False
+Cape of Good Hope,2019-02,total,1.037665,0.875449,False
+Cape of Good Hope,2019-03,total,0.921144,0.864678,False
+Cape of Good Hope,2019-04,total,0.956008,0.886474,False
+Cape of Good Hope,2019-05,total,0.960056,0.947808,False
+Cape of Good Hope,2019-06,total,1.047519,1.122778,False
+Cape of Good Hope,2019-07,total,1.050627,1.142156,False
+Cape of Good Hope,2019-08,total,1.064045,1.094081,False
+Cape of Good Hope,2019-09,total,1.089115,1.100517,False
+Cape of Good Hope,2019-10,total,1.062704,1.025006,False
+Cape of Good Hope,2019-11,total,0.978886,0.975705,False
+Cape of Good Hope,2019-12,total,0.861434,0.863015,False
+Cape of Good Hope,2020-01,total,1.369975,0.7068,False
+Cape of Good Hope,2020-02,total,1.07862,0.782641,False
+Cape of Good Hope,2020-03,total,0.919131,0.794788,False
+Cape of Good Hope,2020-04,total,1.055838,1.051087,False
+Cape of Good Hope,2020-05,total,1.156629,1.172503,False
+Cape of Good Hope,2020-06,total,1.084955,1.139874,False
+Cape of Good Hope,2020-07,total,1.277391,1.294452,False
+Cape of Good Hope,2020-08,total,1.148579,1.189139,False
+Cape of Good Hope,2020-09,total,1.138336,1.17826,False
+Cape of Good Hope,2020-10,total,1.033855,1.069216,False
+Cape of Good Hope,2020-11,total,1.005923,0.957155,False
+Cape of Good Hope,2020-12,total,0.892966,0.885456,False
+Cape of Good Hope,2021-01,total,0.890283,0.89829,False
+Cape of Good Hope,2021-02,total,0.970814,0.912026,False
+Cape of Good Hope,2021-03,total,1.005006,0.8795,False
+Cape of Good Hope,2021-04,total,1.085648,1.04849,False
+Cape of Good Hope,2021-05,total,1.038551,1.052089,False
+Cape of Good Hope,2021-06,total,1.046132,1.097999,False
+Cape of Good Hope,2021-07,total,1.069413,1.164915,False
+Cape of Good Hope,2021-08,total,0.961398,1.081388,False
+Cape of Good Hope,2021-09,total,1.028801,1.086727,False
+Cape of Good Hope,2021-10,total,0.869485,0.999977,False
+Cape of Good Hope,2021-11,total,0.863804,0.854508,False
+Cape of Good Hope,2021-12,total,0.887599,0.871485,False
+Cape of Good Hope,2022-01,total,0.862105,0.829502,False
+Cape of Good Hope,2022-02,total,0.880938,0.809049,False
+Cape of Good Hope,2022-03,total,0.84332,0.847681,False
+Cape of Good Hope,2022-04,total,0.861725,0.893332,False
+Cape of Good Hope,2022-05,total,0.9406,1.016645,False
+Cape of Good Hope,2022-06,total,0.994138,1.009626,False
+Cape of Good Hope,2022-07,total,0.977499,1.051696,False
+Cape of Good Hope,2022-08,total,0.981525,1.072555,False
+Cape of Good Hope,2022-09,total,0.985125,1.170291,False
+Cape of Good Hope,2022-10,total,0.891624,1.004982,False
+Cape of Good Hope,2022-11,total,0.867271,0.918356,False
+Cape of Good Hope,2022-12,total,0.839965,0.835299,False
+Cape of Good Hope,2023-01,total,0.879548,0.857602,False
+Cape of Good Hope,2023-02,total,0.872767,0.791851,False
+Cape of Good Hope,2023-03,total,0.897663,0.872216,False
+Cape of Good Hope,2023-04,total,0.938677,0.982347,False
+Cape of Good Hope,2023-05,total,1.02245,1.124844,False
+Cape of Good Hope,2023-06,total,1.072476,1.165403,False
+Cape of Good Hope,2023-07,total,1.086856,1.192155,False
+Cape of Good Hope,2023-08,total,1.175415,1.213361,False
+Cape of Good Hope,2023-09,total,1.159827,1.248853,False
+Cape of Good Hope,2023-10,total,1.047273,1.100116,False
+Cape of Good Hope,2023-11,total,1.024641,1.050096,False
+Cape of Good Hope,2023-12,total,1.068742,1.077741,False
+Cape of Good Hope,2024-01,total,1.501471,1.394729,False
+Cape of Good Hope,2024-02,total,1.783596,1.55985,False
+Cape of Good Hope,2024-03,total,1.787274,1.794719,False
+Cape of Good Hope,2024-04,total,1.823279,1.837681,False
+Cape of Good Hope,2024-05,total,1.904682,1.88217,False
+Cape of Good Hope,2024-06,total,1.986196,2.02396,False
+Cape of Good Hope,2024-07,total,1.908036,2.038848,False
+Cape of Good Hope,2024-08,total,1.94829,1.962958,False
+Cape of Good Hope,2024-09,total,1.799015,1.933261,False
+Cape of Good Hope,2024-10,total,1.850339,1.963174,False
+Cape of Good Hope,2024-11,total,1.740088,1.75159,False
+Cape of Good Hope,2024-12,total,1.685298,1.781262,False
+Cape of Good Hope,2025-01,total,1.755071,1.743211,False
+Cape of Good Hope,2025-02,total,1.827983,1.765332,False
+Cape of Good Hope,2025-03,total,1.678589,1.77494,False
+Cape of Good Hope,2025-04,total,1.749793,1.924088,False
+Cape of Good Hope,2025-05,total,1.859731,2.025121,False
+Cape of Good Hope,2025-06,total,1.91063,2.088843,False
+Cape of Good Hope,2025-07,total,2.005316,2.156277,False
+Cape of Good Hope,2025-08,total,2.040874,2.204968,False
+Cape of Good Hope,2025-09,total,1.964011,2.153437,False
+Cape of Good Hope,2025-10,total,1.956341,2.129426,False
+Cape of Good Hope,2025-11,total,1.81288,1.956931,False
+Cape of Good Hope,2025-12,total,1.762451,1.876744,False
+Cape of Good Hope,2026-01,total,1.824174,1.803733,False
+Cape of Good Hope,2026-02,total,1.810157,1.764566,False
+Cape of Good Hope,2026-03,total,1.897973,1.809704,False
+Cape of Good Hope,2026-04,total,1.930041,1.97107,False
+Cape of Good Hope,2026-05,total,2.016051,2.168343,False
+Cape of Good Hope,2026-06,total,1.930041,2.076027,False
+Cape of Good Hope,2026-07,total,1.904011,2.012045,False
+Cape of Good Hope,2026-08,total,1.878516,1.883512,False
+Cape of Good Hope,2026-09,total,1.791389,1.920169,False
+Cape of Good Hope,2026-10,total,1.802759,1.891193,True
+Panama Canal,2019-01,cargo,1.005509,0.926884,False
+Panama Canal,2019-02,cargo,1.014206,1.012137,False
+Panama Canal,2019-03,cargo,0.969066,0.895813,False
+Panama Canal,2019-04,cargo,0.950016,0.93196,False
+Panama Canal,2019-05,cargo,0.969066,0.937753,False
+Panama Canal,2019-06,cargo,0.931187,0.87782,False
+Panama Canal,2019-07,cargo,0.992257,0.913578,False
+Panama Canal,2019-08,cargo,1.123122,1.01339,False
+Panama Canal,2019-09,cargo,1.025332,0.943087,False
+Panama Canal,2019-10,cargo,1.020418,0.897085,False
+Panama Canal,2019-11,cargo,1.062991,0.987952,False
+Panama Canal,2019-12,cargo,1.003853,0.933963,False
+Panama Canal,2020-01,cargo,1.424609,0.960665,False
+Panama Canal,2020-02,cargo,1.092562,0.923393,False
+Panama Canal,2020-03,cargo,0.92434,0.859364,False
+Panama Canal,2020-04,cargo,0.914069,0.897392,False
+Panama Canal,2020-05,cargo,0.858079,0.90741,False
+Panama Canal,2020-06,cargo,0.801094,0.778805,False
+Panama Canal,2020-07,cargo,0.877957,0.900768,False
+Panama Canal,2020-08,cargo,0.954157,0.920242,False
+Panama Canal,2020-09,cargo,0.985962,0.949795,False
+Panama Canal,2020-10,cargo,1.086679,1.172254,False
+Panama Canal,2020-11,cargo,1.025332,1.125891,False
+Panama Canal,2020-12,cargo,1.075083,1.235973,False
+Panama Canal,2021-01,cargo,1.00054,1.078138,False
+Panama Canal,2021-02,cargo,1.060056,1.190583,False
+Panama Canal,2021-03,cargo,1.056861,1.127035,False
+Panama Canal,2021-04,cargo,0.991098,1.114037,False
+Panama Canal,2021-05,cargo,0.952501,1.0393,False
+Panama Canal,2021-06,cargo,0.922628,1.043774,False
+Panama Canal,2021-07,cargo,0.964096,1.017872,False
+Panama Canal,2021-08,cargo,1.010479,1.024761,False
+Panama Canal,2021-09,cargo,0.917493,0.930033,False
+Panama Canal,2021-10,cargo,1.070114,1.146226,False
+Panama Canal,2021-11,cargo,1.097225,1.211759,False
+Panama Canal,2021-12,cargo,1.126435,1.148167,False
+Panama Canal,2022-01,cargo,1.048579,1.071666,False
+Panama Canal,2022-02,cargo,1.120578,1.161486,False
+Panama Canal,2022-03,cargo,1.043609,1.064486,False
+Panama Canal,2022-04,cargo,1.009927,1.026812,False
+Panama Canal,2022-05,cargo,0.979005,1.047625,False
+Panama Canal,2022-06,cargo,1.064702,1.147272,False
+Panama Canal,2022-07,cargo,0.980661,0.991734,False
+Panama Canal,2022-08,cargo,1.023731,1.043544,False
+Panama Canal,2022-09,cargo,0.996233,1.019064,False
+Panama Canal,2022-10,cargo,1.020418,0.975705,False
+Panama Canal,2022-11,cargo,1.009927,1.083226,False
+Panama Canal,2022-12,cargo,1.085022,1.110795,False
+Panama Canal,2023-01,cargo,1.050235,1.113922,False
+Panama Canal,2023-02,cargo,1.014206,1.031232,False
+Panama Canal,2023-03,cargo,1.005509,1.04033,False
+Panama Canal,2023-04,cargo,1.039026,1.096467,False
+Panama Canal,2023-05,cargo,0.979005,0.961416,False
+Panama Canal,2023-06,cargo,0.912357,0.90338,False
+Panama Canal,2023-07,cargo,0.925996,0.873505,False
+Panama Canal,2023-08,cargo,0.901148,0.883059,False
+Panama Canal,2023-09,cargo,0.917493,0.871658,False
+Panama Canal,2023-10,cargo,0.916057,0.875531,False
+Panama Canal,2023-11,cargo,0.700102,0.631029,False
+Panama Canal,2023-12,cargo,0.619539,0.559753,False
+Panama Canal,2024-01,cargo,0.57647,0.504597,False
+Panama Canal,2024-02,cargo,0.633934,0.590931,False
+Panama Canal,2024-03,cargo,0.632792,0.590965,False
+Panama Canal,2024-04,cargo,0.674426,0.638326,False
+Panama Canal,2024-05,cargo,0.717274,0.707158,False
+Panama Canal,2024-06,cargo,0.821635,0.791307,False
+Panama Canal,2024-07,cargo,0.851453,0.869703,False
+Panama Canal,2024-08,cargo,0.897835,0.963051,False
+Panama Canal,2024-09,cargo,0.915781,0.941238,False
+Panama Canal,2024-10,cargo,0.917714,1.022562,False
+Panama Canal,2024-11,cargo,0.958574,1.016223,False
+Panama Canal,2024-12,cargo,0.939248,0.994886,False
+Panama Canal,2025-01,cargo,0.891209,0.946092,False
+Panama Canal,2025-02,cargo,0.96102,1.046878,False
+Panama Canal,2025-03,cargo,0.955814,1.008234,False
+Panama Canal,2025-04,cargo,0.984251,1.014112,False
+Panama Canal,2025-05,cargo,0.921027,0.951558,False
+Panama Canal,2025-06,cargo,0.936322,1.046312,False
+Panama Canal,2025-07,cargo,0.930966,0.997948,False
+Panama Canal,2025-08,cargo,0.96244,1.031754,False
+Panama Canal,2025-09,cargo,0.980827,1.125574,False
+Panama Canal,2025-10,cargo,0.974035,0.978416,False
+Panama Canal,2025-11,cargo,0.936322,1.006961,False
+Panama Canal,2025-12,cargo,0.950844,1.027719,False
+Panama Canal,2026-01,cargo,0.940905,1.027206,False
+Panama Canal,2026-02,cargo,0.964688,1.127961,False
+Panama Canal,2026-03,cargo,1.007166,1.089142,False
+Panama Canal,2026-04,cargo,0.958574,1.047946,False
+Panama Canal,2026-05,cargo,0.960783,1.065585,False
+Panama Canal,2026-06,cargo,0.80623,0.868719,False
+Panama Canal,2026-07,cargo,0.927653,1.040875,False
+Panama Canal,2026-08,cargo,0.813353,0.84747,False
+Panama Canal,2026-09,cargo,0.804518,0.863667,False
+Panama Canal,2026-10,cargo,0.796986,0.850118,True
+Panama Canal,2019-01,container,0.962916,0.889129,False
+Panama Canal,2019-02,container,0.949254,0.935755,False
+Panama Canal,2019-03,container,0.874978,0.800688,False
+Panama Canal,2019-04,container,0.908688,0.918301,False
+Panama Canal,2019-05,container,0.918947,0.904291,False
+Panama Canal,2019-06,container,0.931405,0.861641,False
+Panama Canal,2019-07,container,0.980503,0.89704,False
+Panama Canal,2019-08,container,1.037663,0.930419,False
+Panama Canal,2019-09,container,1.0041,0.913488,False
+Panama Canal,2019-10,container,1.064044,0.926398,False
+Panama Canal,2019-11,container,0.999556,0.934371,False
+Panama Canal,2019-12,container,0.962916,0.861673,False
+Panama Canal,2020-01,container,1.257506,0.959052,False
+Panama Canal,2020-02,container,0.977622,0.881263,False
+Panama Canal,2020-03,container,0.813422,0.774679,False
+Panama Canal,2020-04,container,0.88597,0.901364,False
+Panama Canal,2020-05,container,0.905756,0.907727,False
+Panama Canal,2020-06,container,0.876883,0.845528,False
+Panama Canal,2020-07,container,0.927741,1.004974,False
+Panama Canal,2020-08,container,0.971709,1.025945,False
+Panama Canal,2020-09,container,0.958665,1.027672,False
+Panama Canal,2020-10,container,0.989297,1.070655,False
+Panama Canal,2020-11,container,0.972296,1.070127,False
+Panama Canal,2020-12,container,0.989297,1.100736,False
+Panama Canal,2021-01,container,0.949725,1.029441,False
+Panama Canal,2021-02,container,0.905442,1.030125,False
+Panama Canal,2021-03,container,0.927741,1.052298,False
+Panama Canal,2021-04,container,0.963209,1.062358,False
+Panama Canal,2021-05,container,0.958519,1.112831,False
+Panama Canal,2021-06,container,0.935948,1.07041,False
+Panama Canal,2021-07,container,0.958519,1.062769,False
+Panama Canal,2021-08,container,1.033266,1.069206,False
+Panama Canal,2021-09,container,1.044991,1.117919,False
+Panama Canal,2021-10,container,1.050853,1.097528,False
+Panama Canal,2021-11,container,1.035904,1.063958,False
+Panama Canal,2021-12,container,1.090425,1.131452,False
+Panama Canal,2022-01,container,1.05525,1.11779,False
+Panama Canal,2022-02,container,1.066085,1.084557,False
+Panama Canal,2022-03,container,1.042059,1.092183,False
+Panama Canal,2022-04,container,0.976839,1.089565,False
+Panama Canal,2022-05,container,1.059647,1.141667,False
+Panama Canal,2022-06,container,1.03136,1.092369,False
+Panama Canal,2022-07,container,1.015678,1.06012,False
+Panama Canal,2022-08,container,1.165172,1.175506,False
+Panama Canal,2022-09,container,1.072251,1.038922,False
+Panama Canal,2022-10,container,1.121203,0.975925,False
+Panama Canal,2022-11,container,1.026817,0.974014,False
+Panama Canal,2022-12,container,1.046456,0.95349,False
+Panama Canal,2023-01,container,1.002488,0.939983,False
+Panama Canal,2023-02,container,0.993066,0.894195,False
+Panama Canal,2023-03,container,0.905756,0.971556,False
+Panama Canal,2023-04,container,1.03136,1.087172,False
+Panama Canal,2023-05,container,1.042059,0.995444,False
+Panama Canal,2023-06,container,1.049534,1.026257,False
+Panama Canal,2023-07,container,1.090425,1.071691,False
+Panama Canal,2023-08,container,1.006884,0.933254,False
+Panama Canal,2023-09,container,1.072251,1.05443,False
+Panama Canal,2023-10,container,1.147584,1.103019,False
+Panama Canal,2023-11,container,1.0041,0.883678,False
+Panama Canal,2023-12,container,0.980503,0.959094,False
+Panama Canal,2024-01,container,0.910153,0.835035,False
+Panama Canal,2024-02,container,0.977622,0.986888,False
+Panama Canal,2024-03,container,0.932138,0.943643,False
+Panama Canal,2024-04,container,0.945035,1.001432,False
+Panama Canal,2024-05,container,1.028869,1.091914,False
+Panama Canal,2024-06,container,1.135859,1.167562,False
+Panama Canal,2024-07,container,1.094822,1.234294,False
+Panama Canal,2024-08,container,1.1256,1.298386,False
+Panama Canal,2024-09,container,1.099512,1.224259,False
+Panama Canal,2024-10,container,1.112409,1.21493,False
+Panama Canal,2024-11,container,1.104055,1.135841,False
+Panama Canal,2024-12,container,1.086028,1.257996,False
+Panama Canal,2025-01,container,1.064044,1.239977,False
+Panama Canal,2025-02,container,1.056349,1.166741,False
+Panama Canal,2025-03,container,1.05525,1.178143,False
+Panama Canal,2025-04,container,1.094968,1.291034,False
+Panama Canal,2025-05,container,1.1256,1.192481,False
+Panama Canal,2025-06,container,1.013187,1.130162,False
+Panama Canal,2025-07,container,1.037663,1.160431,False
+Panama Canal,2025-08,container,1.116806,1.195949,False
+Panama Canal,2025-09,container,1.117686,1.297672,False
+Panama Canal,2025-10,container,1.064044,1.134753,False
+Panama Canal,2025-11,container,1.090425,1.279581,False
+Panama Canal,2025-12,container,1.020075,1.223409,False
+Panama Canal,2026-01,container,1.028869,1.197411,False
+Panama Canal,2026-02,container,1.085557,1.239685,False
+Panama Canal,2026-03,container,1.103616,1.257574,False
+Panama Canal,2026-04,container,1.067708,1.293022,False
+Panama Canal,2026-05,container,1.112409,1.392542,False
+Panama Canal,2026-06,container,1.076795,1.260273,False
+Panama Canal,2026-07,container,1.138791,1.383447,False
+Panama Canal,2026-08,container,1.081631,1.280133,False
+Panama Canal,2026-09,container,1.01773,1.235556,False
+Panama Canal,2026-10,container,1.057712,1.253307,True
+Panama Canal,2019-01,dry_bulk,0.991539,0.959862,False
+Panama Canal,2019-02,dry_bulk,1.097775,1.088442,False
+Panama Canal,2019-03,dry_bulk,0.926873,0.962382,False
+Panama Canal,2019-04,dry_bulk,0.917676,0.936965,False
+Panama Canal,2019-05,dry_bulk,0.987228,0.967823,False
+Panama Canal,2019-06,dry_bulk,0.886493,0.871762,False
+Panama Canal,2019-07,dry_bulk,0.939806,0.913747,False
+Panama Canal,2019-08,dry_bulk,1.194157,1.06851,False
+Panama Canal,2019-09,dry_bulk,1.037954,0.966629,False
+Panama Canal,2019-10,dry_bulk,1.000161,0.857466,False
+Panama Canal,2019-11,dry_bulk,1.051318,1.017691,False
+Panama Canal,2019-12,dry_bulk,0.982916,0.979591,False
+Panama Canal,2020-01,dry_bulk,1.547662,0.949387,False
+Panama Canal,2020-02,dry_bulk,1.235038,0.959165,False
+Panama Canal,2020-03,dry_bulk,0.982916,0.917959,False
+Panama Canal,2020-04,dry_bulk,0.948859,0.880497,False
+Panama Canal,2020-05,dry_bulk,0.948428,0.916764,False
+Panama Canal,2020-06,dry_bulk,0.77067,0.724449,False
+Panama Canal,2020-07,dry_bulk,0.888074,0.809818,False
+Panama Canal,2020-08,dry_bulk,1.051893,0.840973,False
+Panama Canal,2020-09,dry_bulk,1.104775,0.904917,False
+Panama Canal,2020-10,dry_bulk,1.336422,1.288159,False
+Panama Canal,2020-11,dry_bulk,1.167141,1.186973,False
+Panama Canal,2020-12,dry_bulk,1.24589,1.37653,False
+Panama Canal,2021-01,dry_bulk,1.034649,1.129488,False
+Panama Canal,2021-02,dry_bulk,1.231417,1.331326,False
+Panama Canal,2021-03,dry_bulk,1.220024,1.196236,False
+Panama Canal,2021-04,dry_bulk,1.033499,1.158949,False
+Panama Canal,2021-05,dry_bulk,0.95705,0.973194,False
+Panama Canal,2021-06,dry_bulk,0.953314,1.037264,False
+Panama Canal,2021-07,dry_bulk,0.969983,0.972311,False
+Panama Canal,2021-08,dry_bulk,0.987228,0.992248,False
+Panama Canal,2021-09,dry_bulk,0.788489,0.774052,False
+Panama Canal,2021-10,dry_bulk,1.20709,1.199728,False
+Panama Canal,2021-11,dry_bulk,1.225053,1.342156,False
+Panama Canal,2021-12,dry_bulk,1.151047,1.153634,False
+Panama Canal,2022-01,dry_bulk,1.017405,1.040007,False
+Panama Canal,2022-02,dry_bulk,1.15505,1.229583,False
+Panama Canal,2022-03,dry_bulk,0.982916,1.038181,False
+Panama Canal,2022-04,dry_bulk,0.917676,0.971308,False
+Panama Canal,2022-05,dry_bulk,0.905318,0.973754,False
+Panama Canal,2022-06,dry_bulk,1.069137,1.166358,False
+Panama Canal,2022-07,dry_bulk,0.866518,0.91899,False
+Panama Canal,2022-08,dry_bulk,0.888074,0.936963,False
+Panama Canal,2022-09,dry_bulk,0.922131,1.003717,False
+Panama Canal,2022-10,dry_bulk,0.879452,0.96642,False
+Panama Canal,2022-11,dry_bulk,1.037954,1.18928,False
+Panama Canal,2022-12,dry_bulk,1.107937,1.248994,False
+Panama Canal,2023-01,dry_bulk,1.129492,1.257593,False
+Panama Canal,2023-02,dry_bulk,1.050045,1.152249,False
+Panama Canal,2023-03,dry_bulk,0.987228,1.088801,False
+Panama Canal,2023-04,dry_bulk,1.01568,1.107061,False
+Panama Canal,2023-05,dry_bulk,0.840652,0.916342,False
+Panama Canal,2023-06,dry_bulk,0.810762,0.814213,False
+Panama Canal,2023-07,dry_bulk,0.719943,0.692146,False
+Panama Canal,2023-08,dry_bulk,0.844963,0.851359,False
+Panama Canal,2023-09,dry_bulk,0.730577,0.716201,False
+Panama Canal,2023-10,dry_bulk,0.728565,0.69513,False
+Panama Canal,2023-11,dry_bulk,0.392017,0.418305,False
+Panama Canal,2023-12,dry_bulk,0.241418,0.22786,False
+Panama Canal,2024-01,dry_bulk,0.224174,0.233078,False
+Panama Canal,2024-02,dry_bulk,0.239634,0.269149,False
+Panama Canal,2024-03,dry_bulk,0.288839,0.306611,False
+Panama Canal,2024-04,dry_bulk,0.343015,0.331375,False
+Panama Canal,2024-05,dry_bulk,0.392304,0.390638,False
+Panama Canal,2024-06,dry_bulk,0.512295,0.486971,False
+Panama Canal,2024-07,dry_bulk,0.569057,0.575605,False
+Panama Canal,2024-08,dry_bulk,0.685455,0.700871,False
+Panama Canal,2024-09,dry_bulk,0.752851,0.728812,False
+Panama Canal,2024-10,dry_bulk,0.78892,0.889166,False
+Panama Canal,2024-11,dry_bulk,0.85531,0.9374,False
+Panama Canal,2024-12,dry_bulk,0.745809,0.784978,False
+Panama Canal,2025-01,dry_bulk,0.711321,0.715489,False
+Panama Canal,2025-02,dry_bulk,0.882993,0.962454,False
+Panama Canal,2025-03,dry_bulk,0.797542,0.87632,False
+Panama Canal,2025-04,dry_bulk,0.712758,0.768065,False
+Panama Canal,2025-05,dry_bulk,0.638033,0.756599,False
+Panama Canal,2025-06,dry_bulk,0.766215,0.976604,False
+Panama Canal,2025-07,dry_bulk,0.806164,0.881202,False
+Panama Canal,2025-08,dry_bulk,0.827719,0.923385,False
+Panama Canal,2025-09,dry_bulk,0.904312,1.004644,False
+Panama Canal,2025-10,dry_bulk,0.827719,0.845078,False
+Panama Canal,2025-11,dry_bulk,0.784034,0.80456,False
+Panama Canal,2025-12,dry_bulk,0.78892,0.877016,False
+Panama Canal,2026-01,dry_bulk,0.814786,0.90315,False
+Panama Canal,2026-02,dry_bulk,0.916403,1.071764,False
+Panama Canal,2026-03,dry_bulk,0.879452,0.975037,False
+Panama Canal,2026-04,dry_bulk,0.76176,0.859429,False
+Panama Canal,2026-05,dry_bulk,0.741498,0.814596,False
+Panama Canal,2026-06,dry_bulk,0.50784,0.553579,False
+Panama Canal,2026-07,dry_bulk,0.659589,0.766938,False
+Panama Canal,2026-08,dry_bulk,0.478525,0.512741,False
+Panama Canal,2026-09,dry_bulk,0.60139,0.581491,False
+Panama Canal,2026-10,dry_bulk,0.475766,0.527166,True
+Panama Canal,2019-01,general_cargo,0.972352,0.882918,False
+Panama Canal,2019-02,general_cargo,0.855705,0.817097,False
+Panama Canal,2019-03,general_cargo,1.209207,0.981194,False
+Panama Canal,2019-04,general_cargo,1.069171,0.951315,False
+Panama Canal,2019-05,general_cargo,0.910022,0.850688,False
+Panama Canal,2019-06,general_cargo,0.966119,1.152074,False
+Panama Canal,2019-07,general_cargo,1.00975,1.107035,False
+Panama Canal,2019-08,general_cargo,1.171809,1.114325,False
+Panama Canal,2019-09,general_cargo,1.05629,0.920389,False
+Panama Canal,2019-10,general_cargo,0.959886,1.130578,False
+Panama Canal,2019-11,general_cargo,1.146461,1.199206,False
+Panama Canal,2019-12,general_cargo,1.159342,1.18806,False
+Panama Canal,2020-01,general_cargo,1.745247,1.2438,False
+Panama Canal,2020-02,general_cargo,1.092714,0.883926,False
+Panama Canal,2020-03,general_cargo,0.997284,1.043035,False
+Panama Canal,2020-04,general_cargo,0.940356,1.173886,False
+Panama Canal,2020-05,general_cargo,0.897555,0.950166,False
+Panama Canal,2020-06,general_cargo,0.979,0.943997,False
+Panama Canal,2020-07,general_cargo,0.910022,1.132004,False
+Panama Canal,2020-08,general_cargo,0.785361,0.880214,False
+Panama Canal,2020-09,general_cargo,0.888829,0.780358,False
+Panama Canal,2020-10,general_cargo,0.710565,0.699995,False
+Panama Canal,2020-11,general_cargo,0.721369,0.866082,False
+Panama Canal,2020-12,general_cargo,0.897555,0.887478,False
+Panama Canal,2021-01,general_cargo,1.00975,0.956278,False
+Panama Canal,2021-02,general_cargo,1.035127,1.06386,False
+Panama Canal,2021-03,general_cargo,1.047148,1.123541,False
+Panama Canal,2021-04,general_cargo,0.914592,1.068841,False
+Panama Canal,2021-05,general_cargo,0.922488,1.102855,False
+Panama Canal,2021-06,general_cargo,0.73425,0.76608,False
+Panama Canal,2021-07,general_cargo,0.934954,1.136835,False
+Panama Canal,2021-08,general_cargo,0.885089,1.029505,False
+Panama Canal,2021-09,general_cargo,0.966119,1.000337,False
+Panama Canal,2021-10,general_cargo,0.922488,1.034557,False
+Panama Canal,2021-11,general_cargo,1.069171,1.123295,False
+Panama Canal,2021-12,general_cargo,1.146876,1.287577,False
+Panama Canal,2022-01,general_cargo,1.221673,1.119443,False
+Panama Canal,2022-02,general_cargo,1.242153,1.11522,False
+Panama Canal,2022-03,general_cargo,1.246605,1.05481,False
+Panama Canal,2022-04,general_cargo,1.352566,1.158634,False
+Panama Canal,2022-05,general_cargo,1.00975,0.969477,False
+Panama Canal,2022-06,general_cargo,1.326803,1.677416,False
+Panama Canal,2022-07,general_cargo,1.196741,1.237156,False
+Panama Canal,2022-08,general_cargo,0.910022,0.921614,False
+Panama Canal,2022-09,general_cargo,1.030527,1.062137,False
+Panama Canal,2022-10,general_cargo,1.034682,0.986926,False
+Panama Canal,2022-11,general_cargo,0.824421,0.71346,False
+Panama Canal,2022-12,general_cargo,1.059614,0.901185,False
+Panama Canal,2023-01,general_cargo,0.997284,1.169447,False
+Panama Canal,2023-02,general_cargo,0.924714,0.745697,False
+Panama Canal,2023-03,general_cargo,1.308935,1.152338,False
+Panama Canal,2023-04,general_cargo,1.082053,0.986731,False
+Panama Canal,2023-05,general_cargo,1.07208,1.124371,False
+Panama Canal,2023-06,general_cargo,0.81154,0.741177,False
+Panama Canal,2023-07,general_cargo,0.872623,1.000179,False
+Panama Canal,2023-08,general_cargo,0.723031,0.676629,False
+Panama Canal,2023-09,general_cargo,0.875948,0.834564,False
+Panama Canal,2023-10,general_cargo,0.785361,0.724556,False
+Panama Canal,2023-11,general_cargo,0.450855,0.45345,False
+Panama Canal,2023-12,general_cargo,0.498642,0.441628,False
+Panama Canal,2024-01,general_cargo,0.336583,0.296162,False
+Panama Canal,2024-02,general_cargo,0.559683,0.434292,False
+Panama Canal,2024-03,general_cargo,0.560972,0.326909,False
+Panama Canal,2024-04,general_cargo,0.579671,0.539665,False
+Panama Canal,2024-05,general_cargo,0.573438,0.614151,False
+Panama Canal,2024-06,general_cargo,0.579671,0.575829,False
+Panama Canal,2024-07,general_cargo,0.747963,0.710853,False
+Panama Canal,2024-08,general_cargo,0.710565,0.735206,False
+Panama Canal,2024-09,general_cargo,0.669842,0.572367,False
+Panama Canal,2024-10,general_cargo,0.673167,0.65154,False
+Panama Canal,2024-11,general_cargo,0.682724,0.62986,False
+Panama Canal,2024-12,general_cargo,0.847691,0.827513,False
+Panama Canal,2025-01,general_cargo,0.772895,0.7645,False
+Panama Canal,2025-02,general_cargo,0.910912,0.882551,False
+Panama Canal,2025-03,general_cargo,1.022216,0.833239,False
+Panama Canal,2025-04,general_cargo,1.159342,1.182449,False
+Panama Canal,2025-05,general_cargo,0.94742,0.861284,False
+Panama Canal,2025-06,general_cargo,1.030527,1.035006,False
+Panama Canal,2025-07,general_cargo,0.723031,0.682854,False
+Panama Canal,2025-08,general_cargo,0.772895,0.568818,False
+Panama Canal,2025-09,general_cargo,0.772895,0.814824,False
+Panama Canal,2025-10,general_cargo,1.00975,1.020287,False
+Panama Canal,2025-11,general_cargo,0.682724,0.583116,False
+Panama Canal,2025-12,general_cargo,1.022216,0.885987,False
+Panama Canal,2026-01,general_cargo,0.847691,0.777149,False
+Panama Canal,2026-02,general_cargo,0.759093,0.657323,False
+Panama Canal,2026-03,general_cargo,0.897555,0.614765,False
+Panama Canal,2026-04,general_cargo,0.966119,0.796768,False
+Panama Canal,2026-05,general_cargo,0.910022,0.875188,False
+Panama Canal,2026-06,general_cargo,0.631198,0.655823,False
+Panama Canal,2026-07,general_cargo,0.860157,0.781989,False
+Panama Canal,2026-08,general_cargo,0.660701,0.517289,False
+Panama Canal,2026-09,general_cargo,0.682724,0.571096,False
+Panama Canal,2026-10,general_cargo,0.803811,0.726128,True
+Panama Canal,2019-01,roro,1.248842,0.933804,False
+Panama Canal,2019-02,roro,1.140684,0.9018,False
+Panama Canal,2019-03,roro,1.155179,1.100781,False
+Panama Canal,2019-04,roro,1.064638,1.107236,False
+Panama Canal,2019-05,roro,1.155179,1.010676,False
+Panama Canal,2019-06,roro,1.048507,1.003021,False
+Panama Canal,2019-07,roro,1.202011,0.992037,False
+Panama Canal,2019-08,roro,1.108348,1.242626,False
+Panama Canal,2019-09,roro,1.016246,1.006168,False
+Panama Canal,2019-10,roro,1.014685,0.984785,False
+Panama Canal,2019-11,roro,1.225947,1.049115,False
+Panama Canal,2019-12,roro,1.030295,0.884994,False
+Panama Canal,2020-01,roro,1.17079,0.835763,False
+Panama Canal,2020-02,roro,0.98454,0.947972,False
+Panama Canal,2020-03,roro,1.014685,0.849588,False
+Panama Canal,2020-04,roro,0.854937,0.823742,False
+Panama Canal,2020-05,roro,0.312211,0.483915,False
+Panama Canal,2020-06,roro,0.419403,0.453241,False
+Panama Canal,2020-07,roro,0.624421,0.658897,False
+Panama Canal,2020-08,roro,0.749305,0.768707,False
+Panama Canal,2020-09,roro,0.774282,0.643244,False
+Panama Canal,2020-10,roro,0.999074,0.94558,False
+Panama Canal,2020-11,roro,1.080769,1.09175,False
+Panama Canal,2020-12,roro,0.983463,0.85522,False
+Panama Canal,2021-01,roro,1.045906,0.907844,False
+Panama Canal,2021-02,roro,1.019702,1.078883,False
+Panama Canal,2021-03,roro,0.936632,0.835625,False
+Panama Canal,2021-04,roro,1.032376,1.101539,False
+Panama Canal,2021-05,roro,0.952242,1.136095,False
+Panama Canal,2021-06,roro,1.000115,1.068597,False
+Panama Canal,2021-07,roro,0.999074,1.09895,False
+Panama Canal,2021-08,roro,1.17079,0.889082,False
+Panama Canal,2021-09,roro,0.871068,0.907295,False
+Panama Canal,2021-10,roro,0.827358,0.879934,False
+Panama Canal,2021-11,roro,0.887199,1.025701,False
+Panama Canal,2021-12,roro,1.139569,1.153867,False
+Panama Canal,2022-01,roro,0.921021,0.771856,False
+Panama Canal,2022-02,roro,1.036985,1.057147,False
+Panama Canal,2022-03,roro,1.014685,1.217671,False
+Panama Canal,2022-04,roro,1.032376,0.921885,False
+Panama Canal,2022-05,roro,0.921021,1.11569,False
+Panama Canal,2022-06,roro,0.838806,0.981613,False
+Panama Canal,2022-07,roro,0.999074,1.104265,False
+Panama Canal,2022-08,roro,1.155179,1.266344,False
+Panama Canal,2022-09,roro,0.951722,0.905238,False
+Panama Canal,2022-10,roro,1.155179,1.27329,False
+Panama Canal,2022-11,roro,1.080769,1.214713,False
+Panama Canal,2022-12,roro,1.17079,1.164631,False
+Panama Canal,2023-01,roro,0.999074,0.919009,False
+Panama Canal,2023-02,roro,1.071551,1.262435,False
+Panama Canal,2023-03,roro,1.045906,1.075745,False
+Panama Canal,2023-04,roro,1.0969,1.209414,False
+Panama Canal,2023-05,roro,1.139569,1.247559,False
+Panama Canal,2023-06,roro,0.91946,0.854268,False
+Panama Canal,2023-07,roro,1.155179,1.335669,False
+Panama Canal,2023-08,roro,0.952242,0.977739,False
+Panama Canal,2023-09,roro,1.0969,1.191654,False
+Panama Canal,2023-10,roro,0.936632,1.023794,False
+Panama Canal,2023-11,roro,1.048507,1.250296,False
+Panama Canal,2023-12,roro,0.858579,1.060331,False
+Panama Canal,2024-01,roro,0.967853,1.031318,False
+Panama Canal,2024-02,roro,0.934479,0.909916,False
+Panama Canal,2024-03,roro,0.905411,1.045318,False
+Panama Canal,2024-04,roro,1.032376,1.257751,False
+Panama Canal,2024-05,roro,0.967853,1.033469,False
+Panama Canal,2024-06,roro,1.129162,1.177479,False
+Panama Canal,2024-07,roro,1.139569,1.115572,False
+Panama Canal,2024-08,roro,1.092737,1.060732,False
+Panama Canal,2024-09,roro,1.161423,1.066323,False
+Panama Canal,2024-10,roro,0.999074,0.962454,False
+Panama Canal,2024-11,roro,1.161423,1.145781,False
+Panama Canal,2024-12,roro,1.233232,1.19617,False
+Panama Canal,2025-01,roro,1.077127,1.02457,False
+Panama Canal,2025-02,roro,0.967853,0.921349,False
+Panama Canal,2025-03,roro,1.092737,1.144398,False
+Panama Canal,2025-04,roro,1.354994,1.418503,False
+Panama Canal,2025-05,roro,1.1864,1.106294,False
+Panama Canal,2025-06,roro,1.161423,1.125079,False
+Panama Canal,2025-07,roro,1.264453,1.093735,False
+Panama Canal,2025-08,roro,1.139569,1.080491,False
+Panama Canal,2025-09,roro,1.032376,1.085224,False
+Panama Canal,2025-10,roro,1.139569,1.117528,False
+Panama Canal,2025-11,roro,1.258209,1.186817,False
+Panama Canal,2025-12,roro,1.202011,1.021532,False
+Panama Canal,2026-01,roro,1.202011,1.029136,False
+Panama Canal,2026-02,roro,0.967853,0.856602,False
+Panama Canal,2026-03,roro,1.264453,1.241469,False
+Panama Canal,2026-04,roro,1.27434,1.180164,False
+Panama Canal,2026-05,roro,1.280064,0.934033,False
+Panama Canal,2026-06,roro,1.145293,1.192744,False
+Panama Canal,2026-07,roro,1.233232,1.407311,False
+Panama Canal,2026-08,roro,1.264453,0.921309,False
+Panama Canal,2026-09,roro,0.935591,0.750136,False
+Panama Canal,2026-10,roro,1.025924,0.938333,True
+Panama Canal,2019-01,tanker,0.935939,0.942005,False
+Panama Canal,2019-02,tanker,0.926401,0.838201,False
+Panama Canal,2019-03,tanker,0.974088,0.84744,False
+Panama Canal,2019-04,tanker,0.925087,0.892206,False
+Panama Canal,2019-05,tanker,0.963915,1.032159,False
+Panama Canal,2019-06,tanker,0.964509,0.994856,False
+Panama Canal,2019-07,tanker,0.885073,0.9223,False
+Panama Canal,2019-08,tanker,0.956285,1.016869,False
+Panama Canal,2019-09,tanker,0.914575,0.812488,False
+Panama Canal,2019-10,tanker,1.111427,1.143152,False
+Panama Canal,2019-11,tanker,1.119566,1.19073,False
+Panama Canal,2019-12,tanker,1.075821,1.108458,False
+Panama Canal,2020-01,tanker,1.251309,0.915761,False
+Panama Canal,2020-02,tanker,1.09836,1.043963,False
+Panama Canal,2020-03,tanker,1.075821,1.103159,False
+Panama Canal,2020-04,tanker,0.927715,1.068991,False
+Panama Canal,2020-05,tanker,0.785883,0.806119,False
+Panama Canal,2020-06,tanker,0.833104,0.822251,False
+Panama Canal,2020-07,tanker,0.902876,0.902943,False
+Panama Canal,2020-08,tanker,0.935939,0.912795,False
+Panama Canal,2020-09,tanker,0.83836,0.828288,False
+Panama Canal,2020-10,tanker,0.971545,0.9305,False
+Panama Canal,2020-11,tanker,0.998674,0.958599,False
+Panama Canal,2020-12,tanker,0.996978,1.002301,False
+Panama Canal,2021-01,tanker,1.055474,1.090792,False
+Panama Canal,2021-02,tanker,0.977086,0.837038,False
+Panama Canal,2021-03,tanker,0.984262,0.853711,False
+Panama Canal,2021-04,tanker,1.009186,1.120634,False
+Panama Canal,2021-05,tanker,1.002065,0.991106,False
+Panama Canal,2021-06,tanker,1.043351,1.13732,False
+Panama Canal,2021-07,tanker,1.017325,1.055372,False
+Panama Canal,2021-08,tanker,1.096167,1.053445,False
+Panama Canal,2021-09,tanker,0.851501,0.886734,False
+Panama Canal,2021-10,tanker,0.897789,0.859605,False
+Panama Canal,2021-11,tanker,1.090657,1.140218,False
+Panama Canal,2021-12,tanker,1.060561,1.048449,False
+Panama Canal,2022-01,tanker,1.004608,1.023103,False
+Panama Canal,2022-02,tanker,0.999612,0.96474,False
+Panama Canal,2022-03,tanker,0.999522,0.991392,False
+Panama Canal,2022-04,tanker,1.035467,1.100042,False
+Panama Canal,2022-05,tanker,1.119057,1.148302,False
+Panama Canal,2022-06,tanker,1.111682,1.137815,False
+Panama Canal,2022-07,tanker,1.017325,1.020207,False
+Panama Canal,2022-08,tanker,1.139404,1.27025,False
+Panama Canal,2022-09,tanker,0.969765,1.053563,False
+Panama Canal,2022-10,tanker,1.047845,1.015602,False
+Panama Canal,2022-11,tanker,1.103797,1.077235,False
+Panama Canal,2022-12,tanker,1.022411,0.95222,False
+Panama Canal,2023-01,tanker,0.963915,0.977876,False
+Panama Canal,2023-02,tanker,0.97427,0.996059,False
+Panama Canal,2023-03,tanker,1.052931,1.018638,False
+Panama Canal,2023-04,tanker,1.07226,1.033964,False
+Panama Canal,2023-05,tanker,0.943569,1.002473,False
+Panama Canal,2023-06,tanker,1.014442,1.06059,False
+Panama Canal,2023-07,tanker,1.068191,1.08406,False
+Panama Canal,2023-08,tanker,1.055474,1.038344,False
+Panama Canal,2023-09,tanker,1.038095,1.112492,False
+Panama Canal,2023-10,tanker,0.966459,1.049634,False
+Panama Canal,2023-11,tanker,0.82522,0.760441,False
+Panama Canal,2023-12,tanker,0.762994,0.796055,False
+Panama Canal,2024-01,tanker,0.653631,0.733343,False
+Panama Canal,2024-02,tanker,0.668803,0.760382,False
+Panama Canal,2024-03,tanker,0.747734,0.862751,False
+Panama Canal,2024-04,tanker,0.840988,0.937296,False
+Panama Canal,2024-05,tanker,0.846923,0.92119,False
+Panama Canal,2024-06,tanker,0.917203,1.04098,False
+Panama Canal,2024-07,tanker,0.938482,0.95304,False
+Panama Canal,2024-08,tanker,0.943569,1.011692,False
+Panama Canal,2024-09,tanker,0.969765,0.988037,False
+Panama Canal,2024-10,tanker,0.910506,0.954449,False
+Panama Canal,2024-11,tanker,0.996046,0.975976,False
+Panama Canal,2024-12,tanker,1.030041,1.053336,False
+Panama Canal,2025-01,tanker,0.974088,1.007917,False
+Panama Canal,2025-02,tanker,1.024955,1.006049,False
+Panama Canal,2025-03,tanker,0.999522,1.06662,False
+Panama Canal,2025-04,tanker,0.956624,0.948305,False
+Panama Canal,2025-05,tanker,0.956285,0.967069,False
+Panama Canal,2025-06,tanker,0.9356,0.970754,False
+Panama Canal,2025-07,tanker,1.037671,1.083269,False
+Panama Canal,2025-08,tanker,0.984262,1.012812,False
+Panama Canal,2025-09,tanker,0.99079,1.056574,False
+Panama Canal,2025-10,tanker,1.024955,1.093094,False
+Panama Canal,2025-11,tanker,1.05912,1.145591,False
+Panama Canal,2025-12,tanker,1.027498,0.999687,False
+Panama Canal,2026-01,tanker,0.974088,1.061092,False
+Panama Canal,2026-02,tanker,1.072823,1.13262,False
+Panama Canal,2026-03,tanker,1.121601,1.189698,False
+Panama Canal,2026-04,tanker,1.274623,1.363921,False
+Panama Canal,2026-05,tanker,1.230963,1.185329,False
+Panama Canal,2026-06,tanker,1.101169,1.112603,False
+Panama Canal,2026-07,tanker,1.113971,1.191344,False
+Panama Canal,2026-08,tanker,1.035128,1.065772,False
+Panama Canal,2026-09,tanker,0.982905,1.047967,False
+Panama Canal,2026-10,tanker,0.930344,1.018247,True
+Panama Canal,2019-01,total,0.978069,0.932293,False
+Panama Canal,2019-02,total,0.979574,0.949916,False
+Panama Canal,2019-03,total,0.971047,0.878509,False
+Panama Canal,2019-04,total,0.940183,0.917739,False
+Panama Canal,2019-05,total,0.967034,0.971525,False
+Panama Canal,2019-06,total,0.94433,0.919687,False
+Panama Canal,2019-07,total,0.949981,0.916698,False
+Panama Canal,2019-08,total,1.057318,1.014635,False
+Panama Canal,2019-09,total,0.981647,0.896368,False
+Panama Canal,2019-10,total,1.056314,0.98511,False
+Panama Canal,2019-11,total,1.085305,1.060491,False
+Panama Canal,2019-12,total,1.032239,0.996385,False
+Panama Canal,2020-01,total,1.356256,0.944602,False
+Panama Canal,2020-02,total,1.094849,0.966524,False
+Panama Canal,2020-03,total,0.984088,0.946576,False
+Panama Canal,2020-04,total,0.919452,0.958778,False
+Panama Canal,2020-05,total,0.829603,0.871175,False
+Panama Canal,2020-06,total,0.81372,0.794346,False
+Panama Canal,2020-07,total,0.887786,0.901546,False
+Panama Canal,2020-08,total,0.946971,0.917578,False
+Panama Canal,2020-09,total,0.927744,0.906328,False
+Panama Canal,2020-10,total,1.041267,1.085772,False
+Panama Canal,2020-11,total,1.014818,1.066046,False
+Panama Canal,2020-12,total,1.044277,1.152382,False
+Panama Canal,2021-01,total,1.022207,1.082665,False
+Panama Canal,2021-02,total,1.027331,1.06411,False
+Panama Canal,2021-03,total,1.028226,1.02926,False
+Panama Canal,2021-04,total,0.998232,1.116397,False
+Panama Canal,2021-05,total,0.97205,1.02206,False
+Panama Canal,2021-06,total,0.970244,1.077238,False
+Panama Canal,2021-07,total,0.985091,1.031287,False
+Panama Canal,2021-08,total,1.044277,1.035022,False
+Panama Canal,2021-09,total,0.891464,0.914544,False
+Panama Canal,2021-10,total,1.002144,1.043694,False
+Panama Canal,2021-11,total,1.094635,1.186167,False
+Panama Canal,2021-12,total,1.100453,1.112495,False
+Panama Canal,2022-01,total,1.031236,1.054293,False
+Panama Canal,2022-02,total,1.072866,1.091105,False
+Panama Canal,2022-03,total,1.02622,1.038338,False
+Panama Canal,2022-04,total,1.02,1.053008,False
+Panama Canal,2022-05,total,1.034245,1.08364,False
+Panama Canal,2022-06,total,1.083232,1.143889,False
+Panama Canal,2022-07,total,0.995122,1.00192,False
+Panama Canal,2022-08,total,1.069355,1.124643,False
+Panama Canal,2022-09,total,0.985793,1.031405,False
+Panama Canal,2022-10,total,1.031236,0.989977,False
+Panama Canal,2022-11,total,1.046952,1.081083,False
+Panama Canal,2022-12,total,1.060327,1.054069,False
+Panama Canal,2023-01,total,1.016188,1.065254,False
+Panama Canal,2023-02,total,0.998454,1.01865,False
+Panama Canal,2023-03,total,1.024214,1.032569,False
+Panama Canal,2023-04,total,1.052135,1.074108,False
+Panama Canal,2023-05,total,0.965028,0.976103,False
+Panama Canal,2023-06,total,0.952622,0.959619,False
+Panama Canal,2023-07,total,0.982081,0.948826,False
+Panama Canal,2023-08,total,0.962019,0.938608,False
+Panama Canal,2023-09,total,0.965061,0.957811,False
+Panama Canal,2023-10,total,0.935937,0.937812,False
+Panama Canal,2023-11,total,0.749452,0.677323,False
+Panama Canal,2023-12,total,0.676121,0.644285,False
+Panama Canal,2024-01,total,0.606904,0.586426,False
+Panama Canal,2024-02,total,0.647687,0.651549,False
+Panama Canal,2024-03,total,0.678128,0.68819,False
+Panama Canal,2024-04,total,0.740122,0.745276,False
+Panama Canal,2024-05,total,0.768411,0.783723,False
+Panama Canal,2024-06,total,0.85933,0.880622,False
+Panama Canal,2024-07,total,0.885779,0.899515,False
+Panama Canal,2024-08,total,0.915874,0.980451,False
+Panama Canal,2024-09,total,0.937074,0.957979,False
+Panama Canal,2024-10,total,0.914871,0.998196,False
+Panama Canal,2024-11,total,0.973354,1.001826,False
+Panama Canal,2024-12,total,0.975059,1.015795,False
+Panama Canal,2025-01,total,0.923899,0.968208,False
+Panama Canal,2025-02,total,0.986237,1.032272,False
+Panama Canal,2025-03,total,0.973053,1.02912,False
+Panama Canal,2025-04,total,0.973354,0.990571,False
+Panama Canal,2025-05,total,0.934934,0.957106,False
+Panama Canal,2025-06,total,0.936037,1.019283,False
+Panama Canal,2025-07,total,0.973053,1.02847,False
+Panama Canal,2025-08,total,0.971047,1.024978,False
+Panama Canal,2025-09,total,0.984757,1.100891,False
+Panama Canal,2025-10,total,0.994119,1.01944,False
+Panama Canal,2025-11,total,0.984757,1.056553,False
+Panama Canal,2025-12,total,0.981078,1.017691,False
+Panama Canal,2026-01,total,0.953993,1.039328,False
+Panama Canal,2026-02,total,1.007339,1.129628,False
+Panama Canal,2026-03,total,1.052302,1.125114,False
+Panama Canal,2026-04,total,1.083232,1.160979,False
+Panama Canal,2026-05,total,1.067349,1.108421,False
+Panama Canal,2026-06,total,0.922561,0.955963,False
+Panama Canal,2026-07,total,1.001141,1.094702,False
+Panama Canal,2026-08,total,0.900827,0.925563,False
+Panama Canal,2026-09,total,0.874878,0.929596,False
+Panama Canal,2026-10,total,0.849586,0.910262,True

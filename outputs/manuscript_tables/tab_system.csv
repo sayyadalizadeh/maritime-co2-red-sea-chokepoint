@@ -1,0 +1,9 @@
+run,spec,scope,excess_Mt,pct,excess_2023_Mt,excess_2024_Mt,excess_2025_Mt,placebo_band_Mt_min,placebo_band_Mt_max,placebo_band_pct_min,placebo_band_pct_max,robust,excess_panama_normal_Mt,max_abs_placebo_pct
+main,S1,total of treated types,41.027,2.621,0.396,21.078,19.553,-91.087,56.477,-5.82,3.609,False,29.662,
+main,S2,total of treated types,29.504,1.871,0.044,15.818,13.642,-91.758,56.893,-5.82,3.609,False,21.518,
+B1,S1,total of treated types,39.504,9.06,-0.557,18.087,21.974,-32.083,44.589,-7.358,10.226,False,32.131,
+B1,S2,total of treated types,55.041,13.089,-0.062,25.27,29.833,-30.94,43.0,-7.358,10.226,False,43.027,
+main,S1,CONTAINER,39.954,9.173,-0.315,18.881,21.389,,,,,True,,8.449
+main,S2,CONTAINER,49.049,11.501,-0.03,23.069,26.01,,,,,True,,8.449
+B1,S1,CONTAINER,39.504,9.06,-0.557,18.087,21.974,,,,,False,,10.226
+B1,S2,CONTAINER,55.041,13.089,-0.062,25.27,29.833,,,,,False,,10.226

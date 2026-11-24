@@ -1,0 +1,23 @@
+check,definition,expected,obtained,abs_diff,pass
+residence: non-control economies,rows of rsd4 units with control = False,96,96,0,true
+residence: placebo % finite,non-finite values in the 10 placebo columns,0,0,0,true
+residence: rule reproduces stored robust flag,economies where the recomputed RS-D16 flag differs from column robust,0,0,0,true
+residence: pseudo-robust count at 2020-12,"RS-D23 count, non-control economies",2,2,0,true
+residence: pseudo-robust count at 2021-06,"RS-D23 count, non-control economies",0,0,0,true
+residence: pseudo-robust count at 2021-12,"RS-D23 count, non-control economies",5,5,0,true
+residence: pseudo-robust count at 2022-06,"RS-D23 count, non-control economies",4,4,0,true
+residence: pseudo-robust count at 2022-12,"RS-D23 count, non-control economies",7,7,0,true
+residence: mean count,mean of the five pseudo-robust counts,3.6,3.6,0.0,true
+residence: max count,maximum of the five pseudo-robust counts,7,7,0,true
+residence: actual robust count,R0 robust non-control economies (rsd4 units),11,11,0,true
+departure: non-control economies,rows of rsd4 units with control = False,88,88,0,true
+departure: placebo % finite,non-finite values in the 10 placebo columns,0,0,0,true
+departure: rule reproduces stored robust flag,economies where the recomputed RS-D16 flag differs from column robust,0,0,0,true
+departure: pseudo-robust count at 2020-12,"RS-D23 count, non-control economies",2,2,0,true
+departure: pseudo-robust count at 2021-06,"RS-D23 count, non-control economies",1,1,0,true
+departure: pseudo-robust count at 2021-12,"RS-D23 count, non-control economies",7,7,0,true
+departure: pseudo-robust count at 2022-06,"RS-D23 count, non-control economies",2,2,0,true
+departure: pseudo-robust count at 2022-12,"RS-D23 count, non-control economies",4,4,0,true
+departure: mean count,mean of the five pseudo-robust counts,3.2,3.2,0.0,true
+departure: max count,maximum of the five pseudo-robust counts,7,7,0,true
+departure: actual robust count,R0 robust non-control economies (rsd4 units),9,9,0,true

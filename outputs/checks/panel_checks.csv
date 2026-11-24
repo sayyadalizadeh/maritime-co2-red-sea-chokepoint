@@ -1,0 +1,26 @@
+check,definition,expected,obtained,abs_diff,pass
+residence_economies,"residence panel (RES_TOTAL, ALL_VESSELS): economies complete in 2019-01..2025-10",140,140,0,true
+residence_rows_main,"residence panel (RES_TOTAL, ALL_VESSELS): rows in the main window = economies x 82",11480,11480,0,true
+residence_missing_main,"residence panel (RES_TOTAL, ALL_VESSELS): missing value_t in the main window",0,0,0,true
+residence_economies_sens,"residence panel (RES_TOTAL, ALL_VESSELS): economies complete in 2019-01..2026-02",(report),140,,true
+residence_rows_sens,"residence panel (RES_TOTAL, ALL_VESSELS): rows in the sensitivity window = economies x 86",12040,12040,0,true
+residence_xfish_missing_main,"residence panel (RES_TOTAL, ALL_VESSELS): main-window rows without a published ALL_VESSELSXMISC_FISH value",(report),0,,true
+residence_rsl_members,"residence panel (RES_TOTAL, ALL_VESSELS): RSL members in the panel (EGY JOR SAU YEM)",4,4,0,true
+residence_cpa_members,"residence panel (RES_TOTAL, ALL_VESSELS): CPA members in the panel (AGO CIV CMR CPV GAB GHA GIN GNQ KEN LBR MDG MOZ MRT MUS NAM NGA SEN SYC TZA ZAF)",20,20,0,true
+residence_hq_members,"residence panel (RES_TOTAL, ALL_VESSELS): HQ members in the panel (CHE CHN DEU DNK FRA KOR SGP TWN)",(report),8,,true
+residence_eea_members,"residence panel (RES_TOTAL, ALL_VESSELS): EEA members in the panel (BEL BGR CYP DEU DNK ESP EST FIN FRA GRC HRV IRL ISL ITA LTU LUX LVA MLT NLD NOR POL PRT ROU SVN SWE)",(report),25,,true
+residence_rus_members,"residence panel (RES_TOTAL, ALL_VESSELS): RUS members in the panel (RUS)",(report),1,,true
+departure_economies,"departure panel (TER_INT, ALL_VESSELS): economies complete in 2019-01..2025-10",137,137,0,true
+departure_rows_main,"departure panel (TER_INT, ALL_VESSELS): rows in the main window = economies x 82",11234,11234,0,true
+departure_missing_main,"departure panel (TER_INT, ALL_VESSELS): missing value_t in the main window",0,0,0,true
+departure_xfish_missing_main,"departure panel (TER_INT, ALL_VESSELS): main-window rows without a published ALL_VESSELSXMISC_FISH value",(report),0,,true
+departure_rsl_members,"departure panel (TER_INT, ALL_VESSELS): RSL members in the panel (EGY JOR SAU YEM)",4,4,0,true
+departure_cpa_members,"departure panel (TER_INT, ALL_VESSELS): CPA members in the panel (AGO CIV CMR CPV GAB GHA GIN KEN LBR MDG MOZ MRT MUS NAM NGA REU SEN SYC TZA ZAF)",20,20,0,true
+departure_hq_members,"departure panel (TER_INT, ALL_VESSELS): HQ members in the panel (CHN DEU DNK FRA KOR SGP TWN)",(report),7,,true
+departure_eea_members,"departure panel (TER_INT, ALL_VESSELS): EEA members in the panel (BEL BGR CYP DEU DNK ESP EST FIN FRA GRC HRV IRL ISL ITA LTU LVA MLT NLD NOR POL PRT ROU SVN SWE)",(report),24,,true
+departure_rus_members,"departure panel (TER_INT, ALL_VESSELS): RUS members in the panel (RUS)",(report),1,,true
+common_economies,Economies complete in both RES_TOTAL and TER_INT,133,133,0,true
+world_n_types,Ship types for W RES_TOTAL (ALL_VESSELS and ALL_VESSELSXMISC_FISH excluded),19,19,0,true
+world_months,"Months of W RES_TOTAL, 2019-01..2026-09, every type",93,93,0,true
+world_type_sum_gap,"max over months 2019-01..2026-06 of |sum of 19 types - ALL_VESSELS|, W RES_TOTAL, tonnes",<= 0.001,0.000000,,true
+world_type_sum_gap_months,Months of 2019-01..2026-09 with |gap| > 0.001 t (after the last component month; see world_type_sum_gaps.csv),(report),2026-07;2026-08;2026-09,,true

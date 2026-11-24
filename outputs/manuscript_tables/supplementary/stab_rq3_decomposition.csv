@@ -1,0 +1,27 @@
+principle,block,category,n,excess_S1_Mt,excess_S2_Mt,members,note,gross_Mt,share_robust
+departure,group,RSL,4,-35.01591141449251,-41.24151723554946,EGY JOR SAU YEM,economies in several groups are counted in each,,
+departure,group,CPA,18,1.854942864120704,7.558335844952013,AGO CIV CMR CPV GAB GHA GIN KEN LBR MDG MOZ MRT MUS NGA SEN SYC TZA ZAF,economies in several groups are counted in each,,
+departure,group,HQ,7,-1.3091497450363043,-12.39193838328281,CHN DEU DNK FRA KOR SGP TWN,economies in several groups are counted in each,,
+departure,group,EEA,24,2.93671738956022,-9.034554298368908,BEL BGR CYP DEU DNK ESP EST FIN FRA GRC HRV IRL ISL ITA LTU LVA MLT NLD NOR POL PRT ROU SVN SWE,economies in several groups are counted in each,,
+departure,group,other,38,70.01482517792695,54.27130413243314,ALB ARE AZE BGD BHR CUW DZA GBR GEO HKG IDN IND IRN IRQ JPN KAZ LBN LKA MAR MDV MMR MYS OMN PHL PNG QAT RUS SLB SUR THA TKM TUN TUR UKR USA VEN VGB VNM,"economies in none of RSL, CPA, HQ, EEA",,
+departure,tercile of x_v,T1 (lowest),29,14.378541003245497,-1.1013393606379618,AGO ARE AZE CHN CMR CPV DZA GAB HRV IRL ISL JPN LBR NGA NOR OMN PNG POL PRT SVN TUN TWN TZA USA VEN VGB VNM YEM ZAF,"cut-offs over non-control economies: 0.1432, 0.2353",,
+departure,tercile of x_v,T2,29,36.86683351899489,17.403927104516608,ALB BEL BGR CIV CUW CYP DNK ESP EST FRA GBR GRC IDN ITA KOR LTU LVA MAR MOZ MYS NLD PHL QAT ROU SAU SUR SWE TKM TUR,"cut-offs over non-control economies: 0.1432, 0.2353",,
+departure,tercile of x_v,T3 (highest),30,-13.608293419824804,-15.65265321542385,BGD BHR DEU EGY FIN GEO GHA GIN HKG IND IRN IRQ JOR KAZ KEN LBN LKA MDG MDV MLT MMR MRT MUS RUS SEN SGP SLB SYC THA UKR,"cut-offs over non-control economies: 0.1432, 0.2353",,
+departure,all,all non-control,88,37.63708110241559,0.6499345284547917,,,,
+departure,robust share of gross gains,S1,6,57.95934758146976,,,n = robust economies with gains in S1,107.70524695035074,0.5381292854580008
+departure,robust share of gross losses,S1,3,-34.625981322001664,,,n = robust economies with losses in S1,-70.06816584793515,0.4941756488552649
+departure,robust share of gross gains,S2,6,,56.45737391010186,,n = robust economies with gains in S2,81.80735345013969,0.690125905912746
+departure,robust share of gross losses,S2,3,,-40.92167798289069,,n = robust economies with losses in S2,-81.1574189216849,0.5042259663577917
+residence,group,RSL,4,-0.7317522850122237,0.3141755414193032,EGY JOR SAU YEM,economies in several groups are counted in each,,
+residence,group,CPA,19,6.4635382335181,7.060100328840237,AGO CIV CMR CPV GAB GHA GIN GNQ KEN LBR MDG MOZ MRT MUS NGA SEN SYC TZA ZAF,economies in several groups are counted in each,,
+residence,group,HQ,8,-12.065444979278103,21.345672962986253,CHE CHN DEU DNK FRA KOR SGP TWN,economies in several groups are counted in each,,
+residence,group,EEA,24,-43.93172268111318,-10.724015495301542,BEL BGR CYP DEU DNK ESP EST FIN FRA GRC HRV IRL ISL ITA LTU LVA MLT NLD NOR POL PRT ROU SVN SWE,economies in several groups are counted in each,,
+residence,group,other,44,7.023766660582004,3.7658202887096768,ALB ARE AZE BGD BHR BHS BLZ CHL CYM DZA GBR GEO GIB GUY HKG HND IND IRN IRQ JPN KAZ KNA KWT LBN MAR MDV MHL MYS OMN PAN QAT RUS SUR THA TKM TUN TUR UKR USA VCT VEN VGB VNM VUT,"economies in none of RSL, CPA, HQ, EEA",,
+residence,tercile of e_res,T1 (lowest),32,4.326814105709441,-5.457258826426794,AGO AZE CHL CIV CMR CPV CYM GAB GIB GNQ GUY HND HRV IRQ ISL MAR MDG MOZ MRT MUS MYS NGA PRT SEN SUR TKM TZA USA VEN VNM YEM ZAF,"cut-offs over non-control economies: 0.0871, 0.1218",,
+residence,tercile of e_res,T2,32,1.1464640327307358,-5.089013563350645,ALB ARE BHR BHS BLZ CHN EGY ESP GEO GHA GIN IND ITA JPN KAZ KEN KNA KOR LBR MHL MLT NOR PAN ROU SVN SWE SYC THA TUN VCT VGB VUT,"cut-offs over non-control economies: 0.0871, 0.1218",,
+residence,tercile of e_res,T3 (highest),32,-34.23599936499112,28.348070744064117,BEL BGD BGR CHE CYP DEU DNK DZA EST FIN FRA GBR GRC HKG IRL IRN JOR KWT LBN LTU LVA MDV NLD OMN POL QAT RUS SAU SGP TUR TWN UKR,"cut-offs over non-control economies: 0.0871, 0.1218",,
+residence,all,all non-control,96,-28.762721226550934,17.80179835428668,,,,
+residence,robust share of gross gains,S1,7,17.026865824245082,,,n = robust economies with gains in S1,69.31564948537502,0.2456424479992443
+residence,robust share of gross losses,S1,4,-6.121691111547742,,,n = robust economies with losses in S1,-98.07837071192594,0.0624163214285876
+residence,robust share of gross gains,S2,7,,16.056860501754418,,n = robust economies with gains in S2,75.20016089069898,0.2135216243099871
+residence,robust share of gross losses,S2,4,,-3.865751120663589,,n = robust economies with losses in S2,-57.39836253641229,0.0673495017947809

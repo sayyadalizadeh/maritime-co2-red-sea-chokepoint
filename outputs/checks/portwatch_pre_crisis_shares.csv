@@ -1,0 +1,15 @@
+chokepoint,vessel_type,n_per_day_pre_mean,n_share,capacity_per_day_pre_mean,capacity_share
+Suez Canal,container,17.651,0.2914,1017278.9,0.369
+Suez Canal,dry_bulk,15.664,0.2586,812539.9,0.2948
+Suez Canal,general_cargo,5.698,0.0941,26097.4,0.0095
+Suez Canal,roro,2.697,0.0445,11346.5,0.0041
+Suez Canal,tanker,18.854,0.3113,889328.0,0.3226
+Suez Canal,sum of five types,60.564,0.9999,2756590.7,1.0
+Suez Canal,total,60.564,1.0,2756592.6,1.0
+Bab el-Mandeb Strait,container,17.203,0.2797,1009252.6,0.3598
+Bab el-Mandeb Strait,dry_bulk,15.928,0.2589,813530.8,0.29
+Bab el-Mandeb Strait,general_cargo,4.846,0.0788,28039.4,0.01
+Bab el-Mandeb Strait,roro,3.278,0.0533,12063.9,0.0043
+Bab el-Mandeb Strait,tanker,20.257,0.3293,941948.9,0.3358
+Bab el-Mandeb Strait,sum of five types,61.512,1.0,2804835.6,0.9999
+Bab el-Mandeb Strait,total,61.513,1.0,2804837.6,1.0

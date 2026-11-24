@@ -1,0 +1,99 @@
+check,definition,expected,obtained,abs_diff,pass
+fig_transits,fig_transits: n_rel equals portwatch_relative_transits.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_transits_n,fig_transits: series x months,3 x 82,3 x 82,,true
+fig_world_container_excess_S1,"fig_world_container: sum of (observed - S1) x days over 2023-12..2025-10 equals rsd2_types.csv CONTAINER excess_total_t_S1, Mt (max |diff| <= 1e-06)",agree,max |diff| = 1.42e-14,1.42e-14,true
+fig_world_container_excess_S2,"fig_world_container: sum of (observed - S2) x days over 2023-12..2025-10 equals rsd2_types.csv CONTAINER excess_total_t_S2, Mt (max |diff| <= 1e-06)",agree,max |diff| = 7.11e-15,7.11e-15,true
+fig_world_container_band,"fig_world_container: band half-width equals CONTAINER max_abs_placebo (rsd2_types.csv), % (max |diff| <= 1e-06)",agree,max |diff| = 1.78e-15,1.78e-15,true
+fig_departure_bars_S1,fig_departure_bars: S1 equals rsd4_departure_units.csv (max |diff| <= 1e-06),agree,max |diff| = 2.22e-16,2.22e-16,true
+fig_departure_bars_S2,fig_departure_bars: S2 equals rsd4_departure_units.csv (max |diff| <= 1e-06),agree,max |diff| = 3.55e-15,3.55e-15,true
+fig_departure_bars_xu,fig_departure_bars: Xu equals xu_gsc.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_departure_bars_n,"fig_departure_bars: economies shown (robust or |S1| >= 1 Mt, non-control)",31,31,,true
+fig_departure_paths_excess_S1,"fig_departure_paths: sum over 2023-12..2025-10 of (observed - S1 line) x days equals excess_total_t_S1 per economy, Mt (max |diff| <= 1e-06)",agree,max |diff| = 1.78e-15,1.78e-15,true
+fig_departure_paths_excess_S2,"fig_departure_paths: sum over 2023-12..2025-10 of (observed - S2 line) x days equals excess_total_t_S2 per economy, Mt (max |diff| <= 1e-06)",agree,max |diff| = 7.11e-15,7.11e-15,true
+fig_departure_paths_n,fig_departure_paths: economies shown,9,9,,true
+fig_departure_paths_excluded_2023-11,fig_departure_paths: 2023-11 absent from every line,True,True,,true
+fig_principles_gross_gains_Mt,fig_principles: gross_gains_Mt equals rsd4_summary.csv gross_gains_all_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_principles_gross_losses_Mt,fig_principles: gross_losses_Mt equals rsd4_summary.csv gross_losses_all_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_principles_net_Mt,fig_principles: net_Mt equals rsd4_summary.csv excess_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_principles_robust_gains_Mt,fig_principles: robust_gains_Mt equals rsd4_summary.csv gross_gains_robust_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_principles_robust_losses_Mt,fig_principles: robust_losses_Mt equals rsd4_summary.csv gross_losses_robust_Mt (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_rq3_scatter_pct,fig_rq3_scatter: pct_S1 equals rsd4_departure_units.csv (max |diff| <= 1e-06),agree,max |diff| = 3.55e-15,3.55e-15,true
+fig_rq3_scatter_x_v,fig_rq3_scatter: x_v equals exposure.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_rq3_scatter_line,fig_rq3_scatter: fitted line equals const + x_v coefficient (rq3_coefficients.csv) (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_rq3_scatter_n,"fig_rq3_scatter: economies shown (non-control, departure)",88,88,,true
+sfig_residence_paths_excess_S1,"sfig_residence_paths: sum over 2023-12..2025-10 of (observed - S1 line) x days equals excess_total_t_S1 per economy, Mt (max |diff| <= 1e-06)",agree,max |diff| = 5.51e-14,5.51e-14,true
+sfig_residence_paths_excess_S2,"sfig_residence_paths: sum over 2023-12..2025-10 of (observed - S2 line) x days equals excess_total_t_S2 per economy, Mt (max |diff| <= 1e-06)",agree,max |diff| = 3.98e-12,3.98e-12,true
+sfig_residence_paths_n,sfig_residence_paths: economies shown,11,11,,true
+sfig_robustness_departure,"sfig_robustness_departure: values equal robustness_economies.csv (departure, S1) (max |diff| <= 1e-06)",agree,max |diff| = 0,0,true
+sfig_world_types_pct_S1,sfig_world_types: pct_S1 equals rsd2_types.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_world_types_pct_S2,sfig_world_types: pct_S2 equals rsd2_types.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_world_types_max_abs_placebo,sfig_world_types: max_abs_placebo equals rsd2_types.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_world_types_n,sfig_world_types: transit types shown,10,10,,true
+sfig_world_types_labels,sfig_world_types: every type shown has a readable label,all,all,,true
+sfig_dose_d_c_transits_per_ship_year,sfig_dose: d_c_transits_per_ship_year equals rsd2_dose_check.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_dose_pct_S1,sfig_dose: pct_S1 equals rsd2_dose_check.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_dose_pct_S2,sfig_dose: pct_S2 equals rsd2_dose_check.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_within_eea_residence_labels,sfig_within_eea_residence: economies labelled (rule in figure_notes.md),(report),BEL EST FRA GRC IRL LTU SVN,,true
+sfig_within_eea_residence_values,sfig_within_eea_residence: values equal within_eea.csv (max |diff| <= 1e-06),agree,max |diff| = 3.55e-15,3.55e-15,true
+sfig_within_eea_residence_n,sfig_within_eea_residence: EEA non-control economies shown,16,16,,true
+sfig_within_eea_departure_labels,sfig_within_eea_departure: economies labelled (rule in figure_notes.md),(report),ESP EST FIN FRA GRC LTU LVA,,true
+sfig_within_eea_departure_values,sfig_within_eea_departure: values equal within_eea.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_within_eea_departure_n,sfig_within_eea_departure: EEA non-control economies shown,16,16,,true
+sfig_xu_vs_imputation_residence_values,sfig_xu_vs_imputation_residence: values equal xu_gsc.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+sfig_xu_vs_imputation_departure_values,sfig_xu_vs_imputation_departure: values equal xu_gsc.csv (max |diff| <= 1e-06),agree,max |diff| = 0,0,true
+fig_transits_min_font,"fig_transits: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+fig_transits_text_inside,fig_transits: texts drawn wholly inside the figure (of 21 texts),0,0,,true
+fig_transits_text_overlap,fig_transits: pairs of overlapping text boxes,0,0,,true
+fig_transits_plain_text,"fig_transits: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+fig_world_container_min_font,"fig_world_container: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+fig_world_container_text_inside,fig_world_container: texts drawn wholly inside the figure (of 18 texts),0,0,,true
+fig_world_container_text_overlap,fig_world_container: pairs of overlapping text boxes,0,0,,true
+fig_world_container_plain_text,"fig_world_container: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+fig_departure_bars_min_font,"fig_departure_bars: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+fig_departure_bars_text_inside,fig_departure_bars: texts drawn wholly inside the figure (of 40 texts),0,0,,true
+fig_departure_bars_text_overlap,fig_departure_bars: pairs of overlapping text boxes,0,0,,true
+fig_departure_bars_plain_text,"fig_departure_bars: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+fig_departure_paths_min_font,"fig_departure_paths: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+fig_departure_paths_text_inside,fig_departure_paths: texts drawn wholly inside the figure (of 68 texts),0,0,,true
+fig_departure_paths_text_overlap,fig_departure_paths: pairs of overlapping text boxes,0,0,,true
+fig_departure_paths_plain_text,"fig_departure_paths: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+fig_principles_min_font,"fig_principles: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+fig_principles_text_inside,fig_principles: texts drawn wholly inside the figure (of 17 texts),0,0,,true
+fig_principles_text_overlap,fig_principles: pairs of overlapping text boxes,0,0,,true
+fig_principles_plain_text,"fig_principles: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+fig_rq3_scatter_min_font,"fig_rq3_scatter: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+fig_rq3_scatter_text_inside,fig_rq3_scatter: texts drawn wholly inside the figure (of 34 texts),0,0,,true
+fig_rq3_scatter_text_overlap,fig_rq3_scatter: pairs of overlapping text boxes,0,0,,true
+fig_rq3_scatter_plain_text,"fig_rq3_scatter: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_residence_paths_min_font,"sfig_residence_paths: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_residence_paths_text_inside,sfig_residence_paths: texts drawn wholly inside the figure (of 86 texts),0,0,,true
+sfig_residence_paths_text_overlap,sfig_residence_paths: pairs of overlapping text boxes,0,0,,true
+sfig_residence_paths_plain_text,"sfig_residence_paths: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_robustness_departure_min_font,"sfig_robustness_departure: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_robustness_departure_text_inside,sfig_robustness_departure: texts drawn wholly inside the figure (of 66 texts),0,0,,true
+sfig_robustness_departure_text_overlap,sfig_robustness_departure: pairs of overlapping text boxes,0,0,,true
+sfig_robustness_departure_plain_text,"sfig_robustness_departure: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_world_types_min_font,"sfig_world_types: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_world_types_text_inside,sfig_world_types: texts drawn wholly inside the figure (of 19 texts),0,0,,true
+sfig_world_types_text_overlap,sfig_world_types: pairs of overlapping text boxes,0,0,,true
+sfig_world_types_plain_text,"sfig_world_types: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_dose_min_font,"sfig_dose: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_dose_text_inside,sfig_dose: texts drawn wholly inside the figure (of 19 texts),0,0,,true
+sfig_dose_text_overlap,sfig_dose: pairs of overlapping text boxes,0,0,,true
+sfig_dose_plain_text,"sfig_dose: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_within_eea_residence_min_font,"sfig_within_eea_residence: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_within_eea_residence_text_inside,sfig_within_eea_residence: texts drawn wholly inside the figure (of 26 texts),0,0,,true
+sfig_within_eea_residence_text_overlap,sfig_within_eea_residence: pairs of overlapping text boxes,0,0,,true
+sfig_within_eea_residence_plain_text,"sfig_within_eea_residence: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_within_eea_departure_min_font,"sfig_within_eea_departure: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_within_eea_departure_text_inside,sfig_within_eea_departure: texts drawn wholly inside the figure (of 20 texts),0,0,,true
+sfig_within_eea_departure_text_overlap,sfig_within_eea_departure: pairs of overlapping text boxes,0,0,,true
+sfig_within_eea_departure_plain_text,"sfig_within_eea_departure: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_xu_vs_imputation_residence_min_font,"sfig_xu_vs_imputation_residence: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_xu_vs_imputation_residence_text_inside,sfig_xu_vs_imputation_residence: texts drawn wholly inside the figure (of 19 texts),0,0,,true
+sfig_xu_vs_imputation_residence_text_overlap,sfig_xu_vs_imputation_residence: pairs of overlapping text boxes,0,0,,true
+sfig_xu_vs_imputation_residence_plain_text,"sfig_xu_vs_imputation_residence: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true
+sfig_xu_vs_imputation_departure_min_font,"sfig_xu_vs_imputation_departure: smallest rendered font size of any text, pt (mathtext sub- and superscripts counted at 0.7 x)",>= 8.0,8.0,,true
+sfig_xu_vs_imputation_departure_text_inside,sfig_xu_vs_imputation_departure: texts drawn wholly inside the figure (of 17 texts),0,0,,true
+sfig_xu_vs_imputation_departure_text_overlap,sfig_xu_vs_imputation_departure: pairs of overlapping text boxes,0,0,,true
+sfig_xu_vs_imputation_departure_plain_text,"sfig_xu_vs_imputation_departure: drawn texts containing an underscore, RS-D, RQ followed by a digit or a date written as YYYY-MM",0,0,,true

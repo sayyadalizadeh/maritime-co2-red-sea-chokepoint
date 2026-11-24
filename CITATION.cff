@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or its outputs, please cite them as below."
+type: software
+title: "How two accounting principles record shipping emissions from the Red Sea crisis"
+authors:
+  - family-names: Alizadeh
+    given-names: Sayyad
+    affiliation: Karadeniz Technical University
+repository-code: "https://github.com/sayyadalizadeh/maritime-co2-red-sea-chokepoint"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-25
