@@ -60,9 +60,7 @@ This file records the analysis decisions of the study, with their dates and reas
 ### RS-D3: Exposure measures (19 November)
 - **Departure principle:** the economy's value share of maritime exports passing the Suez Canal (Verschuur and Hall, version 3). The quantity share is used as robustness.
 - **Residence principle:** a shift-share measure that weights the export share, the import share and the world-average share by the economy's pre-crisis emission components. It is used together with an indicator for the headquarters economies of the nine alliance carriers on Asia–Europe services (HQ).
-- **Robustness:**
-  - ONE assigned to Japan;
-  - consolidated subsidiaries assigned to their own economies.
+- **Robustness:** Planned robustness: ONE assigned to Japan, and consolidated subsidiaries assigned to their own economies. Only the first was carried out, as the RQ3 sensitivity with Japan added to HQ (RS-D42(e)); the second was not carried out.
 - **Stated limitation:** no public pre-crisis data link operators to routes.
 
 ### RS-D4: Economy-level excess (19 November; revised 20 November)
@@ -101,7 +99,7 @@ Further robustness checks: placebo dates, quantity-based exposure, a vessel aggr
 
 ### RS-D8: Data vintage (19 November)
 - The OECD and PortWatch downloads of 31 October 2026 and Verschuur and Hall version 3 are frozen.
-- One re-download before submission is used only as a revision-sensitivity check.
+- A re-download before submission was planned as a revision-sensitivity check; it was not carried out.
 
 ### RS-D9: Vessel aggregate (19 November)
 - **Main aggregate:** all vessels.
@@ -117,8 +115,7 @@ Further robustness checks: placebo dates, quantity-based exposure, a vessel aggr
 - System totals are reported with and without that month.
 
 ### RS-D12: Target journal (19 November)
-- Transportation Research Part D; Marine Policy as the alternative.
-- The format requirements of the journal's guide for authors are followed.
+Transportation Research Part D. The format requirements of the journal's guide for authors are followed.
 
 ### RS-D13: Unpublished components (20 November)
 - In the residence exposure, a component that is absent in a pre-crisis month is set to zero. Reason: the published components already add up to the residence total.
@@ -254,7 +251,7 @@ The title no longer speaks of a cost that someone bears. Replaced by RS-D39.
 - RS-D34 is applied as written (see Corrections).
 - **Named:** Saudi Arabia and Mauritius (departure) meet all criteria.
 - **Not named:** Azerbaijan also meets them but is not named, because the Caspian Sea has no open-sea link to Suez.
-- **Abstract:** states the pattern for the Red Sea economies and the gross shift against placebos.
+- **Abstract:** states the pattern for the Red Sea economies and the gross shift against placebos; after RS-D42(a) showed that the gross shift depends on a few economies, the gross-shift statement was removed from the abstract (RS-D41).
 - **Results section:** reports every flagged economy with the size and sign of its pre-crisis deviation.
 - **Comparing the principles:** rests on the all-voyages pair.
 

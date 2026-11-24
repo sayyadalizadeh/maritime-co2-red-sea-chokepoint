@@ -1,8 +1,8 @@
 section,item,value,detail,source_file
 source,OECD,"OECD, Maritime transport CO2 emissions (experimental), dataflow OECD.SDD.NAD.SEEA:DSD_MARITIME_TRANSPORT@DF_MARITIME_TRANSPORT","version 2.0; release 2026-10-14; download 2026-10-31; licence OECD Terms and Conditions, section 3: reuse and redistribution with attribution",data/MANIFEST.csv
-source,PortWatch,"IMF PortWatch, Daily Chokepoints Data",version [check]; release [check]; download 2026-10-31; licence [check],data/MANIFEST.csv
-source,Verschuur & Hall v3,"Verschuur & Hall, Maritime chokepoint dependencies and systemic risks (Zenodo dataset)",version v3; release 2025-11-24; download [check]; licence CC BY 4.0,data/MANIFEST.csv
-source,UNCTADstat,"UNCTADstat (Clarksons Research), Merchant fleet: By flag of registration and ship type, annual (bulk file)",version [check]; release [check]; download [check]; licence [check],data/MANIFEST.csv
+source,PortWatch,"IMF PortWatch, Daily Chokepoints Data",version not stated by the provider; release not stated by the provider; download 2026-10-31; licence IMF PortWatch terms of use; recommended source line: Sources: Kpler; UN Global Platform; IMF PortWatch (portwatch.imf.org),data/MANIFEST.csv
+source,Verschuur & Hall v3,"Verschuur & Hall, Maritime chokepoint dependencies and systemic risks (Zenodo dataset)",version v3; release 2025-11-24; download not recorded; licence CC BY 4.0,data/MANIFEST.csv
+source,UNCTADstat,"UNCTADstat (Clarksons Research data), Merchant fleet: World fleet by flag of registration and ship type - Core indicators - Annual (analytical)",version US.MerchantFleet; release 2026-06-18; download 2026-09; licence UNCTADstat terms of use,data/MANIFEST.csv
 window,pre-crisis,2019-01 to 2023-11,,src/config.py
 window,shock month,2023-12,,src/config.py
 window,main estimation end,2025-10,,src/config.py

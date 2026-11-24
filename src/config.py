@@ -112,8 +112,6 @@ COUNTRY_GROUP_DEFS = {
 # ---------------------------------------------------------------------------
 # Expected raw-file metadata and checksums
 # ---------------------------------------------------------------------------
-CHECK = "[check]"
-
 _OECD_META = {
     "source": (
         "OECD, Maritime transport CO2 emissions (experimental), dataflow "
@@ -126,15 +124,18 @@ _OECD_META = {
         "OECD Terms and Conditions, section 3: reuse and redistribution "
         "with attribution"
     ),
-    "doi_or_url": CHECK,
+    "doi_or_url": "https://www.oecd.org/en/data/datasets/maritime-transport-co2-emissions.html",
 }
 _PORTWATCH_META = {
     "source": "IMF PortWatch, Daily Chokepoints Data",
-    "version": CHECK,
-    "release_date": CHECK,
+    "version": "not stated by the provider",
+    "release_date": "not stated by the provider",
     "download_date": "2026-10-31",
-    "licence": CHECK,
-    "doi_or_url": CHECK,
+    "licence": (
+        "IMF PortWatch terms of use; recommended source line: Sources: Kpler; "
+        "UN Global Platform; IMF PortWatch (portwatch.imf.org)"
+    ),
+    "doi_or_url": "https://portwatch.imf.org/datasets/3da2b9ca97684916b75c4013f95d18ab_0/about",
 }
 _V3_META = {
     "source": (
@@ -143,18 +144,18 @@ _V3_META = {
     ),
     "version": "v3",
     "release_date": "2025-11-24",
-    "download_date": CHECK,
+    "download_date": "not recorded",
     "licence": "CC BY 4.0",
     "doi_or_url": "https://doi.org/10.5281/zenodo.19663059",
 }
 _UNCTAD_META = {
-    "source": ("UNCTADstat (Clarksons Research), Merchant fleet: By flag of registration "
-               "and ship type, annual (bulk file)"),
-    "version": CHECK,
-    "release_date": CHECK,
-    "download_date": CHECK,
-    "licence": CHECK,
-    "doi_or_url": CHECK,
+    "source": ("UNCTADstat (Clarksons Research data), Merchant fleet: World fleet by flag of "
+               "registration and ship type - Core indicators - Annual (analytical)"),
+    "version": "US.MerchantFleet",
+    "release_date": "2026-06-18",
+    "download_date": "2026-09",
+    "licence": "UNCTADstat terms of use",
+    "doi_or_url": "https://unctadstat.unctad.org/datacentre/dataviewer/US.MerchantFleet",
     "checksum_note": "recorded at intake",
 }
 
